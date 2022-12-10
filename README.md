@@ -42,3 +42,5 @@ Uncategorized
 :red_circle:  [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) [<sub><sup> Tree, Depth-First Search, Binary Tree </sup></sub>]
 
+:red_circle:  [1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) [<sub><sup> String, Tree, Depth-First Search, Binary Tree </sup></sub>]
+
