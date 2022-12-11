@@ -76,3 +76,5 @@ Uncategorized
 
 :yellow_circle:  [1457. Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) [<sub><sup> Bit Manipulation, Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
 
+:green_circle:	 [112. Path Sum](https://leetcode.com/problems/path-sum/) [<sub><sup> Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
+
