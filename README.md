@@ -86,3 +86,5 @@ Uncategorized
 
 :yellow_circle:  [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) [<sub><sup> Tree, Depth-First Search, Binary Search Tree, Binary Tree </sup></sub>]
 
+:yellow_circle:  [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) [<sub><sup> Array, Hash Table, Divide and Conquer, Tree, Binary Tree </sup></sub>]
+
