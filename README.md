@@ -90,3 +90,5 @@ Uncategorized
 
 :yellow_circle:  [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) [<sub><sup> Binary Search, Tree, Depth-First Search, Binary Tree </sup></sub>]
 
+:green_circle:	 [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) [<sub><sup> Tree, Depth-First Search, Binary Search Tree, Binary Tree </sup></sub>]
+
