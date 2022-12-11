@@ -68,3 +68,5 @@ Uncategorized
 
 :yellow_circle:  [814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) [<sub><sup> Tree, Depth-First Search, Binary Tree </sup></sub>]
 
+:green_circle:	 [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) [<sub><sup> String, Tree, Depth-First Search, Binary Tree </sup></sub>]
+
