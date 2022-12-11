@@ -54,3 +54,5 @@ Uncategorized
 
 :yellow_circle:  [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) [<sub><sup> Tree, Depth-First Search, Binary Tree </sup></sub>]
 
+:yellow_circle:  [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) [<sub><sup> Tree, Depth-First Search, Binary Search Tree, Binary Tree </sup></sub>]
+
