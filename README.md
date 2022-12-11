@@ -70,3 +70,5 @@ Uncategorized
 
 :green_circle:	 [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) [<sub><sup> String, Tree, Depth-First Search, Binary Tree </sup></sub>]
 
+:green_circle:	 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) [<sub><sup> Stack, Tree, Depth-First Search, Binary Tree </sup></sub>]
+
