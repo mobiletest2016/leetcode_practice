@@ -58,3 +58,5 @@ Uncategorized
 
 :green_circle:	 [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) [<sub><sup> Array, Divide and Conquer, Tree, Binary Search Tree, Binary Tree </sup></sub>]
 
+:yellow_circle:  [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) [<sub><sup> Tree, Depth-First Search, Binary Search Tree, Binary Tree </sup></sub>]
+
