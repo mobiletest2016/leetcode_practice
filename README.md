@@ -56,3 +56,5 @@ Uncategorized
 
 :yellow_circle:  [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) [<sub><sup> Tree, Depth-First Search, Binary Search Tree, Binary Tree </sup></sub>]
 
+:green_circle:	 [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) [<sub><sup> Array, Divide and Conquer, Tree, Binary Search Tree, Binary Tree </sup></sub>]
+
