@@ -78,3 +78,5 @@ Uncategorized
 
 :green_circle:	 [112. Path Sum](https://leetcode.com/problems/path-sum/) [<sub><sup> Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
 
+:yellow_circle:  [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/) [<sub><sup> Backtracking, Tree, Depth-First Search, Binary Tree </sup></sub>]
+
