@@ -50,3 +50,5 @@ Uncategorized
 
 :yellow_circle:  [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) [<sub><sup> Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
 
+:yellow_circle:  [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) [<sub><sup> Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
+
