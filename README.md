@@ -62,3 +62,5 @@ Uncategorized
 
 :green_circle:	 [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) [<sub><sup> Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
 
+:red_circle:  [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) [<sub><sup> Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
+
