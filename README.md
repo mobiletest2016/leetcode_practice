@@ -34,19 +34,23 @@ DFS/BFS
 :red_circle:  [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) [<sub><sup> Array, Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Topological Sort, Memoization, Matrix </sup></sub>]
 
 
-Uncategorized
+Binary Tree/Binary Search Tree/N-ary Tree
 ------
+:green_circle:	 [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) [<sub><sup> Tree, Depth-First Search, Binary Search Tree, Binary Tree </sup></sub>]
 
-:yellow_circle:  [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) [<sub><sup> Array, Hash Table, Binary Search, Sliding Window, Prefix Sum </sup></sub>]
+:green_circle:	 [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) [<sub><sup> String, Tree, Depth-First Search, Binary Tree </sup></sub>]
 
-:red_circle:  [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+:green_circle:	 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) [<sub><sup> Stack, Tree, Depth-First Search, Binary Tree </sup></sub>]
+
+:green_circle:	 [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) [<sub><sup> Tree, Depth-First Search, Binary Tree </sup></sub>]
+
+:green_circle:	 [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) [<sub><sup> Array, Divide and Conquer, Tree, Binary Search Tree, Binary Tree </sup></sub>]
+
+:green_circle:	 [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) [<sub><sup> Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
+
+:green_circle:	 [112. Path Sum](https://leetcode.com/problems/path-sum/) [<sub><sup> Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
+
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) [<sub><sup> Tree, Depth-First Search, Binary Tree </sup></sub>]
-
-:red_circle:  [1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) [<sub><sup> String, Tree, Depth-First Search, Binary Tree </sup></sub>]
-
-:red_circle:  [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) [<sub><sup> Dynamic Programming, Tree, Depth-First Search, Binary Tree </sup></sub>]
-
-:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) [<sub><sup> Dynamic Programming, Tree, Depth-First Search, Binary Tree </sup></sub>]
 
 :yellow_circle:  [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) [<sub><sup> Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
 
@@ -56,27 +60,13 @@ Uncategorized
 
 :yellow_circle:  [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) [<sub><sup> Tree, Depth-First Search, Binary Search Tree, Binary Tree </sup></sub>]
 
-:green_circle:	 [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) [<sub><sup> Array, Divide and Conquer, Tree, Binary Search Tree, Binary Tree </sup></sub>]
-
 :yellow_circle:  [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) [<sub><sup> Tree, Depth-First Search, Binary Search Tree, Binary Tree </sup></sub>]
-
-:green_circle:	 [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) [<sub><sup> Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
-
-:red_circle:  [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) [<sub><sup> Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
 
 :yellow_circle:  [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) [<sub><sup> Tree, Breadth-First Search </sup></sub>]
 
 :yellow_circle:  [814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) [<sub><sup> Tree, Depth-First Search, Binary Tree </sup></sub>]
 
-:green_circle:	 [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) [<sub><sup> String, Tree, Depth-First Search, Binary Tree </sup></sub>]
-
-:green_circle:	 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) [<sub><sup> Stack, Tree, Depth-First Search, Binary Tree </sup></sub>]
-
-:green_circle:	 [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) [<sub><sup> Tree, Depth-First Search, Binary Tree </sup></sub>]
-
 :yellow_circle:  [1457. Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) [<sub><sup> Bit Manipulation, Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
-
-:green_circle:	 [112. Path Sum](https://leetcode.com/problems/path-sum/) [<sub><sup> Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
 
 :yellow_circle:  [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/) [<sub><sup> Backtracking, Tree, Depth-First Search, Binary Tree </sup></sub>]
 
@@ -90,5 +80,17 @@ Uncategorized
 
 :yellow_circle:  [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) [<sub><sup> Binary Search, Tree, Depth-First Search, Binary Tree </sup></sub>]
 
-:green_circle:	 [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) [<sub><sup> Tree, Depth-First Search, Binary Search Tree, Binary Tree </sup></sub>]
+:red_circle:  [1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) [<sub><sup> String, Tree, Depth-First Search, Binary Tree </sup></sub>]
 
+:red_circle:  [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) [<sub><sup> Dynamic Programming, Tree, Depth-First Search, Binary Tree </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) [<sub><sup> Dynamic Programming, Tree, Depth-First Search, Binary Tree </sup></sub>]
+
+:red_circle:  [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) [<sub><sup> Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
+
+Uncategorized
+------
+
+:yellow_circle:  [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) [<sub><sup> Array, Hash Table, Binary Search, Sliding Window, Prefix Sum </sup></sub>]
+
+:red_circle:  [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
