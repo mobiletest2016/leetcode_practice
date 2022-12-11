@@ -88,3 +88,5 @@ Uncategorized
 
 :yellow_circle:  [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) [<sub><sup> Array, Hash Table, Divide and Conquer, Tree, Binary Tree </sup></sub>]
 
+:yellow_circle:  [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) [<sub><sup> Binary Search, Tree, Depth-First Search, Binary Tree </sup></sub>]
+
