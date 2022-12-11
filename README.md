@@ -66,3 +66,5 @@ Uncategorized
 
 :yellow_circle:  [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) [<sub><sup> Tree, Breadth-First Search </sup></sub>]
 
+:yellow_circle:  [814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) [<sub><sup> Tree, Depth-First Search, Binary Tree </sup></sub>]
+
