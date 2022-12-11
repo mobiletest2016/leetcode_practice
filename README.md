@@ -52,3 +52,5 @@ Uncategorized
 
 :yellow_circle:  [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) [<sub><sup> Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
 
+:yellow_circle:  [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) [<sub><sup> Tree, Depth-First Search, Binary Tree </sup></sub>]
+
