@@ -82,3 +82,5 @@ Uncategorized
 
 :yellow_circle:  [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) [<sub><sup> Tree, Breadth-First Search, Binary Tree </sup></sub>]
 
+:yellow_circle:  [951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) [<sub><sup> Tree, Depth-First Search, Binary Tree </sup></sub>]
+
