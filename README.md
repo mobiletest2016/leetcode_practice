@@ -84,3 +84,5 @@ Uncategorized
 
 :yellow_circle:  [951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) [<sub><sup> Tree, Depth-First Search, Binary Tree </sup></sub>]
 
+:yellow_circle:  [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) [<sub><sup> Tree, Depth-First Search, Binary Search Tree, Binary Tree </sup></sub>]
+
