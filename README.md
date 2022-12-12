@@ -107,3 +107,5 @@ Uncategorized
 
 :yellow_circle:  [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) [<sub><sup> String, Dynamic Programming </sup></sub>]
 
+:green_circle:	 [1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) [<sub><sup> Two Pointers, String </sup></sub>]
+
