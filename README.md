@@ -7,6 +7,8 @@ Arrays + Hashing
 
 :yellow_circle:  [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [<sub><sup> Hash Table, String, Sliding Window </sup></sub>]
 
+:yellow_circle:  [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [<sub><sup> Hash Table, String, Sliding Window </sup></sub>]
+
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) [<sub><sup> Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect </sup></sub>]
 
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) [<sub><sup> Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting </sup></sub>]
