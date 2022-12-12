@@ -105,3 +105,5 @@ Uncategorized
 
 :yellow_circle:  [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) [<sub><sup> String, Dynamic Programming </sup></sub>]
 
+:yellow_circle:  [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) [<sub><sup> String, Dynamic Programming </sup></sub>]
+
