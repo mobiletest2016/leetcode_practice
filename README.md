@@ -98,3 +98,5 @@ Uncategorized
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [72. Edit Distance](https://leetcode.com/problems/edit-distance) [<sub><sup> String, Dynamic Programming </sup></sub>]
 
+:yellow_circle:  [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) [<sub><sup> String, Dynamic Programming </sup></sub>]
+
