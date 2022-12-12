@@ -94,3 +94,5 @@ Uncategorized
 :yellow_circle:  [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) [<sub><sup> Array, Hash Table, Binary Search, Sliding Window, Prefix Sum </sup></sub>]
 
 :red_circle:  [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+:yellow_circle:  [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings) [<sub><sup> String, Dynamic Programming </sup></sub>]
+
