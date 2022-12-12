@@ -94,9 +94,10 @@ Uncategorized
 :yellow_circle:  [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) [<sub><sup> Array, Hash Table, Binary Search, Sliding Window, Prefix Sum </sup></sub>]
 
 :red_circle:  [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
-:yellow_circle:  [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings) [<sub><sup> String, Dynamic Programming </sup></sub>]
 
-:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [72. Edit Distance](https://leetcode.com/problems/edit-distance) [<sub><sup> String, Dynamic Programming </sup></sub>]
+:yellow_circle:  [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) [<sub><sup> String, Dynamic Programming </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [72. Edit Distance](https://leetcode.com/problems/edit-distance/) [<sub><sup> String, Dynamic Programming </sup></sub>]
 
 :yellow_circle:  [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) [<sub><sup> String, Dynamic Programming </sup></sub>]
 

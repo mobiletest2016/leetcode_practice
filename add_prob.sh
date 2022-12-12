@@ -14,7 +14,11 @@ fi
 
 url="$1"
 
-url=$(echo "https${url#*https}")
+url=$(echo "https://${url#*https://}" | xargs)
+if [[ $url != */ ]];
+then
+	url=$(echo "$url/")
+fi
 echo "Final URL: $url"
 
 if grep -q "$url" README.md; then
