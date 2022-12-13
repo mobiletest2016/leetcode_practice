@@ -119,3 +119,5 @@ Uncategorized
 
 :yellow_circle:  [55. Jump Game](https://leetcode.com/problems/jump-game/) [<sub><sup> Array, Dynamic Programming, Greedy </sup></sub>]
 
+:yellow_circle:  [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) [<sub><sup> Array, Dynamic Programming, Greedy </sup></sub>]
+
