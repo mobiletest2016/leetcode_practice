@@ -121,3 +121,5 @@ Uncategorized
 
 :yellow_circle:  [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) [<sub><sup> Array, Dynamic Programming, Greedy </sup></sub>]
 
+:yellow_circle:  [2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) [<sub><sup> Array, Hash Table, Greedy, Counting </sup></sub>]
+
