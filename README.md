@@ -131,3 +131,5 @@ Uncategorized
 
 :yellow_circle:  [90. Subsets II](https://leetcode.com/problems/subsets-ii/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
 
+:yellow_circle:  [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
