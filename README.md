@@ -127,3 +127,5 @@ Uncategorized
 
 :red_circle:  [403. Frog Jump](https://leetcode.com/problems/frog-jump/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
+:yellow_circle:  [78. Subsets](https://leetcode.com/problems/subsets/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
+
