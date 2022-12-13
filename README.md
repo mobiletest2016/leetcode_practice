@@ -125,3 +125,5 @@ Uncategorized
 
 :yellow_circle:  [2498. Frog Jump II](https://leetcode.com/problems/frog-jump-ii/) [<sub><sup>  </sup></sub>]
 
+:red_circle:  [403. Frog Jump](https://leetcode.com/problems/frog-jump/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
