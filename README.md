@@ -26,9 +26,11 @@ Two Pointer
 
 :yellow_circle:  [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) [<sub><sup> Array, Two Pointers, Sorting </sup></sub>]
 
+:green_circle:	 [1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) [<sub><sup> Two Pointers, String </sup></sub>]
 
 DFS/BFS
 ------
+
 :yellow_circle:  [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) [<sub><sup> Array, Breadth-First Search, Matrix </sup></sub>]
 
 :yellow_circle:  [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Union Find, Matrix </sup></sub>]
@@ -38,6 +40,7 @@ DFS/BFS
 
 Binary Tree/Binary Search Tree/N-ary Tree
 ------
+
 :green_circle:	 [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) [<sub><sup> Tree, Depth-First Search, Binary Search Tree, Binary Tree </sup></sub>]
 
 :green_circle:	 [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) [<sub><sup> String, Tree, Depth-First Search, Binary Tree </sup></sub>]
@@ -90,30 +93,10 @@ Binary Tree/Binary Search Tree/N-ary Tree
 
 :red_circle:  [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) [<sub><sup> Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
 
-Uncategorized
+Array + Dynamic Programming
 ------
 
-:yellow_circle:  [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) [<sub><sup> Array, Hash Table, Binary Search, Sliding Window, Prefix Sum </sup></sub>]
-
-:red_circle:  [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
-
-:yellow_circle:  [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) [<sub><sup> String, Dynamic Programming </sup></sub>]
-
-:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [72. Edit Distance](https://leetcode.com/problems/edit-distance/) [<sub><sup> String, Dynamic Programming </sup></sub>]
-
-:yellow_circle:  [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) [<sub><sup> String, Dynamic Programming </sup></sub>]
-
-:yellow_circle:  [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) [<sub><sup> String, Dynamic Programming </sup></sub>]
-
-:yellow_circle:  [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) [<sub><sup> String, Dynamic Programming </sup></sub>]
-
-:green_circle:	 [1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) [<sub><sup> Two Pointers, String </sup></sub>]
-
 :yellow_circle:  [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
-
-:yellow_circle:  [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) [<sub><sup> Array, Binary Search, Sliding Window, Prefix Sum </sup></sub>]
-
-:green_circle:	 [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) [<sub><sup> Math, Dynamic Programming, Memoization </sup></sub>]
 
 :green_circle:	 [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
@@ -125,13 +108,37 @@ Uncategorized
 
 :yellow_circle:  [2498. Frog Jump II](https://leetcode.com/problems/frog-jump-ii/) [<sub><sup>  </sup></sub>]
 
+:yellow_circle:  [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
 :red_circle:  [403. Frog Jump](https://leetcode.com/problems/frog-jump/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
+:red_circle:  [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
+:red_circle:  [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
+String + Dynamic Programming
+------
+
+:yellow_circle:  [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) [<sub><sup> String, Dynamic Programming </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [72. Edit Distance](https://leetcode.com/problems/edit-distance/) [<sub><sup> String, Dynamic Programming </sup></sub>]
+
+:yellow_circle:  [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) [<sub><sup> String, Dynamic Programming </sup></sub>]
+
+:yellow_circle:  [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) [<sub><sup> String, Dynamic Programming </sup></sub>]
+
+:yellow_circle:  [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) [<sub><sup> String, Dynamic Programming </sup></sub>]
+
+Uncategorized
+------
+
+:yellow_circle:  [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) [<sub><sup> Array, Hash Table, Binary Search, Sliding Window, Prefix Sum </sup></sub>]
+
+:yellow_circle:  [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) [<sub><sup> Array, Binary Search, Sliding Window, Prefix Sum </sup></sub>]
+
+:green_circle:	 [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) [<sub><sup> Math, Dynamic Programming, Memoization </sup></sub>]
 
 :yellow_circle:  [78. Subsets](https://leetcode.com/problems/subsets/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
 
 :yellow_circle:  [90. Subsets II](https://leetcode.com/problems/subsets-ii/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
-
-:yellow_circle:  [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
-
-:red_circle:  [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
