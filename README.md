@@ -133,3 +133,5 @@ Uncategorized
 
 :yellow_circle:  [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
+:red_circle:  [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
