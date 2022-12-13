@@ -123,3 +123,5 @@ Uncategorized
 
 :yellow_circle:  [2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) [<sub><sup> Array, Hash Table, Greedy, Counting </sup></sub>]
 
+:yellow_circle:  [2498. Frog Jump II](https://leetcode.com/problems/frog-jump-ii/) [<sub><sup>  </sup></sub>]
+
