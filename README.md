@@ -117,3 +117,5 @@ Uncategorized
 
 :green_circle:	 [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
+:yellow_circle:  [55. Jump Game](https://leetcode.com/problems/jump-game/) [<sub><sup> Array, Dynamic Programming, Greedy </sup></sub>]
+
