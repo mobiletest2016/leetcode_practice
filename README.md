@@ -115,3 +115,5 @@ Uncategorized
 
 :green_circle:	 [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) [<sub><sup> Math, Dynamic Programming, Memoization </sup></sub>]
 
+:green_circle:	 [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
