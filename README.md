@@ -109,3 +109,5 @@ Uncategorized
 
 :green_circle:	 [1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) [<sub><sup> Two Pointers, String </sup></sub>]
 
+:yellow_circle:  [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
+
