@@ -177,3 +177,5 @@ Uncategorized
 
 :yellow_circle:  [877. Stone Game](https://leetcode.com/problems/stone-game/) [<sub><sup> Array, Math, Dynamic Programming, Game Theory </sup></sub>]
 
+:yellow_circle:  [221. Maximal Square](https://leetcode.com/problems/maximal-square/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
+
