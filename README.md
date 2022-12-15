@@ -169,3 +169,5 @@ Uncategorized
 
 :yellow_circle:  [90. Subsets II](https://leetcode.com/problems/subsets-ii/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
 
+:yellow_circle:  [62. Unique Paths](https://leetcode.com/problems/unique-paths/) [<sub><sup> Math, Dynamic Programming, Combinatorics </sup></sub>]
+
