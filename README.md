@@ -165,3 +165,5 @@ Uncategorized
 
 :yellow_circle:  [1856. Maximum Subarray Min-Product](https://leetcode.com/problems/maximum-subarray-min-product/) [<sub><sup> Array, Stack, Monotonic Stack, Prefix Sum </sup></sub>]
 
+:yellow_circle:  [343. Integer Break](https://leetcode.com/problems/integer-break/) [<sub><sup> Math, Dynamic Programming </sup></sub>]
+
