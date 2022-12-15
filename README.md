@@ -142,6 +142,22 @@ Binary Tree/Binary Search Tree/N-ary Tree
 
 2-D Array + Dynamic Programming
 ------
+:yellow_circle:  [62. Unique Paths](https://leetcode.com/problems/unique-paths/) [<sub><sup> Math, Dynamic Programming, Combinatorics </sup></sub>]
+
+:yellow_circle:  [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
+:yellow_circle:  [494. Target Sum](https://leetcode.com/problems/target-sum/) [<sub><sup> Array, Dynamic Programming, Backtracking </sup></sub>]
+
+:yellow_circle:  [877. Stone Game](https://leetcode.com/problems/stone-game/) [<sub><sup> Array, Math, Dynamic Programming, Game Theory </sup></sub>]
+
+:yellow_circle:  [221. Maximal Square](https://leetcode.com/problems/maximal-square/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
+
+:red_circle:  [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) [<sub><sup> String, Dynamic Programming </sup></sub>]
+
+:red_circle:  [1220. Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) [<sub><sup> Dynamic Programming </sup></sub>]
+
+:red_circle:  [1866. Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) [<sub><sup> Math, Dynamic Programming, Combinatorics </sup></sub>]
+
 
 String + Dynamic Programming
 ------
@@ -168,20 +184,4 @@ Uncategorized
 :yellow_circle:  [78. Subsets](https://leetcode.com/problems/subsets/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
 
 :yellow_circle:  [90. Subsets II](https://leetcode.com/problems/subsets-ii/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
-
-:yellow_circle:  [62. Unique Paths](https://leetcode.com/problems/unique-paths/) [<sub><sup> Math, Dynamic Programming, Combinatorics </sup></sub>]
-
-:yellow_circle:  [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
-
-:yellow_circle:  [494. Target Sum](https://leetcode.com/problems/target-sum/) [<sub><sup> Array, Dynamic Programming, Backtracking </sup></sub>]
-
-:yellow_circle:  [877. Stone Game](https://leetcode.com/problems/stone-game/) [<sub><sup> Array, Math, Dynamic Programming, Game Theory </sup></sub>]
-
-:yellow_circle:  [221. Maximal Square](https://leetcode.com/problems/maximal-square/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
-
-:red_circle:  [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) [<sub><sup> String, Dynamic Programming </sup></sub>]
-
-:red_circle:  [1220. Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) [<sub><sup> Dynamic Programming </sup></sub>]
-
-:red_circle:  [1866. Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) [<sub><sup> Math, Dynamic Programming, Combinatorics </sup></sub>]
 
