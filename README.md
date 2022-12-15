@@ -173,3 +173,5 @@ Uncategorized
 
 :yellow_circle:  [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
+:yellow_circle:  [494. Target Sum](https://leetcode.com/problems/target-sum/) [<sub><sup> Array, Dynamic Programming, Backtracking </sup></sub>]
+
