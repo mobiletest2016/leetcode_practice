@@ -183,3 +183,5 @@ Uncategorized
 
 :red_circle:  [1220. Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) [<sub><sup> Dynamic Programming </sup></sub>]
 
+:red_circle:  [1866. Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) [<sub><sup> Math, Dynamic Programming, Combinatorics </sup></sub>]
+
