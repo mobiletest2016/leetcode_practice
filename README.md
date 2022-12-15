@@ -181,3 +181,5 @@ Uncategorized
 
 :red_circle:  [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) [<sub><sup> String, Dynamic Programming </sup></sub>]
 
+:red_circle:  [1220. Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) [<sub><sup> Dynamic Programming </sup></sub>]
+
