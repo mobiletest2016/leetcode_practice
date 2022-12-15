@@ -97,7 +97,7 @@ Binary Tree/Binary Search Tree/N-ary Tree
 
 :red_circle:  [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) [<sub><sup> Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
 
-Array + Dynamic Programming
+1-D Array + Dynamic Programming
 ------
 
 :yellow_circle:  [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
@@ -119,6 +119,9 @@ Array + Dynamic Programming
 :red_circle:  [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
 :red_circle:  [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
+2-D Array + Dynamic Programming
+------
 
 String + Dynamic Programming
 ------
