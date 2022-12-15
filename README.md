@@ -149,3 +149,5 @@ Uncategorized
 
 :yellow_circle:  [90. Subsets II](https://leetcode.com/problems/subsets-ii/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
 
+:yellow_circle:  [198. House Robber](https://leetcode.com/problems/house-robber/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
