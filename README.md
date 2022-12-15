@@ -175,3 +175,5 @@ Uncategorized
 
 :yellow_circle:  [494. Target Sum](https://leetcode.com/problems/target-sum/) [<sub><sup> Array, Dynamic Programming, Backtracking </sup></sub>]
 
+:yellow_circle:  [877. Stone Game](https://leetcode.com/problems/stone-game/) [<sub><sup> Array, Math, Dynamic Programming, Game Theory </sup></sub>]
+
