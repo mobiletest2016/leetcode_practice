@@ -163,3 +163,5 @@ Uncategorized
 
 :yellow_circle:  [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
+:yellow_circle:  [1856. Maximum Subarray Min-Product](https://leetcode.com/problems/maximum-subarray-min-product/) [<sub><sup> Array, Stack, Monotonic Stack, Prefix Sum </sup></sub>]
+
