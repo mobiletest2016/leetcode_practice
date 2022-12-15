@@ -155,3 +155,5 @@ Uncategorized
 
 :yellow_circle:  [322. Coin Change](https://leetcode.com/problems/coin-change/) [<sub><sup> Array, Dynamic Programming, Breadth-First Search </sup></sub>]
 
+:yellow_circle:  [139. Word Break](https://leetcode.com/problems/word-break/) [<sub><sup> Hash Table, String, Dynamic Programming, Trie, Memoization </sup></sub>]
+
