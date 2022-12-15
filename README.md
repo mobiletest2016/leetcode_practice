@@ -157,3 +157,5 @@ Uncategorized
 
 :yellow_circle:  [139. Word Break](https://leetcode.com/problems/word-break/) [<sub><sup> Hash Table, String, Dynamic Programming, Trie, Memoization </sup></sub>]
 
+:yellow_circle:  [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
