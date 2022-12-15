@@ -100,9 +100,9 @@ Binary Tree/Binary Search Tree/N-ary Tree
 1-D Array + Dynamic Programming
 ------
 
-:yellow_circle:  [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
-
 :green_circle:	 [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
+:yellow_circle:  [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
 
 :yellow_circle:  [55. Jump Game](https://leetcode.com/problems/jump-game/) [<sub><sup> Array, Dynamic Programming, Greedy </sup></sub>]
 
@@ -113,6 +113,26 @@ Binary Tree/Binary Search Tree/N-ary Tree
 :yellow_circle:  [2498. Frog Jump II](https://leetcode.com/problems/frog-jump-ii/) [<sub><sup>  </sup></sub>]
 
 :yellow_circle:  [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
+:yellow_circle:  [198. House Robber](https://leetcode.com/problems/house-robber/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
+:yellow_circle:  [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) [<sub><sup> String, Dynamic Programming </sup></sub>]
+
+:yellow_circle:  [322. Coin Change](https://leetcode.com/problems/coin-change/) [<sub><sup> Array, Dynamic Programming, Breadth-First Search </sup></sub>]
+
+:yellow_circle:  [139. Word Break](https://leetcode.com/problems/word-break/) [<sub><sup> Hash Table, String, Dynamic Programming, Trie, Memoization </sup></sub>]
+
+:yellow_circle:  [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
+:yellow_circle:  [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/) [<sub><sup> Array, Hash Table, Dynamic Programming </sup></sub>]
+
+:yellow_circle:  [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
+:yellow_circle:  [1856. Maximum Subarray Min-Product](https://leetcode.com/problems/maximum-subarray-min-product/) [<sub><sup> Array, Stack, Monotonic Stack, Prefix Sum </sup></sub>]
+
+:yellow_circle:  [343. Integer Break](https://leetcode.com/problems/integer-break/) [<sub><sup> Math, Dynamic Programming </sup></sub>]
+
+:red_circle:  [691. Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/) [<sub><sup> Array, String, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask </sup></sub>]
 
 :red_circle:  [403. Frog Jump](https://leetcode.com/problems/frog-jump/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
@@ -148,24 +168,4 @@ Uncategorized
 :yellow_circle:  [78. Subsets](https://leetcode.com/problems/subsets/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
 
 :yellow_circle:  [90. Subsets II](https://leetcode.com/problems/subsets-ii/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
-
-:yellow_circle:  [198. House Robber](https://leetcode.com/problems/house-robber/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
-
-:yellow_circle:  [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) [<sub><sup> String, Dynamic Programming </sup></sub>]
-
-:yellow_circle:  [322. Coin Change](https://leetcode.com/problems/coin-change/) [<sub><sup> Array, Dynamic Programming, Breadth-First Search </sup></sub>]
-
-:yellow_circle:  [139. Word Break](https://leetcode.com/problems/word-break/) [<sub><sup> Hash Table, String, Dynamic Programming, Trie, Memoization </sup></sub>]
-
-:yellow_circle:  [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
-
-:yellow_circle:  [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/) [<sub><sup> Array, Hash Table, Dynamic Programming </sup></sub>]
-
-:yellow_circle:  [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
-
-:yellow_circle:  [1856. Maximum Subarray Min-Product](https://leetcode.com/problems/maximum-subarray-min-product/) [<sub><sup> Array, Stack, Monotonic Stack, Prefix Sum </sup></sub>]
-
-:yellow_circle:  [343. Integer Break](https://leetcode.com/problems/integer-break/) [<sub><sup> Math, Dynamic Programming </sup></sub>]
-
-:red_circle:  [691. Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/) [<sub><sup> Array, String, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask </sup></sub>]
 
