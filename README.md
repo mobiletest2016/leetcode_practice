@@ -167,3 +167,5 @@ Uncategorized
 
 :yellow_circle:  [343. Integer Break](https://leetcode.com/problems/integer-break/) [<sub><sup> Math, Dynamic Programming </sup></sub>]
 
+:red_circle:  [691. Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/) [<sub><sup> Array, String, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask </sup></sub>]
+
