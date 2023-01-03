@@ -34,6 +34,8 @@ Two Pointer
 
 :green_circle:	 [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [<sub><sup> Array, Two Pointers </sup></sub>]
 
+:yellow_circle:  [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) [<sub><sup> Array, Two Pointers </sup></sub>]
+
 DFS/BFS
 ------
 
