@@ -32,6 +32,8 @@ Two Pointer
 
 :green_circle:	 [1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) [<sub><sup> Two Pointers, String </sup></sub>]
 
+:green_circle:	 [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [<sub><sup> Array, Two Pointers </sup></sub>]
+
 DFS/BFS
 ------
 
