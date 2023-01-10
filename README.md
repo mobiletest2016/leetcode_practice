@@ -205,3 +205,5 @@ Uncategorized
 
 :yellow_circle:  [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) [<sub><sup> Array, Greedy, Sorting </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) [<sub><sup> Array, Greedy, Sorting </sup></sub>]
+
