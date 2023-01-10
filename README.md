@@ -207,3 +207,5 @@ Uncategorized
 
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) [<sub><sup> Array, Greedy, Sorting </sup></sub>]
 
+:green_circle:	 [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) [<sub><sup> Array, String </sup></sub>]
+
