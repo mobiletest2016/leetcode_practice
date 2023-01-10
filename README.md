@@ -189,3 +189,5 @@ Uncategorized
 
 :yellow_circle:  [90. Subsets II](https://leetcode.com/problems/subsets-ii/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
 
+:green_circle:	 [2389. Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) [<sub><sup> Array, Binary Search, Greedy, Sorting, Prefix Sum </sup></sub>]
+
