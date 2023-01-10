@@ -213,3 +213,5 @@ Uncategorized
 
 :green_circle:	 [290. Word Pattern](https://leetcode.com/problems/word-pattern/) [<sub><sup> Hash Table, String </sup></sub>]
 
+:yellow_circle:  [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) [<sub><sup> Backtracking, Depth-First Search, Breadth-First Search, Graph </sup></sub>]
+
