@@ -215,3 +215,5 @@ Uncategorized
 
 :yellow_circle:  [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) [<sub><sup> Backtracking, Depth-First Search, Breadth-First Search, Graph </sup></sub>]
 
+:yellow_circle:  [1962. Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) [<sub><sup> Array, Heap (Priority Queue) </sup></sub>]
+
