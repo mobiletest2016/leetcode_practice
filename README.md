@@ -211,3 +211,5 @@ Uncategorized
 
 :green_circle:	 [520. Detect Capital](https://leetcode.com/problems/detect-capital/) [<sub><sup> String </sup></sub>]
 
+:green_circle:	 [290. Word Pattern](https://leetcode.com/problems/word-pattern/) [<sub><sup> Hash Table, String </sup></sub>]
+
