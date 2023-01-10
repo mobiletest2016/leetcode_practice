@@ -219,3 +219,5 @@ Uncategorized
 
 :yellow_circle:  [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) [<sub><sup> Array, Greedy, Sorting </sup></sub>]
 
+:green_circle:	<picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) [<sub><sup> Stack, Design, Queue </sup></sub>]
+
