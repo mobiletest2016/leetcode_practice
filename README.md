@@ -217,3 +217,5 @@ Uncategorized
 
 :yellow_circle:  [1962. Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) [<sub><sup> Array, Heap (Priority Queue) </sup></sub>]
 
+:yellow_circle:  [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) [<sub><sup> Array, Greedy, Sorting </sup></sub>]
+
