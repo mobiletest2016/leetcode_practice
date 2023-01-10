@@ -195,3 +195,5 @@ Uncategorized
 
 :yellow_circle:  [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) [<sub><sup> Array, Two Pointers, Greedy, Sorting </sup></sub>]
 
+:red_circle:  [1847. Closest Room](https://leetcode.com/problems/closest-room/) [<sub><sup> Array, Binary Search, Sorting </sup></sub>]
+
