@@ -197,3 +197,5 @@ Uncategorized
 
 :red_circle:  [1847. Closest Room](https://leetcode.com/problems/closest-room/) [<sub><sup> Array, Binary Search, Sorting </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) [<sub><sup> Array, Binary Search, Dynamic Programming, Sorting </sup></sub>]
+
