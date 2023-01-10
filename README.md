@@ -191,3 +191,5 @@ Uncategorized
 
 :green_circle:	 [2389. Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) [<sub><sup> Array, Binary Search, Greedy, Sorting, Prefix Sum </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) [<sub><sup> Dynamic Programming </sup></sub>]
+
