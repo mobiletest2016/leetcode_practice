@@ -203,3 +203,5 @@ Uncategorized
 
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [134. Gas Station](https://leetcode.com/problems/gas-station/) [<sub><sup> Array, Greedy </sup></sub>]
 
+:yellow_circle:  [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) [<sub><sup> Array, Greedy, Sorting </sup></sub>]
+
