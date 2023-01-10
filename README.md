@@ -209,3 +209,5 @@ Uncategorized
 
 :green_circle:	 [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) [<sub><sup> Array, String </sup></sub>]
 
+:green_circle:	 [520. Detect Capital](https://leetcode.com/problems/detect-capital/) [<sub><sup> String </sup></sub>]
+
