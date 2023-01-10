@@ -221,3 +221,5 @@ Uncategorized
 
 :green_circle:	<picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) [<sub><sup> Stack, Design, Queue </sup></sub>]
 
+:yellow_circle:  [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) [<sub><sup> Depth-First Search, Breadth-First Search, Graph </sup></sub>]
+
