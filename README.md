@@ -176,6 +176,22 @@ String + Dynamic Programming
 
 :yellow_circle:  [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) [<sub><sup> String, Dynamic Programming </sup></sub>]
 
+
+Greedy
+------
+
+:green_circle:	 [2389. Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) [<sub><sup> Array, Binary Search, Greedy, Sorting, Prefix Sum </sup></sub>]
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [134. Gas Station](https://leetcode.com/problems/gas-station/) [<sub><sup> Array, Greedy </sup></sub>]
+
+:yellow_circle:  [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) [<sub><sup> Array, Greedy, Sorting </sup></sub>]
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) [<sub><sup> Array, Greedy, Sorting </sup></sub>]
+
+:yellow_circle:  [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) [<sub><sup> Array, Greedy, Sorting </sup></sub>]
+
+:yellow_circle:  [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) [<sub><sup> Array, Two Pointers, Greedy, Sorting </sup></sub>]
+
 Uncategorized
 ------
 
@@ -189,23 +205,13 @@ Uncategorized
 
 :yellow_circle:  [90. Subsets II](https://leetcode.com/problems/subsets-ii/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
 
-:green_circle:	 [2389. Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) [<sub><sup> Array, Binary Search, Greedy, Sorting, Prefix Sum </sup></sub>]
-
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) [<sub><sup> Dynamic Programming </sup></sub>]
-
-:yellow_circle:  [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) [<sub><sup> Array, Two Pointers, Greedy, Sorting </sup></sub>]
 
 :red_circle:  [1847. Closest Room](https://leetcode.com/problems/closest-room/) [<sub><sup> Array, Binary Search, Sorting </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) [<sub><sup> Array, Binary Search, Dynamic Programming, Sorting </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) [<sub><sup> Array, Hash Table, Math, Geometry </sup></sub>]
-
-:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [134. Gas Station](https://leetcode.com/problems/gas-station/) [<sub><sup> Array, Greedy </sup></sub>]
-
-:yellow_circle:  [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) [<sub><sup> Array, Greedy, Sorting </sup></sub>]
-
-:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) [<sub><sup> Array, Greedy, Sorting </sup></sub>]
 
 :green_circle:	 [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) [<sub><sup> Array, String </sup></sub>]
 
@@ -216,8 +222,6 @@ Uncategorized
 :yellow_circle:  [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) [<sub><sup> Backtracking, Depth-First Search, Breadth-First Search, Graph </sup></sub>]
 
 :yellow_circle:  [1962. Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) [<sub><sup> Array, Heap (Priority Queue) </sup></sub>]
-
-:yellow_circle:  [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) [<sub><sup> Array, Greedy, Sorting </sup></sub>]
 
 :green_circle:	<picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) [<sub><sup> Stack, Design, Queue </sup></sub>]
 
