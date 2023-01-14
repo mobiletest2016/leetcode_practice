@@ -36,6 +36,17 @@ Two Pointer
 
 :yellow_circle:  [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) [<sub><sup> Array, Two Pointers </sup></sub>]
 
+
+Sliding Window
+------
+
+:green_circle:	 [1876. Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) [<sub><sup> Hash Table, String, Sliding Window, Counting </sup></sub>]
+
+:green_circle:	 [2379. Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) [<sub><sup> String, Sliding Window </sup></sub>]
+
+:green_circle:	<picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1763. Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/) [<sub><sup> Hash Table, String, Divide and Conquer, Bit Manipulation, Sliding Window </sup></sub>]
+
+
 DFS/BFS
 ------
 
@@ -234,10 +245,4 @@ Uncategorized
 :yellow_circle:  [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) [<sub><sup> Linked List </sup></sub>]
 
 :yellow_circle:  [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) [<sub><sup> Hash Table, String, Sorting </sup></sub>]
-
-:green_circle:	 [1876. Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) [<sub><sup> Hash Table, String, Sliding Window, Counting </sup></sub>]
-
-:green_circle:	 [2379. Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) [<sub><sup> String, Sliding Window </sup></sub>]
-
-:green_circle:	<picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1763. Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/) [<sub><sup> Hash Table, String, Divide and Conquer, Bit Manipulation, Sliding Window </sup></sub>]
 
