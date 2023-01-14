@@ -237,3 +237,5 @@ Uncategorized
 
 :green_circle:	 [1876. Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) [<sub><sup> Hash Table, String, Sliding Window, Counting </sup></sub>]
 
+:green_circle:	 [2379. Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) [<sub><sup> String, Sliding Window </sup></sub>]
+
