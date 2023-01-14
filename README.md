@@ -235,3 +235,5 @@ Uncategorized
 
 :yellow_circle:  [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) [<sub><sup> Hash Table, String, Sorting </sup></sub>]
 
+:green_circle:	 [1876. Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) [<sub><sup> Hash Table, String, Sliding Window, Counting </sup></sub>]
+
