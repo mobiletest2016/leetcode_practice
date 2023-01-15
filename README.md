@@ -116,6 +116,8 @@ Binary Tree/Binary Search Tree/N-ary Tree
 
 :red_circle:  [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) [<sub><sup> Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2246. Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/) [<sub><sup> Array, String, Tree, Depth-First Search, Graph, Topological Sort </sup></sub>]
+
 1-D Array + Dynamic Programming
 ------
 
