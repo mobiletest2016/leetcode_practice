@@ -153,6 +153,10 @@ Binary Tree/Binary Search Tree/N-ary Tree
 
 :yellow_circle:  [343. Integer Break](https://leetcode.com/problems/integer-break/) [<sub><sup> Math, Dynamic Programming </sup></sub>]
 
+:yellow_circle:  [1911. Maximum Alternating Subsequence Sum](https://leetcode.com/problems/maximum-alternating-subsequence-sum/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
+:yellow_circle:  [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
 :red_circle:  [691. Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/) [<sub><sup> Array, String, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask </sup></sub>]
 
 :red_circle:  [403. Frog Jump](https://leetcode.com/problems/frog-jump/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
@@ -160,6 +164,9 @@ Binary Tree/Binary Search Tree/N-ary Tree
 :red_circle:  [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
 :red_circle:  [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
+:red_circle:  [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
 
 2-D Array + Dynamic Programming
 ------
@@ -173,6 +180,8 @@ Binary Tree/Binary Search Tree/N-ary Tree
 
 :yellow_circle:  [221. Maximal Square](https://leetcode.com/problems/maximal-square/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
 
+:yellow_circle:  [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
+
 :red_circle:  [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) [<sub><sup> String, Dynamic Programming </sup></sub>]
 
 :red_circle:  [1220. Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) [<sub><sup> Dynamic Programming </sup></sub>]
@@ -185,19 +194,25 @@ String + Dynamic Programming
 
 :yellow_circle:  [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) [<sub><sup> String, Dynamic Programming </sup></sub>]
 
-:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [72. Edit Distance](https://leetcode.com/problems/edit-distance/) [<sub><sup> String, Dynamic Programming </sup></sub>]
-
 :yellow_circle:  [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) [<sub><sup> String, Dynamic Programming </sup></sub>]
 
 :yellow_circle:  [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) [<sub><sup> String, Dynamic Programming </sup></sub>]
 
 :yellow_circle:  [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) [<sub><sup> String, Dynamic Programming </sup></sub>]
 
+:yellow_circle:  [97. Interleaving String](https://leetcode.com/problems/interleaving-string/) [<sub><sup> String, Dynamic Programming </sup></sub>]
+
+:red_circle:  [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) [<sub><sup> String, Dynamic Programming, Recursion </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [72. Edit Distance](https://leetcode.com/problems/edit-distance/) [<sub><sup> String, Dynamic Programming </sup></sub>]
+
 
 Greedy
 ------
 
 :green_circle:	 [2389. Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) [<sub><sup> Array, Binary Search, Greedy, Sorting, Prefix Sum </sup></sub>]
+
+:green_circle:	 [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) [<sub><sup> Array, Math, Greedy, Sorting </sup></sub>]
 
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [134. Gas Station](https://leetcode.com/problems/gas-station/) [<sub><sup> Array, Greedy </sup></sub>]
 
@@ -266,19 +281,5 @@ Uncategorized
 
 :yellow_circle:  [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) [<sub><sup> Hash Table, String, Sorting </sup></sub>]
 
-:yellow_circle:  [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
-
-:yellow_circle:  [97. Interleaving String](https://leetcode.com/problems/interleaving-string/) [<sub><sup> String, Dynamic Programming </sup></sub>]
-
-:yellow_circle:  [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
-
-:yellow_circle:  [1911. Maximum Alternating Subsequence Sum](https://leetcode.com/problems/maximum-alternating-subsequence-sum/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
-
-:red_circle:  [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
-
-:red_circle:  [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) [<sub><sup> String, Dynamic Programming, Recursion </sup></sub>]
-
 :yellow_circle:  [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) [<sub><sup> Array, Binary Search, Matrix </sup></sub>]
-
-:green_circle:	 [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) [<sub><sup> Array, Math, Greedy, Sorting </sup></sub>]
 
