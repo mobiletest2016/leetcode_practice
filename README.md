@@ -276,3 +276,5 @@ Uncategorized
 
 :red_circle:  [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
+:red_circle:  [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) [<sub><sup> String, Dynamic Programming, Recursion </sup></sub>]
+
