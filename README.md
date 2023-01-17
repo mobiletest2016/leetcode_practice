@@ -209,6 +209,24 @@ Greedy
 
 :yellow_circle:  [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) [<sub><sup> Array, Two Pointers, Greedy, Sorting </sup></sub>]
 
+Intervals
+------
+
+:yellow_circle:  [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) [<sub><sup> Array, Dynamic Programming, Greedy, Sorting </sup></sub>]
+
+:yellow_circle:  [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) [<sub><sup> Array, Sorting </sup></sub>]
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [57. Insert Interval](https://leetcode.com/problems/insert-interval/) [<sub><sup> Array </sup></sub>]
+
+:yellow_circle:  [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/) [<sub><sup> Binary Search, Design, Segment Tree, Ordered Set </sup></sub>]
+
+:yellow_circle:  [731. My Calendar II](https://leetcode.com/problems/my-calendar-ii/) [<sub><sup> Binary Search, Design, Segment Tree, Ordered Set </sup></sub>]
+
+:red_circle:  [732. My Calendar III](https://leetcode.com/problems/my-calendar-iii/) [<sub><sup> Binary Search, Design, Segment Tree, Ordered Set </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1851. Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/) [<sub><sup> Array, Binary Search, Line Sweep, Sorting, Heap (Priority Queue) </sup></sub>]
+
+
 Uncategorized
 ------
 
@@ -247,18 +265,4 @@ Uncategorized
 :yellow_circle:  [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) [<sub><sup> Linked List </sup></sub>]
 
 :yellow_circle:  [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) [<sub><sup> Hash Table, String, Sorting </sup></sub>]
-
-:yellow_circle:  [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) [<sub><sup> Array, Dynamic Programming, Greedy, Sorting </sup></sub>]
-
-:yellow_circle:  [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) [<sub><sup> Array, Sorting </sup></sub>]
-
-:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [57. Insert Interval](https://leetcode.com/problems/insert-interval/) [<sub><sup> Array </sup></sub>]
-
-:yellow_circle:  [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/) [<sub><sup> Binary Search, Design, Segment Tree, Ordered Set </sup></sub>]
-
-:yellow_circle:  [731. My Calendar II](https://leetcode.com/problems/my-calendar-ii/) [<sub><sup> Binary Search, Design, Segment Tree, Ordered Set </sup></sub>]
-
-:red_circle:  [732. My Calendar III](https://leetcode.com/problems/my-calendar-iii/) [<sub><sup> Binary Search, Design, Segment Tree, Ordered Set </sup></sub>]
-
-:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1851. Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/) [<sub><sup> Array, Binary Search, Line Sweep, Sorting, Heap (Priority Queue) </sup></sub>]
 
