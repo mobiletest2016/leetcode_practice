@@ -274,3 +274,5 @@ Uncategorized
 
 :yellow_circle:  [1911. Maximum Alternating Subsequence Sum](https://leetcode.com/problems/maximum-alternating-subsequence-sum/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
+:red_circle:  [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
