@@ -280,3 +280,5 @@ Uncategorized
 
 :yellow_circle:  [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) [<sub><sup> Array, Binary Search, Matrix </sup></sub>]
 
+:green_circle:	 [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) [<sub><sup> Array, Math, Greedy, Sorting </sup></sub>]
+
