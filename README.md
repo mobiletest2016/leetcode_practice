@@ -250,3 +250,5 @@ Uncategorized
 
 :yellow_circle:  [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) [<sub><sup> Array, Dynamic Programming, Greedy, Sorting </sup></sub>]
 
+:yellow_circle:  [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) [<sub><sup> Array, Sorting </sup></sub>]
+
