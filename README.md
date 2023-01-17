@@ -272,3 +272,5 @@ Uncategorized
 
 :yellow_circle:  [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
 
+:yellow_circle:  [1911. Maximum Alternating Subsequence Sum](https://leetcode.com/problems/maximum-alternating-subsequence-sum/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
