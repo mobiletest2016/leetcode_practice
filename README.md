@@ -278,3 +278,5 @@ Uncategorized
 
 :red_circle:  [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) [<sub><sup> String, Dynamic Programming, Recursion </sup></sub>]
 
+:yellow_circle:  [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) [<sub><sup> Array, Binary Search, Matrix </sup></sub>]
+
