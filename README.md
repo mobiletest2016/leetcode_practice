@@ -260,3 +260,5 @@ Uncategorized
 
 :red_circle:  [732. My Calendar III](https://leetcode.com/problems/my-calendar-iii/) [<sub><sup> Binary Search, Design, Segment Tree, Ordered Set </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1851. Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/) [<sub><sup> Array, Binary Search, Line Sweep, Sorting, Heap (Priority Queue) </sup></sub>]
+
