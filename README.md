@@ -2,6 +2,22 @@ Question Lists
 -----
 [NeetCode Practice](https://neetcode.io/practice)
 
+
+Links
+-----
+
+[A Concise Template for "Overlapping Interval Problem"](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/solutions/93735/a-concise-template-for-overlapping-interval-problem/)
+
+[The ART of Dynamic Programming - An Intuitive Approach: From Apprentice to Master](https://leetcode.com/discuss/general-discussion/712010/The-ART-of-Dynamic-Programming-An-Intuitive-Approach%3A-from-Apprentice-to-Master)
+
+[Powerful Ultimate Binary Search Template. Solved many problems](https://leetcode.com/discuss/general-discussion/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
+
+[How to practice for 2200+ rating in LC](https://leetcode.com/discuss/study-guide/1965086/How-to-practice-for-2200%2B-rating-in-LC)
+
+[LeetCode Top 100 Questions](https://leetcode.com/problem-list/top-100-liked-questions/)
+
+
+
 Arrays + Hashing
 ------
 
