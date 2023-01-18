@@ -141,6 +141,8 @@ Binary Tree/Binary Search Tree/N-ary Tree
 
 :yellow_circle:  [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
 
+:yellow_circle:  [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) [<sub><sup> Array, Divide and Conquer, Dynamic Programming </sup></sub>]
+
 :yellow_circle:  [55. Jump Game](https://leetcode.com/problems/jump-game/) [<sub><sup> Array, Dynamic Programming, Greedy </sup></sub>]
 
 :yellow_circle:  [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) [<sub><sup> Array, Dynamic Programming, Greedy </sup></sub>]
