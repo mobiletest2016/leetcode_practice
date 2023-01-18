@@ -145,6 +145,8 @@ Binary Tree/Binary Search Tree/N-ary Tree
 
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) [<sub><sup> Array, Divide and Conquer, Dynamic Programming, Queue, Monotonic Queue </sup></sub>]
 
+:yellow_circle:  [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
 :yellow_circle:  [55. Jump Game](https://leetcode.com/problems/jump-game/) [<sub><sup> Array, Dynamic Programming, Greedy </sup></sub>]
 
 :yellow_circle:  [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) [<sub><sup> Array, Dynamic Programming, Greedy </sup></sub>]
