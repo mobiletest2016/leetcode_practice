@@ -311,3 +311,5 @@ Uncategorized
 
 :red_circle:  [1289. Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
 
+:yellow_circle:  [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) [<sub><sup> Array, Dynamic Programming, Depth-First Search, Matrix, Simulation </sup></sub>]
+
