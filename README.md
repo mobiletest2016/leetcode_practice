@@ -305,3 +305,5 @@ Uncategorized
 
 :yellow_circle:  [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) [<sub><sup> Array, Binary Search, Matrix </sup></sub>]
 
+:yellow_circle:  [835. Image Overlap](https://leetcode.com/problems/image-overlap/) [<sub><sup> Array, Matrix </sup></sub>]
+
