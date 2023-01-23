@@ -73,7 +73,7 @@ DFS/BFS
 :red_circle:  [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) [<sub><sup> Array, Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Topological Sort, Memoization, Matrix </sup></sub>]
 
 
-Binary Tree/Binary Search Tree/N-ary Tree
+Binary Tree/Binary Search Tree
 ------
 
 :green_circle:	 [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) [<sub><sup> Tree, Depth-First Search, Binary Search Tree, Binary Tree </sup></sub>]
@@ -102,8 +102,6 @@ Binary Tree/Binary Search Tree/N-ary Tree
 
 :yellow_circle:  [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) [<sub><sup> Tree, Depth-First Search, Binary Search Tree, Binary Tree </sup></sub>]
 
-:yellow_circle:  [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) [<sub><sup> Tree, Breadth-First Search </sup></sub>]
-
 :yellow_circle:  [814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) [<sub><sup> Tree, Depth-First Search, Binary Tree </sup></sub>]
 
 :yellow_circle:  [1457. Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) [<sub><sup> Bit Manipulation, Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
@@ -120,10 +118,6 @@ Binary Tree/Binary Search Tree/N-ary Tree
 
 :yellow_circle:  [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) [<sub><sup> Binary Search, Tree, Depth-First Search, Binary Tree </sup></sub>]
 
-:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1443. Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) [<sub><sup> Hash Table, Tree, Depth-First Search, Breadth-First Search </sup></sub>]
-
-:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1519. Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/) [<sub><sup> Hash Table, Tree, Depth-First Search, Breadth-First Search, Counting </sup></sub>]
-
 :red_circle:  [1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) [<sub><sup> String, Tree, Depth-First Search, Binary Tree </sup></sub>]
 
 :red_circle:  [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) [<sub><sup> Dynamic Programming, Tree, Depth-First Search, Binary Tree </sup></sub>]
@@ -132,7 +126,18 @@ Binary Tree/Binary Search Tree/N-ary Tree
 
 :red_circle:  [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) [<sub><sup> Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
 
+
+N-ary Tree
+------
+
+:yellow_circle:  [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) [<sub><sup> Tree, Breadth-First Search </sup></sub>]
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1519. Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/) [<sub><sup> Hash Table, Tree, Depth-First Search, Breadth-First Search, Counting </sup></sub>]
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1443. Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) [<sub><sup> Hash Table, Tree, Depth-First Search, Breadth-First Search </sup></sub>]
+
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2246. Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/) [<sub><sup> Array, String, Tree, Depth-First Search, Graph, Topological Sort </sup></sub>]
+
 
 1-D Array + Dynamic Programming
 ------
