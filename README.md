@@ -143,6 +143,7 @@ N-ary Tree
 
 1-D Array + Dynamic Programming
 ------
+:green_circle:	 [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) [<sub><sup> Math, Dynamic Programming, Memoization </sup></sub>]
 
 :green_circle:	 [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
