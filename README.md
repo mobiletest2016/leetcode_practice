@@ -66,6 +66,8 @@ Sliding Window
 
 :yellow_circle:  [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [<sub><sup> Hash Table, String, Sliding Window </sup></sub>]
 
+:yellow_circle:  [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) [<sub><sup> Array, Hash Table, Sliding Window </sup></sub>]
+
 DFS/BFS
 ------
 
