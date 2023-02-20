@@ -91,6 +91,8 @@ Binary Tree/Binary Search Tree
 
 :green_circle:	 [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) [<sub><sup> Array, Divide and Conquer, Tree, Binary Search Tree, Binary Tree </sup></sub>]
 
+:green_circle:	<picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) [<sub><sup> Tree, Depth-First Search, Breadth-First Search, Binary Search Tree, Binary Tree </sup></sub>]
+
 :green_circle:	 [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) [<sub><sup> Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
 
 :green_circle:	 [112. Path Sum](https://leetcode.com/problems/path-sum/) [<sub><sup> Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
