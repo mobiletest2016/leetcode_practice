@@ -366,3 +366,5 @@ Uncategorized
 
 :yellow_circle:  [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) [<sub><sup> Array, Binary Search </sup></sub>]
 
+:yellow_circle:  [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) [<sub><sup> Hash Table, String, Binary Search, Design </sup></sub>]
+
