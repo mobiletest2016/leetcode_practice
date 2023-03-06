@@ -356,3 +356,5 @@ Uncategorized
 
 :green_circle:	 [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) [<sub><sup> Binary Search, Interactive </sup></sub>]
 
+:green_circle:	 [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/) [<sub><sup> Math, Binary Search </sup></sub>]
+
