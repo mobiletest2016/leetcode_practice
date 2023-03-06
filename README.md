@@ -344,3 +344,5 @@ Uncategorized
 
 :yellow_circle:  [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) [<sub><sup> Array, Binary Search </sup></sub>]
 
+:yellow_circle:  [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) [<sub><sup> Array, Binary Search </sup></sub>]
+
