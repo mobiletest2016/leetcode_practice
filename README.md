@@ -338,3 +338,5 @@ Uncategorized
 
 :yellow_circle:  [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) [<sub><sup> Array, Binary Search </sup></sub>]
 
+:yellow_circle:  [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) [<sub><sup> Array, Binary Search </sup></sub>]
+
