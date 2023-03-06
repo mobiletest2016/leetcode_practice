@@ -362,3 +362,5 @@ Uncategorized
 
 :green_circle:	 [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) [<sub><sup> Math, Binary Search </sup></sub>]
 
+:yellow_circle:  [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) [<sub><sup> Array, Binary Search </sup></sub>]
+
