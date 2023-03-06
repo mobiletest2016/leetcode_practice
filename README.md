@@ -360,3 +360,5 @@ Uncategorized
 
 :green_circle:	 [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) [<sub><sup> Array, Two Pointers, Sorting </sup></sub>]
 
+:green_circle:	 [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) [<sub><sup> Math, Binary Search </sup></sub>]
+
