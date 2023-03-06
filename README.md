@@ -336,3 +336,5 @@ Uncategorized
 
 :green_circle:	 [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) [<sub><sup> Array, Binary Search </sup></sub>]
 
+:yellow_circle:  [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) [<sub><sup> Array, Binary Search </sup></sub>]
+
