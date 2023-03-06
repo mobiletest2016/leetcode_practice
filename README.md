@@ -358,3 +358,5 @@ Uncategorized
 
 :green_circle:	 [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/) [<sub><sup> Math, Binary Search </sup></sub>]
 
+:green_circle:	 [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) [<sub><sup> Array, Two Pointers, Sorting </sup></sub>]
+
