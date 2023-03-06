@@ -346,3 +346,5 @@ Uncategorized
 
 :yellow_circle:  [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) [<sub><sup> Array, Binary Search </sup></sub>]
 
+:red_circle:  [774. Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) [<sub><sup> Array, Binary Search </sup></sub>]
+
