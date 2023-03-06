@@ -340,3 +340,5 @@ Uncategorized
 
 :yellow_circle:  [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) [<sub><sup> Array, Binary Search </sup></sub>]
 
+:red_circle:  [1231. Divide Chocolate](https://leetcode.com/problems/divide-chocolate/) [<sub><sup> Array, Binary Search </sup></sub>]
+
