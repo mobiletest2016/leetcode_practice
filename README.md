@@ -334,3 +334,5 @@ Uncategorized
 
 :yellow_circle:  [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) [<sub><sup> Array, Dynamic Programming, Depth-First Search, Matrix, Simulation </sup></sub>]
 
+:green_circle:	 [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) [<sub><sup> Array, Binary Search </sup></sub>]
+
