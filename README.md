@@ -368,3 +368,5 @@ Uncategorized
 
 :yellow_circle:  [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) [<sub><sup> Hash Table, String, Binary Search, Design </sup></sub>]
 
+:yellow_circle:  [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) [<sub><sup> Array, Binary Search </sup></sub>]
+
