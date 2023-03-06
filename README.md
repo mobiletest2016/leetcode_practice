@@ -68,6 +68,64 @@ Sliding Window
 
 :yellow_circle:  [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) [<sub><sup> Array, Hash Table, Sliding Window </sup></sub>]
 
+
+Binary Search
+------
+
+:green_circle:	 [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) [<sub><sup> Array, Binary Search </sup></sub>]
+
+:green_circle:	 [704. Binary Search](https://leetcode.com/problems/binary-search/) [<sub><sup> Array, Binary Search </sup></sub>]
+
+:green_circle:	 [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) [<sub><sup> Array, Binary Search </sup></sub>]
+
+:green_circle:	 [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) [<sub><sup> Binary Search, Interactive </sup></sub>]
+
+:green_circle:	 [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/) [<sub><sup> Math, Binary Search </sup></sub>]
+
+:green_circle:	 [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) [<sub><sup> Array, Two Pointers, Sorting </sup></sub>]
+
+:green_circle:	 [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) [<sub><sup> Math, Binary Search </sup></sub>]
+
+:yellow_circle:  [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) [<sub><sup> Array, Binary Search </sup></sub>]
+
+:yellow_circle:  [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) [<sub><sup> Array, Binary Search </sup></sub>]
+
+:yellow_circle:  [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) [<sub><sup> Array, Binary Search </sup></sub>]
+
+:yellow_circle:  [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) [<sub><sup> Array, Binary Search </sup></sub>]
+
+:yellow_circle:  [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) [<sub><sup> Array, Binary Search </sup></sub>]
+
+:yellow_circle:  [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) [<sub><sup> Array, Binary Search </sup></sub>]
+
+:yellow_circle:  [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) [<sub><sup> Hash Table, String, Binary Search, Design </sup></sub>]
+
+:yellow_circle:  [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) [<sub><sup> Array, Binary Search </sup></sub>]
+
+:yellow_circle:  [1898. Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/) [<sub><sup> Array, String, Binary Search </sup></sub>]
+
+:yellow_circle:  [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) [<sub><sup> Linked List, Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
+
+:yellow_circle:  [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) [<sub><sup> Array, String, Trie </sup></sub>]
+
+:yellow_circle:  [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) [<sub><sup> Array, Binary Search, Matrix </sup></sub>]
+
+:yellow_circle:  [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) [<sub><sup> Array, Hash Table, Binary Search, Sliding Window, Prefix Sum </sup></sub>]
+
+:yellow_circle:  [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) [<sub><sup> Array, Binary Search, Sliding Window, Prefix Sum </sup></sub>]
+
+:red_circle:  [1847. Closest Room](https://leetcode.com/problems/closest-room/) [<sub><sup> Array, Binary Search, Sorting </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) [<sub><sup> Array, Binary Search, Dynamic Programming, Sorting </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) [<sub><sup> Array, Binary Search, Divide and Conquer </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture>  [1231. Divide Chocolate](https://leetcode.com/problems/divide-chocolate/) [<sub><sup> Array, Binary Search </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [774. Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) [<sub><sup> Array, Binary Search </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) [<sub><sup> Array, Binary Search, Dynamic Programming, Greedy </sup></sub>]
+
 DFS/BFS
 ------
 
@@ -290,10 +348,6 @@ Intervals
 Uncategorized
 ------
 
-:yellow_circle:  [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) [<sub><sup> Array, Hash Table, Binary Search, Sliding Window, Prefix Sum </sup></sub>]
-
-:yellow_circle:  [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) [<sub><sup> Array, Binary Search, Sliding Window, Prefix Sum </sup></sub>]
-
 :green_circle:	 [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) [<sub><sup> Math, Dynamic Programming, Memoization </sup></sub>]
 
 :yellow_circle:  [78. Subsets](https://leetcode.com/problems/subsets/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
@@ -301,10 +355,6 @@ Uncategorized
 :yellow_circle:  [90. Subsets II](https://leetcode.com/problems/subsets-ii/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
 
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) [<sub><sup> Dynamic Programming </sup></sub>]
-
-:red_circle:  [1847. Closest Room](https://leetcode.com/problems/closest-room/) [<sub><sup> Array, Binary Search, Sorting </sup></sub>]
-
-:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) [<sub><sup> Array, Binary Search, Dynamic Programming, Sorting </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) [<sub><sup> Array, Hash Table, Math, Geometry </sup></sub>]
 
@@ -326,55 +376,9 @@ Uncategorized
 
 :yellow_circle:  [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) [<sub><sup> Hash Table, String, Sorting </sup></sub>]
 
-:yellow_circle:  [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) [<sub><sup> Array, Binary Search, Matrix </sup></sub>]
-
 :yellow_circle:  [835. Image Overlap](https://leetcode.com/problems/image-overlap/) [<sub><sup> Array, Matrix </sup></sub>]
 
 :red_circle:  [1289. Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
 
 :yellow_circle:  [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) [<sub><sup> Array, Dynamic Programming, Depth-First Search, Matrix, Simulation </sup></sub>]
-
-:green_circle:	 [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) [<sub><sup> Array, Binary Search </sup></sub>]
-
-:yellow_circle:  [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) [<sub><sup> Array, Binary Search </sup></sub>]
-
-:yellow_circle:  [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) [<sub><sup> Array, Binary Search </sup></sub>]
-
-:red_circle:  [1231. Divide Chocolate](https://leetcode.com/problems/divide-chocolate/) [<sub><sup> Array, Binary Search </sup></sub>]
-
-:yellow_circle:  [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) [<sub><sup> Array, Binary Search </sup></sub>]
-
-:yellow_circle:  [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) [<sub><sup> Array, Binary Search </sup></sub>]
-
-:red_circle:  [774. Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) [<sub><sup> Array, Binary Search </sup></sub>]
-
-:red_circle:  [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) [<sub><sup> Array, Binary Search, Dynamic Programming, Greedy </sup></sub>]
-
-:green_circle:	 [704. Binary Search](https://leetcode.com/problems/binary-search/) [<sub><sup> Array, Binary Search </sup></sub>]
-
-:green_circle:	 [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) [<sub><sup> Array, Binary Search </sup></sub>]
-
-:green_circle:	 [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) [<sub><sup> Binary Search, Interactive </sup></sub>]
-
-:green_circle:	 [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/) [<sub><sup> Math, Binary Search </sup></sub>]
-
-:green_circle:	 [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) [<sub><sup> Array, Two Pointers, Sorting </sup></sub>]
-
-:green_circle:	 [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) [<sub><sup> Math, Binary Search </sup></sub>]
-
-:yellow_circle:  [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) [<sub><sup> Array, Binary Search </sup></sub>]
-
-:yellow_circle:  [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) [<sub><sup> Array, Binary Search </sup></sub>]
-
-:yellow_circle:  [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) [<sub><sup> Hash Table, String, Binary Search, Design </sup></sub>]
-
-:yellow_circle:  [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) [<sub><sup> Array, Binary Search </sup></sub>]
-
-:yellow_circle:  [1898. Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/) [<sub><sup> Array, String, Binary Search </sup></sub>]
-
-:yellow_circle:  [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) [<sub><sup> Linked List, Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
-
-:yellow_circle:  [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) [<sub><sup> Array, String, Trie </sup></sub>]
-
-:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) [<sub><sup> Array, Binary Search, Divide and Conquer </sup></sub>]
 
