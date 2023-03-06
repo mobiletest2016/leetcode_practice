@@ -374,3 +374,5 @@ Uncategorized
 
 :yellow_circle:  [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) [<sub><sup> Linked List, Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
 
+:yellow_circle:  [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) [<sub><sup> Array, String, Trie </sup></sub>]
+
