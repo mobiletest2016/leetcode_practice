@@ -376,3 +376,5 @@ Uncategorized
 
 :yellow_circle:  [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) [<sub><sup> Array, String, Trie </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) [<sub><sup> Array, Binary Search, Divide and Conquer </sup></sub>]
+
