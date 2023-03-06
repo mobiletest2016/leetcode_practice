@@ -352,3 +352,5 @@ Uncategorized
 
 :green_circle:	 [704. Binary Search](https://leetcode.com/problems/binary-search/) [<sub><sup> Array, Binary Search </sup></sub>]
 
+:green_circle:	 [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) [<sub><sup> Array, Binary Search </sup></sub>]
+
