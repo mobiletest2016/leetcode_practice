@@ -350,3 +350,5 @@ Uncategorized
 
 :red_circle:  [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) [<sub><sup> Array, Binary Search, Dynamic Programming, Greedy </sup></sub>]
 
+:green_circle:	 [704. Binary Search](https://leetcode.com/problems/binary-search/) [<sub><sup> Array, Binary Search </sup></sub>]
+
