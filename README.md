@@ -370,3 +370,5 @@ Uncategorized
 
 :yellow_circle:  [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) [<sub><sup> Array, Binary Search </sup></sub>]
 
+:yellow_circle:  [1898. Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/) [<sub><sup> Array, String, Binary Search </sup></sub>]
+
