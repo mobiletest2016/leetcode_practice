@@ -354,3 +354,5 @@ Uncategorized
 
 :green_circle:	 [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) [<sub><sup> Array, Binary Search </sup></sub>]
 
+:green_circle:	 [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) [<sub><sup> Binary Search, Interactive </sup></sub>]
+
