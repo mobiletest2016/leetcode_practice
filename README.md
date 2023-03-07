@@ -394,3 +394,5 @@ Uncategorized
 
 :yellow_circle:  [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) [<sub><sup> Array, Binary Search, Sorting, Heap (Priority Queue), Matrix </sup></sub>]
 
+:yellow_circle:  [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) [<sub><sup> Array, Two Pointers, Binary Search, Bit Manipulation </sup></sub>]
+
