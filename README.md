@@ -390,3 +390,5 @@ Uncategorized
 
 :yellow_circle:  [2064. Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) [<sub><sup> Array, Binary Search </sup></sub>]
 
+:yellow_circle:  [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) [<sub><sup> Array, Binary Search </sup></sub>]
+
