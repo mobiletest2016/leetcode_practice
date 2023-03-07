@@ -392,3 +392,5 @@ Uncategorized
 
 :yellow_circle:  [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) [<sub><sup> Array, Binary Search </sup></sub>]
 
+:yellow_circle:  [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) [<sub><sup> Array, Binary Search, Sorting, Heap (Priority Queue), Matrix </sup></sub>]
+
