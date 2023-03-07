@@ -410,3 +410,5 @@ Uncategorized
 
 :red_circle:  [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) [<sub><sup> Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix </sup></sub>]
 
+:red_circle:  [668. Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) [<sub><sup> Math, Binary Search </sup></sub>]
+
