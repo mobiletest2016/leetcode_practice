@@ -412,3 +412,5 @@ Uncategorized
 
 :red_circle:  [668. Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) [<sub><sup> Math, Binary Search </sup></sub>]
 
+:red_circle:  [878. Nth Magical Number](https://leetcode.com/problems/nth-magical-number/) [<sub><sup> Math, Binary Search </sup></sub>]
+
