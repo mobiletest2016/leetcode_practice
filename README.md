@@ -386,3 +386,5 @@ Uncategorized
 
 :yellow_circle:  [1552. Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/) [<sub><sup> Array, Binary Search, Sorting </sup></sub>]
 
+:yellow_circle:  [1870. Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/) [<sub><sup> Array, Binary Search </sup></sub>]
+
