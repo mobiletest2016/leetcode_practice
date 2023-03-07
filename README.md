@@ -420,3 +420,5 @@ Uncategorized
 
 :green_circle:	 [1287. Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) [<sub><sup> Array </sup></sub>]
 
+:green_circle:	 [1150. Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/) [<sub><sup> Array, Binary Search </sup></sub>]
+
