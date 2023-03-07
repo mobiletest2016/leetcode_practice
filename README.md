@@ -406,3 +406,5 @@ Uncategorized
 
 :yellow_circle:  [1818. Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/) [<sub><sup> Array, Binary Search, Sorting, Ordered Set </sup></sub>]
 
+:yellow_circle:  [1838. Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) [<sub><sup> Array, Binary Search, Greedy, Sliding Window, Sorting, Prefix Sum </sup></sub>]
+
