@@ -404,3 +404,5 @@ Uncategorized
 
 :yellow_circle:  [475. Heaters](https://leetcode.com/problems/heaters/) [<sub><sup> Array, Two Pointers, Binary Search, Sorting </sup></sub>]
 
+:yellow_circle:  [1818. Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/) [<sub><sup> Array, Binary Search, Sorting, Ordered Set </sup></sub>]
+
