@@ -422,3 +422,5 @@ Uncategorized
 
 :green_circle:	 [1150. Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/) [<sub><sup> Array, Binary Search </sup></sub>]
 
+:yellow_circle:  [1201. Ugly Number III](https://leetcode.com/problems/ugly-number-iii/) [<sub><sup> Math, Binary Search, Number Theory </sup></sub>]
+
