@@ -86,6 +86,8 @@ Binary Search
 
 :green_circle:	 [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) [<sub><sup> Math, Binary Search </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2187. Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/) [<sub><sup> Array, Binary Search </sup></sub>]
+
 :yellow_circle:  [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) [<sub><sup> Array, Binary Search </sup></sub>]
 
 :yellow_circle:  [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) [<sub><sup> Array, Binary Search </sup></sub>]
