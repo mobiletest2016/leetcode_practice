@@ -400,3 +400,5 @@ Uncategorized
 
 :green_circle:	 [. ](https://leetcode.com/problems/path-with-minimum-effort/) [<sub><sup>  </sup></sub>]
 
+:yellow_circle:  [2070. Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/) [<sub><sup> Array, Binary Search, Sorting </sup></sub>]
+
