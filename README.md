@@ -402,3 +402,5 @@ Uncategorized
 
 :yellow_circle:  [2070. Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/) [<sub><sup> Array, Binary Search, Sorting </sup></sub>]
 
+:yellow_circle:  [475. Heaters](https://leetcode.com/problems/heaters/) [<sub><sup> Array, Two Pointers, Binary Search, Sorting </sup></sub>]
+
