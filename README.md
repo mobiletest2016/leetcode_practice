@@ -418,3 +418,5 @@ Uncategorized
 
 :red_circle:  [2141. Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/) [<sub><sup> Array, Binary Search, Greedy, Sorting </sup></sub>]
 
+:green_circle:	 [1287. Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) [<sub><sup> Array </sup></sub>]
+
