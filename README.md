@@ -398,3 +398,5 @@ Uncategorized
 
 :yellow_circle:  [1760. Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) [<sub><sup> Array, Binary Search </sup></sub>]
 
+:green_circle:	 [. ](https://leetcode.com/problems/path-with-minimum-effort/) [<sub><sup>  </sup></sub>]
+
