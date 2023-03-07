@@ -424,3 +424,5 @@ Uncategorized
 
 :yellow_circle:  [1201. Ugly Number III](https://leetcode.com/problems/ugly-number-iii/) [<sub><sup> Math, Binary Search, Number Theory </sup></sub>]
 
+:green_circle:	 [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) [<sub><sup> Math, Binary Search </sup></sub>]
+
