@@ -416,3 +416,5 @@ Uncategorized
 
 :red_circle:  [719. Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) [<sub><sup> Array, Two Pointers, Binary Search, Sorting </sup></sub>]
 
+:red_circle:  [2141. Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/) [<sub><sup> Array, Binary Search, Greedy, Sorting </sup></sub>]
+
