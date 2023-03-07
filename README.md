@@ -408,3 +408,5 @@ Uncategorized
 
 :yellow_circle:  [1838. Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) [<sub><sup> Array, Binary Search, Greedy, Sliding Window, Sorting, Prefix Sum </sup></sub>]
 
+:red_circle:  [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) [<sub><sup> Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix </sup></sub>]
+
