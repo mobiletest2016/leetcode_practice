@@ -388,3 +388,5 @@ Uncategorized
 
 :yellow_circle:  [1870. Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/) [<sub><sup> Array, Binary Search </sup></sub>]
 
+:yellow_circle:  [2064. Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) [<sub><sup> Array, Binary Search </sup></sub>]
+
