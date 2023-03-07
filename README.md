@@ -414,3 +414,5 @@ Uncategorized
 
 :red_circle:  [878. Nth Magical Number](https://leetcode.com/problems/nth-magical-number/) [<sub><sup> Math, Binary Search </sup></sub>]
 
+:red_circle:  [719. Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) [<sub><sup> Array, Two Pointers, Binary Search, Sorting </sup></sub>]
+
