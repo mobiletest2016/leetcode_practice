@@ -396,3 +396,5 @@ Uncategorized
 
 :yellow_circle:  [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) [<sub><sup> Array, Two Pointers, Binary Search, Bit Manipulation </sup></sub>]
 
+:yellow_circle:  [1760. Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) [<sub><sup> Array, Binary Search </sup></sub>]
+
