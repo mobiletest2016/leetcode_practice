@@ -82,9 +82,37 @@ Binary Search
 
 :green_circle:	 [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/) [<sub><sup> Math, Binary Search </sup></sub>]
 
-:green_circle:	 [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) [<sub><sup> Array, Two Pointers, Sorting </sup></sub>]
-
 :green_circle:	 [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) [<sub><sup> Math, Binary Search </sup></sub>]
+
+:green_circle:	 [1150. Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/) [<sub><sup> Array, Binary Search </sup></sub>]
+
+:green_circle:	 [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) [<sub><sup> Math, Binary Search </sup></sub>]
+
+:green_circle:	 [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) [<sub><sup> Binary Search, Interactive </sup></sub>]
+
+:yellow_circle:  [1552. Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/) [<sub><sup> Array, Binary Search, Sorting </sup></sub>]
+
+:yellow_circle:  [1870. Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/) [<sub><sup> Array, Binary Search </sup></sub>]
+
+:yellow_circle:  [2064. Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) [<sub><sup> Array, Binary Search </sup></sub>]
+
+:yellow_circle:  [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) [<sub><sup> Array, Binary Search </sup></sub>]
+
+:yellow_circle:  [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) [<sub><sup> Array, Binary Search, Sorting, Heap (Priority Queue), Matrix </sup></sub>]
+
+:yellow_circle:  [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) [<sub><sup> Array, Two Pointers, Binary Search, Bit Manipulation </sup></sub>]
+
+:yellow_circle:  [1760. Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) [<sub><sup> Array, Binary Search </sup></sub>]
+
+:yellow_circle:  [2070. Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/) [<sub><sup> Array, Binary Search, Sorting </sup></sub>]
+
+:yellow_circle:  [475. Heaters](https://leetcode.com/problems/heaters/) [<sub><sup> Array, Two Pointers, Binary Search, Sorting </sup></sub>]
+
+:yellow_circle:  [1818. Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/) [<sub><sup> Array, Binary Search, Sorting, Ordered Set </sup></sub>]
+
+:yellow_circle:  [1838. Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) [<sub><sup> Array, Binary Search, Greedy, Sliding Window, Sorting, Prefix Sum </sup></sub>]
+
+:yellow_circle:  [1201. Ugly Number III](https://leetcode.com/problems/ugly-number-iii/) [<sub><sup> Math, Binary Search, Number Theory </sup></sub>]
 
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2187. Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/) [<sub><sup> Array, Binary Search </sup></sub>]
 
@@ -108,8 +136,6 @@ Binary Search
 
 :yellow_circle:  [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) [<sub><sup> Linked List, Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
 
-:yellow_circle:  [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) [<sub><sup> Array, String, Trie </sup></sub>]
-
 :yellow_circle:  [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) [<sub><sup> Array, Binary Search, Matrix </sup></sub>]
 
 :yellow_circle:  [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) [<sub><sup> Array, Hash Table, Binary Search, Sliding Window, Prefix Sum </sup></sub>]
@@ -127,6 +153,17 @@ Binary Search
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [774. Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) [<sub><sup> Array, Binary Search </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) [<sub><sup> Array, Binary Search, Dynamic Programming, Greedy </sup></sub>]
+
+:red_circle:  [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) [<sub><sup> Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix </sup></sub>]
+
+:red_circle:  [668. Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) [<sub><sup> Math, Binary Search </sup></sub>]
+
+:red_circle:  [878. Nth Magical Number](https://leetcode.com/problems/nth-magical-number/) [<sub><sup> Math, Binary Search </sup></sub>]
+
+:red_circle:  [719. Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) [<sub><sup> Array, Two Pointers, Binary Search, Sorting </sup></sub>]
+
+:red_circle:  [2141. Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/) [<sub><sup> Array, Binary Search, Greedy, Sorting </sup></sub>]
+
 
 DFS/BFS
 ------
@@ -384,47 +421,12 @@ Uncategorized
 
 :yellow_circle:  [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) [<sub><sup> Array, Dynamic Programming, Depth-First Search, Matrix, Simulation </sup></sub>]
 
-:yellow_circle:  [1552. Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/) [<sub><sup> Array, Binary Search, Sorting </sup></sub>]
-
-:yellow_circle:  [1870. Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/) [<sub><sup> Array, Binary Search </sup></sub>]
-
-:yellow_circle:  [2064. Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) [<sub><sup> Array, Binary Search </sup></sub>]
-
-:yellow_circle:  [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) [<sub><sup> Array, Binary Search </sup></sub>]
-
-:yellow_circle:  [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) [<sub><sup> Array, Binary Search, Sorting, Heap (Priority Queue), Matrix </sup></sub>]
-
-:yellow_circle:  [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) [<sub><sup> Array, Two Pointers, Binary Search, Bit Manipulation </sup></sub>]
-
-:yellow_circle:  [1760. Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) [<sub><sup> Array, Binary Search </sup></sub>]
-
-:green_circle:	 [. ](https://leetcode.com/problems/path-with-minimum-effort/) [<sub><sup>  </sup></sub>]
-
-:yellow_circle:  [2070. Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/) [<sub><sup> Array, Binary Search, Sorting </sup></sub>]
-
-:yellow_circle:  [475. Heaters](https://leetcode.com/problems/heaters/) [<sub><sup> Array, Two Pointers, Binary Search, Sorting </sup></sub>]
-
-:yellow_circle:  [1818. Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/) [<sub><sup> Array, Binary Search, Sorting, Ordered Set </sup></sub>]
-
-:yellow_circle:  [1838. Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) [<sub><sup> Array, Binary Search, Greedy, Sliding Window, Sorting, Prefix Sum </sup></sub>]
-
-:red_circle:  [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) [<sub><sup> Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix </sup></sub>]
-
-:red_circle:  [668. Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) [<sub><sup> Math, Binary Search </sup></sub>]
-
-:red_circle:  [878. Nth Magical Number](https://leetcode.com/problems/nth-magical-number/) [<sub><sup> Math, Binary Search </sup></sub>]
-
-:red_circle:  [719. Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) [<sub><sup> Array, Two Pointers, Binary Search, Sorting </sup></sub>]
-
-:red_circle:  [2141. Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/) [<sub><sup> Array, Binary Search, Greedy, Sorting </sup></sub>]
+:green_circle:	 [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) [<sub><sup> Array, Two Pointers, Sorting </sup></sub>]
 
 :green_circle:	 [1287. Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) [<sub><sup> Array </sup></sub>]
 
-:green_circle:	 [1150. Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/) [<sub><sup> Array, Binary Search </sup></sub>]
+:green_circle:	 [. ](https://leetcode.com/problems/path-with-minimum-effort/) [<sub><sup>  </sup></sub>]
 
-:yellow_circle:  [1201. Ugly Number III](https://leetcode.com/problems/ugly-number-iii/) [<sub><sup> Math, Binary Search, Number Theory </sup></sub>]
+:yellow_circle:  [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) [<sub><sup> Array, String, Trie </sup></sub>]
 
-:green_circle:	 [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) [<sub><sup> Math, Binary Search </sup></sub>]
-
-:green_circle:	 [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) [<sub><sup> Binary Search, Interactive </sup></sub>]
 
