@@ -36,6 +36,8 @@ Arrays + Hashing
 Two Pointer
 ------
 
+:green_circle:	 [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) [<sub><sup> Array, Two Pointers, Sorting </sup></sub>]
+
 :yellow_circle:  [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) [<sub><sup> Array, Two Pointers, Greedy </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) [<sub><sup> Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack </sup></sub>]
@@ -420,8 +422,6 @@ Uncategorized
 :red_circle:  [1289. Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
 
 :yellow_circle:  [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) [<sub><sup> Array, Dynamic Programming, Depth-First Search, Matrix, Simulation </sup></sub>]
-
-:green_circle:	 [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) [<sub><sup> Array, Two Pointers, Sorting </sup></sub>]
 
 :green_circle:	 [1287. Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) [<sub><sup> Array </sup></sub>]
 
