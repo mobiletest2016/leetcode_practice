@@ -425,8 +425,7 @@ Uncategorized
 
 :green_circle:	 [1287. Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) [<sub><sup> Array </sup></sub>]
 
-:green_circle:	 [. ](https://leetcode.com/problems/path-with-minimum-effort/) [<sub><sup>  </sup></sub>]
-
 :yellow_circle:  [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) [<sub><sup> Array, String, Trie </sup></sub>]
 
+:yellow_circle:  [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) [<sub><sup> Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix </sup></sub>]
 
