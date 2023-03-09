@@ -25,6 +25,7 @@ String
 
 :green_circle:	 [290. Word Pattern](https://leetcode.com/problems/word-pattern/) [<sub><sup> Hash Table, String </sup></sub>]
 
+:yellow_circle:  [443. String Compression](https://leetcode.com/problems/string-compression/) [<sub><sup> Two Pointers, String </sup></sub>]
 
 Arrays + Hashing
 ------
