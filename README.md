@@ -46,6 +46,8 @@ Arrays + Hashing
 
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) [<sub><sup> Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) [<sub><sup> Array, Hash Table, Math, Geometry </sup></sub>]
+
 Two Pointer
 ------
 
@@ -250,12 +252,14 @@ Binary Tree/Binary Search Tree
 :red_circle:  [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) [<sub><sup> Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
 
 
-N-ary Tree
+N-ary Tree/Trie
 ------
+
+:green_circle:	 [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) [<sub><sup> Tree, Depth-First Search, Breadth-First Search </sup></sub>]
 
 :yellow_circle:  [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) [<sub><sup> Tree, Breadth-First Search </sup></sub>]
 
-:green_circle:	 [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) [<sub><sup> Tree, Depth-First Search, Breadth-First Search </sup></sub>]
+:yellow_circle:  [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) [<sub><sup> Array, String, Trie </sup></sub>]
 
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1519. Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/) [<sub><sup> Hash Table, Tree, Depth-First Search, Breadth-First Search, Counting </sup></sub>]
 
@@ -268,9 +272,13 @@ N-ary Tree
 ------
 :green_circle:	 [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) [<sub><sup> Math, Dynamic Programming, Recursion, Memoization </sup></sub>]
 
+:green_circle:	 [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) [<sub><sup> Math, Dynamic Programming, Memoization </sup></sub>]
+
 :green_circle:	 [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) [<sub><sup> Math, Dynamic Programming, Memoization </sup></sub>]
 
 :green_circle:	 [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
+:yellow_circle:  [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) [<sub><sup> Array, Dynamic Programming, Depth-First Search, Matrix, Simulation </sup></sub>]
 
 :yellow_circle:  [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
 
@@ -295,6 +303,8 @@ N-ary Tree
 :yellow_circle:  [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) [<sub><sup> String, Dynamic Programming </sup></sub>]
 
 :yellow_circle:  [322. Coin Change](https://leetcode.com/problems/coin-change/) [<sub><sup> Array, Dynamic Programming, Breadth-First Search </sup></sub>]
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) [<sub><sup> Dynamic Programming </sup></sub>]
 
 :yellow_circle:  [139. Word Break](https://leetcode.com/problems/word-break/) [<sub><sup> Hash Table, String, Dynamic Programming, Trie, Memoization </sup></sub>]
 
@@ -321,6 +331,8 @@ N-ary Tree
 :red_circle:  [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
 :red_circle:  [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
+:red_circle:  [1289. Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
 
 
 2-D Array + Dynamic Programming
@@ -402,15 +414,9 @@ Intervals
 Uncategorized
 ------
 
-:green_circle:	 [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) [<sub><sup> Math, Dynamic Programming, Memoization </sup></sub>]
-
 :yellow_circle:  [78. Subsets](https://leetcode.com/problems/subsets/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
 
 :yellow_circle:  [90. Subsets II](https://leetcode.com/problems/subsets-ii/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
-
-:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) [<sub><sup> Dynamic Programming </sup></sub>]
-
-:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) [<sub><sup> Array, Hash Table, Math, Geometry </sup></sub>]
 
 :yellow_circle:  [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) [<sub><sup> Backtracking, Depth-First Search, Breadth-First Search, Graph </sup></sub>]
 
@@ -426,13 +432,7 @@ Uncategorized
 
 :yellow_circle:  [835. Image Overlap](https://leetcode.com/problems/image-overlap/) [<sub><sup> Array, Matrix </sup></sub>]
 
-:red_circle:  [1289. Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
-
-:yellow_circle:  [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) [<sub><sup> Array, Dynamic Programming, Depth-First Search, Matrix, Simulation </sup></sub>]
-
 :green_circle:	 [1287. Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) [<sub><sup> Array </sup></sub>]
-
-:yellow_circle:  [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) [<sub><sup> Array, String, Trie </sup></sub>]
 
 :yellow_circle:  [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) [<sub><sup> Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix </sup></sub>]
 
