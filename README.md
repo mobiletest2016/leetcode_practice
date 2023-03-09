@@ -16,6 +16,14 @@ Links
 
 [LeetCode Top 100 Questions](https://leetcode.com/problem-list/top-100-liked-questions/)
 
+String
+------
+
+:green_circle:	 [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) [<sub><sup> Array, String </sup></sub>]
+
+:green_circle:	 [520. Detect Capital](https://leetcode.com/problems/detect-capital/) [<sub><sup> String </sup></sub>]
+
+:green_circle:	 [290. Word Pattern](https://leetcode.com/problems/word-pattern/) [<sub><sup> Hash Table, String </sup></sub>]
 
 
 Arrays + Hashing
@@ -398,12 +406,6 @@ Uncategorized
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) [<sub><sup> Dynamic Programming </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) [<sub><sup> Array, Hash Table, Math, Geometry </sup></sub>]
-
-:green_circle:	 [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) [<sub><sup> Array, String </sup></sub>]
-
-:green_circle:	 [520. Detect Capital](https://leetcode.com/problems/detect-capital/) [<sub><sup> String </sup></sub>]
-
-:green_circle:	 [290. Word Pattern](https://leetcode.com/problems/word-pattern/) [<sub><sup> Hash Table, String </sup></sub>]
 
 :yellow_circle:  [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) [<sub><sup> Backtracking, Depth-First Search, Breadth-First Search, Graph </sup></sub>]
 
