@@ -27,6 +27,8 @@ String
 
 :yellow_circle:  [443. String Compression](https://leetcode.com/problems/string-compression/) [<sub><sup> Two Pointers, String </sup></sub>]
 
+:yellow_circle:  [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) [<sub><sup> String </sup></sub>]
+
 :red_circle:  [1531. String Compression II](https://leetcode.com/problems/string-compression-ii/) [<sub><sup> String, Dynamic Programming </sup></sub>]
 
 Arrays + Hashing
