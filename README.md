@@ -426,3 +426,5 @@ Uncategorized
 
 :green_circle:	 [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) [<sub><sup> Math, Binary Search </sup></sub>]
 
+:green_circle:	 [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) [<sub><sup> Binary Search, Interactive </sup></sub>]
+
