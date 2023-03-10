@@ -16,6 +16,22 @@ Links
 
 [LeetCode Top 100 Questions](https://leetcode.com/problem-list/top-100-liked-questions/)
 
+1D/2D Arrays
+------
+
+:green_circle:	 [1287. Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) [<sub><sup> Array </sup></sub>]
+
+:yellow_circle:  [78. Subsets](https://leetcode.com/problems/subsets/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
+
+:yellow_circle:  [90. Subsets II](https://leetcode.com/problems/subsets-ii/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
+
+:yellow_circle:  [1962. Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) [<sub><sup> Array, Heap (Priority Queue) </sup></sub>]
+
+:yellow_circle:  [835. Image Overlap](https://leetcode.com/problems/image-overlap/) [<sub><sup> Array, Matrix </sup></sub>]
+
+:yellow_circle:  [384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) [<sub><sup> Array, Math, Randomized </sup></sub>]
+
+
 String
 ------
 
@@ -414,13 +430,7 @@ Intervals
 Uncategorized
 ------
 
-:yellow_circle:  [78. Subsets](https://leetcode.com/problems/subsets/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
-
-:yellow_circle:  [90. Subsets II](https://leetcode.com/problems/subsets-ii/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
-
 :yellow_circle:  [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) [<sub><sup> Backtracking, Depth-First Search, Breadth-First Search, Graph </sup></sub>]
-
-:yellow_circle:  [1962. Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) [<sub><sup> Array, Heap (Priority Queue) </sup></sub>]
 
 :green_circle:	<picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) [<sub><sup> Stack, Design, Queue </sup></sub>]
 
@@ -430,13 +440,7 @@ Uncategorized
 
 :yellow_circle:  [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) [<sub><sup> Hash Table, String, Sorting </sup></sub>]
 
-:yellow_circle:  [835. Image Overlap](https://leetcode.com/problems/image-overlap/) [<sub><sup> Array, Matrix </sup></sub>]
-
-:green_circle:	 [1287. Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) [<sub><sup> Array </sup></sub>]
-
 :yellow_circle:  [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) [<sub><sup> Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix </sup></sub>]
-
-:yellow_circle:  [384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) [<sub><sup> Array, Math, Randomized </sup></sub>]
 
 :yellow_circle:  [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) [<sub><sup> Linked List, Math, Reservoir Sampling, Randomized </sup></sub>]
 
