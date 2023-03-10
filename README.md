@@ -438,3 +438,5 @@ Uncategorized
 
 :yellow_circle:  [384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) [<sub><sup> Array, Math, Randomized </sup></sub>]
 
+:yellow_circle:  [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) [<sub><sup> Linked List, Math, Reservoir Sampling, Randomized </sup></sub>]
+
