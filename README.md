@@ -31,6 +31,8 @@ Links
 
 :yellow_circle:  [384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) [<sub><sup> Array, Math, Randomized </sup></sub>]
 
+:yellow_circle:  [48. Rotate Image](https://leetcode.com/problems/rotate-image/) [<sub><sup> Array, Math, Matrix </sup></sub>]
+
 
 String
 ------
