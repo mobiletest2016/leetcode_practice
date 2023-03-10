@@ -436,3 +436,5 @@ Uncategorized
 
 :yellow_circle:  [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) [<sub><sup> Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix </sup></sub>]
 
+:yellow_circle:  [384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) [<sub><sup> Array, Math, Randomized </sup></sub>]
+
