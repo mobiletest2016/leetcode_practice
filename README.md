@@ -236,6 +236,8 @@ Binary Tree/Binary Search Tree
 
 :yellow_circle:  [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) [<sub><sup> Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
 
+:yellow_circle:  [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) [<sub><sup> Tree, Depth-First Search, Binary Search Tree, Binary Tree </sup></sub>]
+
 :yellow_circle:  [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) [<sub><sup> Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
 
 :yellow_circle:  [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) [<sub><sup> Hash Table, Tree, Depth-First Search, Binary Tree </sup></sub>]
