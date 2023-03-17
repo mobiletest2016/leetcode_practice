@@ -457,3 +457,5 @@ Uncategorized
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) [<sub><sup> Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort </sup></sub>]
 
+:yellow_circle:  [46. Permutations](https://leetcode.com/problems/permutations/) [<sub><sup> Array, Backtracking </sup></sub>]
+
