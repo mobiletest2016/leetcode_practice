@@ -459,3 +459,5 @@ Uncategorized
 
 :yellow_circle:  [46. Permutations](https://leetcode.com/problems/permutations/) [<sub><sup> Array, Backtracking </sup></sub>]
 
+:yellow_circle:  [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) [<sub><sup> String, Dynamic Programming, Backtracking </sup></sub>]
+
