@@ -21,6 +21,8 @@ Links
 
 :green_circle:	 [1287. Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) [<sub><sup> Array </sup></sub>]
 
+:green_circle:	 [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) [<sub><sup> Array, Greedy </sup></sub>]
+
 :yellow_circle:  [78. Subsets](https://leetcode.com/problems/subsets/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
 
 :yellow_circle:  [90. Subsets II](https://leetcode.com/problems/subsets-ii/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
@@ -32,6 +34,10 @@ Links
 :yellow_circle:  [384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) [<sub><sup> Array, Math, Randomized </sup></sub>]
 
 :yellow_circle:  [48. Rotate Image](https://leetcode.com/problems/rotate-image/) [<sub><sup> Array, Math, Matrix </sup></sub>]
+
+:yellow_circle:  [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) [<sub><sup> Array, Math </sup></sub>]
+
+:yellow_circle:  [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
 
 String
@@ -468,6 +474,4 @@ Uncategorized
 :yellow_circle:  [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) [<sub><sup> Linked List, Divide and Conquer, Tree, Binary Search Tree, Binary Tree </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) [<sub><sup> Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort </sup></sub>]
-
-:green_circle:	 [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) [<sub><sup> Array, Greedy </sup></sub>]
 
