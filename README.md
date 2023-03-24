@@ -436,6 +436,18 @@ Intervals
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1851. Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/) [<sub><sup> Array, Binary Search, Line Sweep, Sorting, Heap (Priority Queue) </sup></sub>]
 
 
+Backtracking
+------
+
+:yellow_circle:  [46. Permutations](https://leetcode.com/problems/permutations/) [<sub><sup> Array, Backtracking </sup></sub>]
+
+:yellow_circle:  [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) [<sub><sup> String, Dynamic Programming, Backtracking </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [51. N-Queens](https://leetcode.com/problems/n-queens/) [<sub><sup> Array, Backtracking </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/) [<sub><sup> Backtracking </sup></sub>]
+
+
 Uncategorized
 ------
 
@@ -456,12 +468,4 @@ Uncategorized
 :yellow_circle:  [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) [<sub><sup> Linked List, Divide and Conquer, Tree, Binary Search Tree, Binary Tree </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) [<sub><sup> Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort </sup></sub>]
-
-:yellow_circle:  [46. Permutations](https://leetcode.com/problems/permutations/) [<sub><sup> Array, Backtracking </sup></sub>]
-
-:yellow_circle:  [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) [<sub><sup> String, Dynamic Programming, Backtracking </sup></sub>]
-
-:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [51. N-Queens](https://leetcode.com/problems/n-queens/) [<sub><sup> Array, Backtracking </sup></sub>]
-
-:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/) [<sub><sup> Backtracking </sup></sub>]
 
