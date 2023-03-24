@@ -463,3 +463,5 @@ Uncategorized
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [51. N-Queens](https://leetcode.com/problems/n-queens/) [<sub><sup> Array, Backtracking </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/) [<sub><sup> Backtracking </sup></sub>]
+
