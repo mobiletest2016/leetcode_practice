@@ -110,6 +110,8 @@ Sliding Window
 
 :yellow_circle:  [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [<sub><sup> Hash Table, String, Sliding Window </sup></sub>]
 
+:yellow_circle:  [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) [<sub><sup> Array, Sliding Window, Prefix Sum </sup></sub>]
+
 :yellow_circle:  [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) [<sub><sup> Array, Hash Table, Sliding Window </sup></sub>]
 
 
