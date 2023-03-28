@@ -313,6 +313,8 @@ N-ary Tree/Trie
 
 :yellow_circle:  [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) [<sub><sup> Array, Dynamic Programming, Depth-First Search, Matrix, Simulation </sup></sub>]
 
+:yellow_circle:  [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
 :yellow_circle:  [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
 
 :yellow_circle:  [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) [<sub><sup> Array, Divide and Conquer, Dynamic Programming </sup></sub>]
