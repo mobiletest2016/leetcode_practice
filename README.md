@@ -285,7 +285,7 @@ Binary Tree/Binary Search Tree
 :red_circle:  [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) [<sub><sup> Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
 
 
-N-ary Tree/Trie
+Graph/N-ary Tree/Trie
 ------
 
 :green_circle:	 [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) [<sub><sup> Tree, Depth-First Search, Breadth-First Search </sup></sub>]
@@ -294,11 +294,25 @@ N-ary Tree/Trie
 
 :yellow_circle:  [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) [<sub><sup> Array, String, Trie </sup></sub>]
 
+:yellow_circle:  [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) [<sub><sup> Backtracking, Depth-First Search, Breadth-First Search, Graph </sup></sub>]
+
+:yellow_circle:  [2316. Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) [<sub><sup> Depth-First Search, Breadth-First Search, Union Find, Graph </sup></sub>]
+
+:yellow_circle:  [1466. Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) [<sub><sup> Depth-First Search, Breadth-First Search, Graph </sup></sub>]
+
+:yellow_circle:  [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) [<sub><sup> Depth-First Search, Breadth-First Search, Union Find, Graph </sup></sub>]
+
+:yellow_circle:  [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) [<sub><sup> Depth-First Search, Breadth-First Search, Union Find, Graph </sup></sub>]
+
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1519. Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/) [<sub><sup> Hash Table, Tree, Depth-First Search, Breadth-First Search, Counting </sup></sub>]
 
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1443. Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) [<sub><sup> Hash Table, Tree, Depth-First Search, Breadth-First Search </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2246. Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/) [<sub><sup> Array, String, Tree, Depth-First Search, Graph, Topological Sort </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) [<sub><sup> Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/) [<sub><sup> Depth-First Search, Graph, Topological Sort </sup></sub>]
 
 
 1-D Array + Dynamic Programming
@@ -461,8 +475,6 @@ Backtracking
 Uncategorized
 ------
 
-:yellow_circle:  [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) [<sub><sup> Backtracking, Depth-First Search, Breadth-First Search, Graph </sup></sub>]
-
 :green_circle:	<picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) [<sub><sup> Stack, Design, Queue </sup></sub>]
 
 :yellow_circle:  [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) [<sub><sup> Depth-First Search, Breadth-First Search, Graph </sup></sub>]
@@ -476,16 +488,3 @@ Uncategorized
 :yellow_circle:  [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) [<sub><sup> Linked List, Math, Reservoir Sampling, Randomized </sup></sub>]
 
 :yellow_circle:  [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) [<sub><sup> Linked List, Divide and Conquer, Tree, Binary Search Tree, Binary Tree </sup></sub>]
-
-:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) [<sub><sup> Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort </sup></sub>]
-
-:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/) [<sub><sup> Depth-First Search, Graph, Topological Sort </sup></sub>]
-
-:yellow_circle:  [2316. Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) [<sub><sup> Depth-First Search, Breadth-First Search, Union Find, Graph </sup></sub>]
-
-:yellow_circle:  [1466. Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) [<sub><sup> Depth-First Search, Breadth-First Search, Graph </sup></sub>]
-
-:yellow_circle:  [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) [<sub><sup> Depth-First Search, Breadth-First Search, Union Find, Graph </sup></sub>]
-
-:yellow_circle:  [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) [<sub><sup> Depth-First Search, Breadth-First Search, Union Find, Graph </sup></sub>]
-
