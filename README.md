@@ -240,6 +240,8 @@ Binary Tree/Binary Search Tree
 
 :green_circle:	 [112. Path Sum](https://leetcode.com/problems/path-sum/) [<sub><sup> Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
 
+:yellow_circle:  [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) [<sub><sup> Linked List, Divide and Conquer, Tree, Binary Search Tree, Binary Tree </sup></sub>]
+
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) [<sub><sup> Tree, Depth-First Search, Binary Tree </sup></sub>]
 
 :yellow_circle:  [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) [<sub><sup> Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
@@ -442,6 +444,7 @@ Greedy
 
 :yellow_circle:  [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) [<sub><sup> Array, Two Pointers, Greedy, Sorting </sup></sub>]
 
+
 Intervals
 ------
 
@@ -486,5 +489,3 @@ Uncategorized
 :yellow_circle:  [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) [<sub><sup> Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix </sup></sub>]
 
 :yellow_circle:  [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) [<sub><sup> Linked List, Math, Reservoir Sampling, Randomized </sup></sub>]
-
-:yellow_circle:  [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) [<sub><sup> Linked List, Divide and Conquer, Tree, Binary Search Tree, Binary Tree </sup></sub>]
