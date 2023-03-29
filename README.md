@@ -483,3 +483,5 @@ Uncategorized
 
 :yellow_circle:  [2316. Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) [<sub><sup> Depth-First Search, Breadth-First Search, Union Find, Graph </sup></sub>]
 
+:yellow_circle:  [1466. Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) [<sub><sup> Depth-First Search, Breadth-First Search, Graph </sup></sub>]
+
