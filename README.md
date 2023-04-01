@@ -416,6 +416,8 @@ Graph/N-ary Tree/Trie
 
 :yellow_circle:  [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
 
+:yellow_circle:  [1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) [<sub><sup> Array, Dynamic Programming, Breadth-First Search, Matrix </sup></sub>]
+
 :red_circle:  [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) [<sub><sup> String, Dynamic Programming </sup></sub>]
 
 :red_circle:  [1220. Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) [<sub><sup> Dynamic Programming </sup></sub>]
