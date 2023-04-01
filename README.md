@@ -246,6 +246,8 @@ Binary Tree/Binary Search Tree
 
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) [<sub><sup> Tree, Depth-First Search, Binary Tree </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) [<sub><sup> Tree, Breadth-First Search, Binary Tree </sup></sub>]
+
 :yellow_circle:  [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) [<sub><sup> Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
 
 :yellow_circle:  [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) [<sub><sup> Tree, Depth-First Search, Binary Search Tree, Binary Tree </sup></sub>]
