@@ -408,6 +408,8 @@ Graph/N-ary Tree/Trie
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1444. Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/) [<sub><sup> Array, Dynamic Programming, Memoization, Matrix </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1402. Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) [<sub><sup> Array, Dynamic Programming, Greedy, Sorting </sup></sub>]
+
 
 String + Dynamic Programming
 ------
