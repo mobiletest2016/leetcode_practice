@@ -335,6 +335,8 @@ Graph/N-ary Tree/Trie
 
 :green_circle:	 [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
+:green_circle:	 [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
 :yellow_circle:  [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) [<sub><sup> Array, Dynamic Programming, Depth-First Search, Matrix, Simulation </sup></sub>]
 
 :yellow_circle:  [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
@@ -392,6 +394,8 @@ Graph/N-ary Tree/Trie
 :red_circle:  [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
 :red_circle:  [1289. Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
 
 2-D Array + Dynamic Programming
@@ -505,8 +509,4 @@ Uncategorized
 :yellow_circle:  [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) [<sub><sup> Linked List, Math, Reservoir Sampling, Randomized </sup></sub>]
 
 :yellow_circle:  [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/) [<sub><sup> Array, Linked List, Stack, Design, Doubly-Linked List, Data Stream </sup></sub>]
-
-:green_circle:	 [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
-
-:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
