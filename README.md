@@ -506,3 +506,5 @@ Uncategorized
 
 :yellow_circle:  [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/) [<sub><sup> Array, Linked List, Stack, Design, Doubly-Linked List, Data Stream </sup></sub>]
 
+:green_circle:	 [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
