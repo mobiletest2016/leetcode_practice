@@ -341,6 +341,8 @@ Graph/N-ary Tree/Trie
 
 :green_circle:	 [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
+:yellow_circle:  [91. Decode Ways](https://leetcode.com/problems/decode-ways/) [<sub><sup> String, Dynamic Programming </sup></sub>]
+
 :yellow_circle:  [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) [<sub><sup> Array, Dynamic Programming, Depth-First Search, Matrix, Simulation </sup></sub>]
 
 :yellow_circle:  [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
