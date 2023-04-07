@@ -526,3 +526,5 @@ Uncategorized
 
 :yellow_circle:  [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Union Find, Matrix </sup></sub>]
 
+:yellow_circle:  [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Union Find, Matrix </sup></sub>]
+
