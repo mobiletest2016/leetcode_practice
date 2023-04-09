@@ -226,6 +226,10 @@ DFS/BFS
 
 :yellow_circle:  [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Union Find, Matrix </sup></sub>]
 
+:yellow_circle:  [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) [<sub><sup> Depth-First Search, Breadth-First Search, Graph, Topological Sort </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) [<sub><sup> Hash Table, Dynamic Programming, Graph, Topological Sort, Memoization, Counting </sup></sub>]
+
 :red_circle:  [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) [<sub><sup> Array, Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Topological Sort, Memoization, Matrix </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/) [<sub><sup> Array, Hash Table, Breadth-First Search </sup></sub>]
@@ -528,5 +532,3 @@ Uncategorized
 :yellow_circle:  [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) [<sub><sup> Linked List, Math, Reservoir Sampling, Randomized </sup></sub>]
 
 :yellow_circle:  [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/) [<sub><sup> Array, Linked List, Stack, Design, Doubly-Linked List, Data Stream </sup></sub>]
-:yellow_circle:  [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) [<sub><sup> Depth-First Search, Breadth-First Search, Graph, Topological Sort </sup></sub>]
-
