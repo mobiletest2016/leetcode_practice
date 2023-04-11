@@ -116,6 +116,8 @@ Sliding Window
 
 :yellow_circle:  [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) [<sub><sup> Array, Hash Table, Sliding Window </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) [<sub><sup> Array, Queue, Sliding Window, Monotonic Queue </sup></sub>]
+
 
 Binary Search
 ------
@@ -532,3 +534,4 @@ Uncategorized
 :yellow_circle:  [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) [<sub><sup> Linked List, Math, Reservoir Sampling, Randomized </sup></sub>]
 
 :yellow_circle:  [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/) [<sub><sup> Array, Linked List, Stack, Design, Doubly-Linked List, Data Stream </sup></sub>]
+
