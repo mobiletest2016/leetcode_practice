@@ -427,7 +427,7 @@ Graph/N-ary Tree/Trie
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2218. Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/) [<sub><sup> Array, Dynamic Programming, Prefix Sum </sup></sub>]
 
 
-2-D Array + Dynamic Programming
+2-D/n-D Array + Dynamic Programming
 ------
 :yellow_circle:  [62. Unique Paths](https://leetcode.com/problems/unique-paths/) [<sub><sup> Math, Dynamic Programming, Combinatorics </sup></sub>]
 
@@ -452,6 +452,8 @@ Graph/N-ary Tree/Trie
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1444. Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/) [<sub><sup> Array, Dynamic Programming, Memoization, Matrix </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1402. Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) [<sub><sup> Array, Dynamic Programming, Greedy, Sorting </sup></sub>]
+
+:red_circle:  [879. Profitable Schemes](https://leetcode.com/problems/profitable-schemes/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
 
 String + Dynamic Programming
