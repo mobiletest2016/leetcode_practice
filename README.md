@@ -16,6 +16,7 @@ Links
 
 [LeetCode Top 100 Questions](https://leetcode.com/problem-list/top-100-liked-questions/)
 
+
 1D/2D Arrays
 ------
 
@@ -58,6 +59,7 @@ String
 :red_circle:  [1531. String Compression II](https://leetcode.com/problems/string-compression-ii/) [<sub><sup> String, Dynamic Programming </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) [<sub><sup> String, Rolling Hash, String Matching, Hash Function </sup></sub>]
+
 
 Arrays + Hashing
 ------
@@ -341,8 +343,6 @@ Graph/N-ary Tree/Trie
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2246. Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/) [<sub><sup> Array, String, Tree, Depth-First Search, Graph, Topological Sort </sup></sub>]
 
-:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) [<sub><sup> Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort </sup></sub>]
-
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/) [<sub><sup> Depth-First Search, Graph, Topological Sort </sup></sub>]
 
 
@@ -546,4 +546,6 @@ Uncategorized
 :yellow_circle:  [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) [<sub><sup> Linked List, Math, Reservoir Sampling, Randomized </sup></sub>]
 
 :yellow_circle:  [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/) [<sub><sup> Array, Linked List, Stack, Design, Doubly-Linked List, Data Stream </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) [<sub><sup> Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort </sup></sub>]
 
