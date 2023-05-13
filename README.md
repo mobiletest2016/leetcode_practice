@@ -398,6 +398,8 @@ Graph/N-ary Tree/Trie
 
 :yellow_circle:  [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/) [<sub><sup> Array, Hash Table, Dynamic Programming </sup></sub>]
 
+:yellow_circle:  [2466. Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) [<sub><sup> Dynamic Programming </sup></sub>]
+
 :yellow_circle:  [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
 :yellow_circle:  [1856. Maximum Subarray Min-Product](https://leetcode.com/problems/maximum-subarray-min-product/) [<sub><sup> Array, Stack, Monotonic Stack, Prefix Sum </sup></sub>]
