@@ -557,3 +557,5 @@ Uncategorized
 
 :yellow_circle:  [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) [<sub><sup> Array, Matrix, Simulation </sup></sub>]
 
+:yellow_circle:  [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) [<sub><sup> Array, Matrix, Simulation </sup></sub>]
+
