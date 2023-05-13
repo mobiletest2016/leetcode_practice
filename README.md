@@ -362,6 +362,8 @@ Graph/N-ary Tree/Trie
 
 :yellow_circle:  [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) [<sub><sup> Array, Dynamic Programming, Depth-First Search, Matrix, Simulation </sup></sub>]
 
+:yellow_circle:  [2140. Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/) [<sub><sup> Math, Dynamic Programming, Breadth-First Search </sup></sub>]
 
 :yellow_circle:  [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
