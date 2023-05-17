@@ -289,6 +289,8 @@ Binary Tree/Binary Search Tree
 
 :yellow_circle:  [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) [<sub><sup> Tree, Depth-First Search, Binary Search Tree, Binary Tree </sup></sub>]
 
+:yellow_circle:  [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) [<sub><sup> Linked List, Stack, Tree, Depth-First Search, Binary Tree </sup></sub>]
+
 :yellow_circle:  [814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) [<sub><sup> Tree, Depth-First Search, Binary Tree </sup></sub>]
 
 :yellow_circle:  [1457. Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) [<sub><sup> Bit Manipulation, Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
