@@ -548,6 +548,58 @@ Backtracking
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/) [<sub><sup> Backtracking </sup></sub>]
 
 
+Sub Array/Sub Set/Sub Sequence
+------
+
+:green_circle:	 [2389. Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) [<sub><sup> Array, Binary Search, Greedy, Sorting, Prefix Sum </sup></sub>]
+
+:green_circle:	 [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) [<sub><sup> Two Pointers, String, Dynamic Programming </sup></sub>]
+
+:yellow_circle:  [78. Subsets](https://leetcode.com/problems/subsets/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
+
+:yellow_circle:  [90. Subsets II](https://leetcode.com/problems/subsets-ii/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
+
+:yellow_circle:  [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) [<sub><sup> Array, Dynamic Programming, Greedy </sup></sub>]
+
+:yellow_circle:  [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) [<sub><sup> Array, Binary Search, Dynamic Programming </sup></sub>]
+
+:yellow_circle:  [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) [<sub><sup> Array, Greedy </sup></sub>]
+
+:yellow_circle:  [1027. Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) [<sub><sup> Array, Hash Table, Binary Search, Dynamic Programming </sup></sub>]
+
+:yellow_circle:  [1218. Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) [<sub><sup> Array, Hash Table, Dynamic Programming </sup></sub>]
+
+:yellow_circle:  [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) [<sub><sup> Array, Two Pointers, Binary Search, Sorting </sup></sub>]
+
+:yellow_circle:  [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) [<sub><sup> String, Dynamic Programming </sup></sub>]
+
+:yellow_circle:  [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) [<sub><sup> String, Dynamic Programming </sup></sub>]
+
+:yellow_circle:  [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [<sub><sup> Hash Table, String, Sliding Window </sup></sub>]
+
+:red_circle:  [2407. Longest Increasing Subsequence II](https://leetcode.com/problems/longest-increasing-subsequence-ii/) [<sub><sup> Array, Divide and Conquer, Dynamic Programming, Binary Indexed Tree, Segment Tree, Queue, Monotonic Queue </sup></sub>]
+
+:red_circle:  [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
+:red_circle:  [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) [<sub><sup> Hash Table, String, Sliding Window </sup></sub>]
+
+:red_circle:  [1542. Find Longest Awesome Substring](https://leetcode.com/problems/find-longest-awesome-substring/) [<sub><sup> Hash Table, String, Bit Manipulation </sup></sub>]
+
+:red_circle:  [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) [<sub><sup> Hash Table, String, Sliding Window </sup></sub>]
+
+:red_circle:  [1163. Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/) [<sub><sup> Two Pointers, String </sup></sub>]
+
+:red_circle:  [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) [<sub><sup> Array, Queue, Sliding Window, Monotonic Queue </sup></sub>]
+
+:red_circle:  [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) [<sub><sup> String, Dynamic Programming </sup></sub>]
+
+:red_circle:  [940. Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) [<sub><sup> String, Dynamic Programming </sup></sub>]
+
+:red_circle:  [2484. Count Palindromic Subsequences](https://leetcode.com/problems/count-palindromic-subsequences/) [<sub><sup> String, Dynamic Programming </sup></sub>]
+
+:red_circle:  [1923. Longest Common Subpath](https://leetcode.com/problems/longest-common-subpath/) [<sub><sup> Array, Binary Search, Rolling Hash, Suffix Array, Hash Function </sup></sub>]
+
+
 Uncategorized
 ------
 
