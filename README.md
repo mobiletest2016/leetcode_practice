@@ -575,3 +575,5 @@ Uncategorized
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [839. Similar String Groups](https://leetcode.com/problems/similar-string-groups/) [<sub><sup> Array, String, Depth-First Search, Breadth-First Search, Union Find </sup></sub>]
 
+:yellow_circle:  [1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) [<sub><sup> Graph </sup></sub>]
+
