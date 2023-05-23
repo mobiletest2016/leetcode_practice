@@ -81,6 +81,15 @@ Arrays + Hashing
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) [<sub><sup> Array, Hash Table </sup></sub>]
 
 
+Heap
+------
+
+:green_circle:	 [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) [<sub><sup> Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream </sup></sub>]
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) [<sub><sup> Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect </sup></sub>]
+
+
+
 Two Pointer
 ------
 
