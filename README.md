@@ -538,6 +538,8 @@ Intervals
 
 :yellow_circle:  [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) [<sub><sup> Array, Dynamic Programming, Greedy, Sorting </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) [<sub><sup> Array, Greedy, Sorting </sup></sub>]
+
 :yellow_circle:  [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) [<sub><sup> Array, Sorting </sup></sub>]
 
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [57. Insert Interval](https://leetcode.com/problems/insert-interval/) [<sub><sup> Array </sup></sub>]
