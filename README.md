@@ -94,6 +94,8 @@ Heap
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [857. Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) [<sub><sup> Array, Greedy, Sorting, Heap (Priority Queue) </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [502. IPO](https://leetcode.com/problems/ipo/) [<sub><sup> Array, Greedy, Sorting, Heap (Priority Queue) </sup></sub>]
+
 
 Two Pointer
 ------
