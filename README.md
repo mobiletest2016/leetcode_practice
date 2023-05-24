@@ -90,6 +90,10 @@ Heap
 
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) [<sub><sup> Array, Greedy, Sorting, Heap (Priority Queue) </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1383. Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/) [<sub><sup> Array, Greedy, Sorting, Heap (Priority Queue) </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [857. Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) [<sub><sup> Array, Greedy, Sorting, Heap (Priority Queue) </sup></sub>]
+
 
 Two Pointer
 ------
@@ -648,6 +652,4 @@ Uncategorized
 :yellow_circle:  [1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) [<sub><sup> Graph </sup></sub>]
 
 :green_circle:	 [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) [<sub><sup> Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream </sup></sub>]
-
-:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1383. Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/) [<sub><sup> Array, Greedy, Sorting, Heap (Priority Queue) </sup></sub>]
 
