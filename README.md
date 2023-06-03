@@ -491,6 +491,8 @@ Graph/N-ary Tree/Trie
 
 :red_circle:  [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) [<sub><sup> String, Dynamic Programming </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1547. Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) [<sub><sup> Array, Dynamic Programming, Sorting </sup></sub>]
+
 :red_circle:  [1220. Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) [<sub><sup> Dynamic Programming </sup></sub>]
 
 :red_circle:  [1866. Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) [<sub><sup> Math, Dynamic Programming, Combinatorics </sup></sub>]
