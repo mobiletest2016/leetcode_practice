@@ -246,6 +246,8 @@ DFS/BFS
 
 :yellow_circle:  [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Union Find, Matrix </sup></sub>]
 
+:yellow_circle:  [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) [<sub><sup> Tree, Depth-First Search, Breadth-First Search </sup></sub>]
+
 :yellow_circle:  [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Union Find, Matrix </sup></sub>]
 
 :yellow_circle:  [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/) [<sub><sup> Array, Math, Depth-First Search, Breadth-First Search, Graph, Geometry </sup></sub>]
