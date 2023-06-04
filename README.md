@@ -96,6 +96,8 @@ Heap
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [502. IPO](https://leetcode.com/problems/ipo/) [<sub><sup> Array, Greedy, Sorting, Heap (Priority Queue) </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) [<sub><sup> Array, Divide and Conquer, Binary Indexed Tree, Segment Tree, Line Sweep, Heap (Priority Queue), Ordered Set </sup></sub>]
+
 
 Two Pointer
 ------
@@ -605,6 +607,8 @@ Sub Array/Sub Set/Sub Sequence
 
 :yellow_circle:  [1218. Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) [<sub><sup> Array, Hash Table, Dynamic Programming </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) [<sub><sup> Array, Binary Search, Dynamic Programming, Sorting </sup></sub>]
+
 :yellow_circle:  [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) [<sub><sup> Array, Two Pointers, Binary Search, Sorting </sup></sub>]
 
 :yellow_circle:  [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) [<sub><sup> String, Dynamic Programming </sup></sub>]
@@ -666,8 +670,4 @@ Uncategorized
 :yellow_circle:  [1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) [<sub><sup> Graph </sup></sub>]
 
 :green_circle:	 [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) [<sub><sup> Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream </sup></sub>]
-
-:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) [<sub><sup> Array, Binary Search, Dynamic Programming, Sorting </sup></sub>]
-
-:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) [<sub><sup> Array, Divide and Conquer, Binary Indexed Tree, Segment Tree, Line Sweep, Heap (Priority Queue), Ordered Set </sup></sub>]
 
