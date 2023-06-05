@@ -262,6 +262,8 @@ DFS/BFS
 
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Matrix </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) [<sub><sup> Depth-First Search, Graph, Eulerian Circuit </sup></sub>]
+
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) [<sub><sup> Hash Table, Dynamic Programming, Graph, Topological Sort, Memoization, Counting </sup></sub>]
 
 :red_circle:  [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) [<sub><sup> Array, Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Topological Sort, Memoization, Matrix </sup></sub>]
