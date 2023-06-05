@@ -669,6 +669,8 @@ Math
 
 :green_circle:	 [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) [<sub><sup> Math, Bit Manipulation </sup></sub>]
 
+:green_circle:	 [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) [<sub><sup> Math, Greedy </sup></sub>]
+
 :yellow_circle:  [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) [<sub><sup> Math, Recursion </sup></sub>]
 
 :yellow_circle:  [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) [<sub><sup> Math, Brainteaser </sup></sub>]
