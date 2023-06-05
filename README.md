@@ -266,6 +266,8 @@ DFS/BFS
 
 :red_circle:  [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) [<sub><sup> Array, Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Topological Sort, Memoization, Matrix </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) [<sub><sup> Depth-First Search, Graph, Biconnected Component </sup></sub>]
+
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/) [<sub><sup> Array, Hash Table, Breadth-First Search </sup></sub>]
 
 Binary Tree/Binary Search Tree
