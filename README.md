@@ -659,6 +659,8 @@ Math
 
 :yellow_circle:  [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) [<sub><sup> Math, Recursion </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/) [<sub><sup> Math, Dynamic Programming, Breadth-First Search </sup></sub>]
+
 :yellow_circle:  [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/) [<sub><sup> Math, Geometry </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) [<sub><sup> Array, Hash Table, Math, Geometry </sup></sub>]
