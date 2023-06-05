@@ -671,6 +671,8 @@ Math
 
 :yellow_circle:  [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/) [<sub><sup> Math, Geometry </sup></sub>]
 
+:yellow_circle:  [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) [<sub><sup> Array, Math, Divide and Conquer, Geometry, Sorting, Heap (Priority Queue), Quickselect </sup></sub>]
+
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) [<sub><sup> Array, Hash Table, Math, Geometry </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [458. Poor Pigs](https://leetcode.com/problems/poor-pigs/) [<sub><sup> Math, Dynamic Programming, Combinatorics </sup></sub>]
