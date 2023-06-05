@@ -657,6 +657,8 @@ Math
 
 :green_circle:	 [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) [<sub><sup> Array, Math, Geometry </sup></sub>]
 
+:green_circle:	 [342. Power of Four](https://leetcode.com/problems/power-of-four/) [<sub><sup> Math, Bit Manipulation, Recursion </sup></sub>]
+
 :green_circle:	 [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) [<sub><sup> Math, Binary Search </sup></sub>]
 
 :yellow_circle:  [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) [<sub><sup> Math, Recursion </sup></sub>]
