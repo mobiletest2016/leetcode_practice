@@ -653,6 +653,8 @@ Math
 
 :green_circle:	 [263. Ugly Number](https://leetcode.com/problems/ugly-number/) [<sub><sup> Math </sup></sub>]
 
+:green_circle:	 [326. Power of Three](https://leetcode.com/problems/power-of-three/) [<sub><sup> Math, Recursion </sup></sub>]
+
 :green_circle:	 [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) [<sub><sup> Array, Math, Geometry </sup></sub>]
 
 :green_circle:	 [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) [<sub><sup> Math, Binary Search </sup></sub>]
