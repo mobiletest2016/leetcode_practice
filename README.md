@@ -644,6 +644,14 @@ Sub Array/Sub Set/Sub Sequence
 :red_circle:  [1923. Longest Common Subpath](https://leetcode.com/problems/longest-common-subpath/) [<sub><sup> Array, Binary Search, Rolling Hash, Suffix Array, Hash Function </sup></sub>]
 
 
+Math
+------
+
+:green_circle:	 [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) [<sub><sup> Array, Math, Geometry </sup></sub>]
+
+
+
+
 Uncategorized
 ------
 
