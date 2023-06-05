@@ -667,6 +667,8 @@ Math
 
 :green_circle:	 [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) [<sub><sup> Math, Dynamic Programming, Memoization </sup></sub>]
 
+:green_circle:	 [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) [<sub><sup> Math, Bit Manipulation </sup></sub>]
+
 :yellow_circle:  [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) [<sub><sup> Math, Recursion </sup></sub>]
 
 :yellow_circle:  [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) [<sub><sup> Math, Brainteaser </sup></sub>]
