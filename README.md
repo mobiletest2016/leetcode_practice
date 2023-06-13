@@ -168,6 +168,8 @@ Binary Search
 
 :yellow_circle:  [2064. Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) [<sub><sup> Array, Binary Search </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1802. Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) [<sub><sup> Binary Search, Greedy </sup></sub>]
+
 :yellow_circle:  [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) [<sub><sup> Array, Binary Search </sup></sub>]
 
 :yellow_circle:  [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) [<sub><sup> Array, Binary Search, Sorting, Heap (Priority Queue), Matrix </sup></sub>]
