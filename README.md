@@ -743,3 +743,5 @@ Uncategorized
 
 :yellow_circle:  [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) [<sub><sup> Array, Binary Search, Sliding Window, Prefix Sum </sup></sub>]
 
+:yellow_circle:  [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) [<sub><sup> Array, Hash Table, Sliding Window, Prefix Sum </sup></sub>]
+
