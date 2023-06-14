@@ -142,7 +142,25 @@ Sliding Window
 
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1838. Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) [<sub><sup> Array, Binary Search, Greedy, Sliding Window, Sorting, Prefix Sum </sup></sub>]
 
+:yellow_circle:  [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) [<sub><sup> Array, Dynamic Programming, Sliding Window </sup></sub>]
+
+:yellow_circle:  [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) [<sub><sup> Hash Table, String, Sliding Window </sup></sub>]
+
+:yellow_circle:  [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) [<sub><sup> Array, Hash Table, Math, Sliding Window </sup></sub>]
+
+:yellow_circle:  [1234. Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) [<sub><sup> String, Sliding Window </sup></sub>]
+
+:yellow_circle:  [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) [<sub><sup> Array, Binary Search, Sliding Window, Prefix Sum </sup></sub>]
+
+:yellow_circle:  [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) [<sub><sup> Array, Hash Table, Sliding Window, Prefix Sum </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture>  [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) [<sub><sup> Array, Hash Table, Sliding Window, Counting </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [862. Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) [<sub><sup> Array, Binary Search, Queue, Sliding Window, Heap (Priority Queue), Prefix Sum, Monotonic Queue </sup></sub>]
+
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) [<sub><sup> Array, Queue, Sliding Window, Monotonic Queue </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture>   [1425. Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/) [<sub><sup> Array, Dynamic Programming, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue </sup></sub>]
 
 
 Binary Search
@@ -730,22 +748,4 @@ Uncategorized
 :yellow_circle:  [1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) [<sub><sup> Graph </sup></sub>]
 
 :green_circle:	 [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) [<sub><sup> Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream </sup></sub>]
-
-:yellow_circle:  [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) [<sub><sup> Array, Dynamic Programming, Sliding Window </sup></sub>]
-
-:red_circle:  [1425. Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/) [<sub><sup> Array, Dynamic Programming, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue </sup></sub>]
-
-:yellow_circle:  [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) [<sub><sup> Hash Table, String, Sliding Window </sup></sub>]
-
-:yellow_circle:  [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) [<sub><sup> Array, Hash Table, Math, Sliding Window </sup></sub>]
-
-:yellow_circle:  [1234. Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) [<sub><sup> String, Sliding Window </sup></sub>]
-
-:yellow_circle:  [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) [<sub><sup> Array, Binary Search, Sliding Window, Prefix Sum </sup></sub>]
-
-:yellow_circle:  [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) [<sub><sup> Array, Hash Table, Sliding Window, Prefix Sum </sup></sub>]
-
-:red_circle:  [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) [<sub><sup> Array, Hash Table, Sliding Window, Counting </sup></sub>]
-
-:red_circle:  [862. Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) [<sub><sup> Array, Binary Search, Queue, Sliding Window, Heap (Priority Queue), Prefix Sum, Monotonic Queue </sup></sub>]
 
