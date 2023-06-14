@@ -16,6 +16,8 @@ Links
 
 [LeetCode Top 100 Questions](https://leetcode.com/problem-list/top-100-liked-questions/)
 
+[Sliding Window Cheat Sheet](https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/c-maximum-sliding-window-cheatsheet-template/)
+
 
 1D/2D Arrays
 ------
