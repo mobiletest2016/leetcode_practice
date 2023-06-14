@@ -140,6 +140,8 @@ Sliding Window
 
 :yellow_circle:  [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) [<sub><sup> Array, Hash Table, Sliding Window </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1838. Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) [<sub><sup> Array, Binary Search, Greedy, Sliding Window, Sorting, Prefix Sum </sup></sub>]
+
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) [<sub><sup> Array, Queue, Sliding Window, Monotonic Queue </sup></sub>]
 
 
@@ -186,7 +188,7 @@ Binary Search
 
 :yellow_circle:  [1818. Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/) [<sub><sup> Array, Binary Search, Sorting, Ordered Set </sup></sub>]
 
-:yellow_circle:  [1838. Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) [<sub><sup> Array, Binary Search, Greedy, Sliding Window, Sorting, Prefix Sum </sup></sub>]
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture>  [1838. Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) [<sub><sup> Array, Binary Search, Greedy, Sliding Window, Sorting, Prefix Sum </sup></sub>]
 
 :yellow_circle:  [1201. Ugly Number III](https://leetcode.com/problems/ugly-number-iii/) [<sub><sup> Math, Binary Search, Number Theory </sup></sub>]
 
@@ -728,4 +730,6 @@ Uncategorized
 :yellow_circle:  [1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) [<sub><sup> Graph </sup></sub>]
 
 :green_circle:	 [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) [<sub><sup> Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream </sup></sub>]
+
+:yellow_circle:  [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) [<sub><sup> Array, Dynamic Programming, Sliding Window </sup></sub>]
 
