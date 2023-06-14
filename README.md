@@ -747,3 +747,5 @@ Uncategorized
 
 :red_circle:  [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) [<sub><sup> Array, Hash Table, Sliding Window, Counting </sup></sub>]
 
+:red_circle:  [862. Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) [<sub><sup> Array, Binary Search, Queue, Sliding Window, Heap (Priority Queue), Prefix Sum, Monotonic Queue </sup></sub>]
+
