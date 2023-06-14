@@ -733,3 +733,5 @@ Uncategorized
 
 :yellow_circle:  [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) [<sub><sup> Array, Dynamic Programming, Sliding Window </sup></sub>]
 
+:red_circle:  [1425. Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/) [<sub><sup> Array, Dynamic Programming, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue </sup></sub>]
+
