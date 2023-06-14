@@ -735,3 +735,5 @@ Uncategorized
 
 :red_circle:  [1425. Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/) [<sub><sup> Array, Dynamic Programming, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue </sup></sub>]
 
+:yellow_circle:  [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) [<sub><sup> Hash Table, String, Sliding Window </sup></sub>]
+
