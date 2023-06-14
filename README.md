@@ -737,3 +737,5 @@ Uncategorized
 
 :yellow_circle:  [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) [<sub><sup> Hash Table, String, Sliding Window </sup></sub>]
 
+:yellow_circle:  [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) [<sub><sup> Array, Hash Table, Math, Sliding Window </sup></sub>]
+
