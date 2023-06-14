@@ -745,3 +745,5 @@ Uncategorized
 
 :yellow_circle:  [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) [<sub><sup> Array, Hash Table, Sliding Window, Prefix Sum </sup></sub>]
 
+:red_circle:  [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) [<sub><sup> Array, Hash Table, Sliding Window, Counting </sup></sub>]
+
