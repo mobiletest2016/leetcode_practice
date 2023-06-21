@@ -150,6 +150,8 @@ Sliding Window
 
 :yellow_circle:  [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) [<sub><sup> Array, Hash Table, Math, Sliding Window </sup></sub>]
 
+:yellow_circle:  [2090. K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/) [<sub><sup> Array, Sliding Window </sup></sub>]
+
 :yellow_circle:  [1234. Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) [<sub><sup> String, Sliding Window </sup></sub>]
 
 :yellow_circle:  [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) [<sub><sup> Array, Binary Search, Sliding Window, Prefix Sum </sup></sub>]
