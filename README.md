@@ -186,6 +186,8 @@ Binary Search
 
 :green_circle:	 [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) [<sub><sup> Binary Search, Interactive </sup></sub>]
 
+:yellow_circle:  [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) [<sub><sup> Array, Binary Search </sup></sub>]
+
 :yellow_circle:  [1552. Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/) [<sub><sup> Array, Binary Search, Sorting </sup></sub>]
 
 :yellow_circle:  [1870. Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/) [<sub><sup> Array, Binary Search </sup></sub>]
