@@ -307,6 +307,8 @@ DFS/BFS
 Binary Tree/Binary Search Tree
 ------
 
+:green_circle:	<picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) [<sub><sup> Tree, Depth-First Search, Breadth-First Search, Binary Search Tree, Binary Tree </sup></sub>]
+
 :green_circle:	 [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) [<sub><sup> Tree, Depth-First Search, Binary Search Tree, Binary Tree </sup></sub>]
 
 :green_circle:	 [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) [<sub><sup> String, Tree, Depth-First Search, Binary Tree </sup></sub>]
