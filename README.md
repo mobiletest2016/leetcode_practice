@@ -6,6 +6,10 @@ Question Lists
 Links
 -----
 
+[Leetcode System Design Posts](https://leetcode.com/discuss/interview-question/1140451/helpful-list-of-leetcode-posts-on-system-design-at-facebook-google-amazon-uber-microsoft)
+
+[Important and Useful links from all over the LeetCode](https://leetcode.com/discuss/general-discussion/665604/Important-and-Useful-links-from-all-over-the-LeetCode)
+
 [A Concise Template for "Overlapping Interval Problem"](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/solutions/93735/a-concise-template-for-overlapping-interval-problem/)
 
 [The ART of Dynamic Programming - An Intuitive Approach: From Apprentice to Master](https://leetcode.com/discuss/general-discussion/712010/The-ART-of-Dynamic-Programming-An-Intuitive-Approach%3A-from-Apprentice-to-Master)
