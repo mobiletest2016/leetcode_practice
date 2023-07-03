@@ -781,3 +781,5 @@ Uncategorized
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2448. Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/) [<sub><sup> Array, Binary Search, Greedy, Sorting, Prefix Sum </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1575. Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/) [<sub><sup> Array, Dynamic Programming, Memoization </sup></sub>]
+
