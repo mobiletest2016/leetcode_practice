@@ -94,6 +94,8 @@ Heap
 
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) [<sub><sup> Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect </sup></sub>]
 
+:yellow_circle:  [2462. Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) [<sub><sup> Array, Two Pointers, Heap (Priority Queue), Simulation </sup></sub>]
+
 :yellow_circle:  [1366. Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/) [<sub><sup> Array, Hash Table, String, Sorting, Counting </sup></sub>]
 
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [373. Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) [<sub><sup> Array, Heap (Priority Queue) </sup></sub>]
