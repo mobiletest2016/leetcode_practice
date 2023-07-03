@@ -302,6 +302,8 @@ DFS/BFS
 
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Matrix </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1970. Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/) [<sub><sup> Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Matrix </sup></sub>]
+
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [815. Bus Routes](https://leetcode.com/problems/bus-routes/) [<sub><sup> Array, Hash Table, Breadth-First Search </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [864. Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/) [<sub><sup> Array, Bit Manipulation, Breadth-First Search, Matrix </sup></sub>]
