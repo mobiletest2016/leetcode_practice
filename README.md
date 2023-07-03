@@ -96,6 +96,8 @@ Heap
 
 :yellow_circle:  [1366. Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/) [<sub><sup> Array, Hash Table, String, Sorting, Counting </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [373. Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) [<sub><sup> Array, Heap (Priority Queue) </sup></sub>]
+
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) [<sub><sup> Array, Greedy, Sorting, Heap (Priority Queue) </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1383. Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/) [<sub><sup> Array, Greedy, Sorting, Heap (Priority Queue) </sup></sub>]
