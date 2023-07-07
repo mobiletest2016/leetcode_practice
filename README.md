@@ -156,6 +156,8 @@ Sliding Window
 
 :yellow_circle:  [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) [<sub><sup> Array, Dynamic Programming, Sliding Window </sup></sub>]
 
+:yellow_circle:  [2024. Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) [<sub><sup> String, Binary Search, Sliding Window, Prefix Sum </sup></sub>]
+
 :yellow_circle:  [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) [<sub><sup> Hash Table, String, Sliding Window </sup></sub>]
 
 :yellow_circle:  [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) [<sub><sup> Array, Hash Table, Math, Sliding Window </sup></sub>]
