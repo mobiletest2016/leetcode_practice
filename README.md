@@ -789,3 +789,5 @@ Uncategorized
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [956. Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [2272. Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
