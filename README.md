@@ -108,7 +108,7 @@ Heap
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [502. IPO](https://leetcode.com/problems/ipo/) [<sub><sup> Array, Greedy, Sorting, Heap (Priority Queue) </sup></sub>]
 
-:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) [<sub><sup> Array, Divide and Conquer, Binary Indexed Tree, Segment Tree, Line Sweep, Heap (Priority Queue), Ordered Set </sup></sub>]
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) [<sub><sup> Array, Divide and Conquer, Binary Indexed Tree, Segment Tree, Line Sweep, Heap (Priority Queue), Ordered Set </sup></sub>]
 
 
 Two Pointer
@@ -118,19 +118,19 @@ Two Pointer
 
 :yellow_circle:  [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) [<sub><sup> Array, Two Pointers, Greedy </sup></sub>]
 
-:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) [<sub><sup> Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack </sup></sub>]
-
 :green_circle:	 [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) [<sub><sup> Array </sup></sub>]
-
-:yellow_circle:  [15. 3Sum](https://leetcode.com/problems/3sum/) [<sub><sup> Array, Two Pointers, Sorting </sup></sub>]
-
-:yellow_circle:  [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) [<sub><sup> Array, Two Pointers, Sorting </sup></sub>]
 
 :green_circle:	 [1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) [<sub><sup> Two Pointers, String </sup></sub>]
 
 :green_circle:	 [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [<sub><sup> Array, Two Pointers </sup></sub>]
 
 :yellow_circle:  [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) [<sub><sup> Array, Two Pointers </sup></sub>]
+
+:yellow_circle:  [15. 3Sum](https://leetcode.com/problems/3sum/) [<sub><sup> Array, Two Pointers, Sorting </sup></sub>]
+
+:yellow_circle:  [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) [<sub><sup> Array, Two Pointers, Sorting </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) [<sub><sup> Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack </sup></sub>]
 
 
 Sliding Window
@@ -308,7 +308,7 @@ DFS/BFS
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [815. Bus Routes](https://leetcode.com/problems/bus-routes/) [<sub><sup> Array, Hash Table, Breadth-First Search </sup></sub>]
 
-:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [864. Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/) [<sub><sup> Array, Bit Manipulation, Breadth-First Search, Matrix </sup></sub>]
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [864. Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/) [<sub><sup> Array, Bit Manipulation, Breadth-First Search, Matrix </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) [<sub><sup> Depth-First Search, Graph, Eulerian Circuit </sup></sub>]
 
@@ -442,7 +442,7 @@ Graph/N-ary Tree/Trie
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1697. Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/) [<sub><sup> Array, Union Find, Graph, Sorting </sup></sub>]
 
 
-1-D Array + Dynamic Programming
+(1)/1D Array + Dynamic Programming
 ------
 :green_circle:	 [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) [<sub><sup> Math, Dynamic Programming, Recursion, Memoization </sup></sub>]
 
@@ -530,12 +530,12 @@ Graph/N-ary Tree/Trie
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1187. Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/) [<sub><sup> Array, Binary Search, Dynamic Programming, Sorting </sup></sub>]
 
-:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2218. Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/) [<sub><sup> Array, Dynamic Programming, Prefix Sum </sup></sub>]
 
 
-2-D/n-D Array + Dynamic Programming
+2D/nD Array + Dynamic Programming
 ------
 :yellow_circle:  [62. Unique Paths](https://leetcode.com/problems/unique-paths/) [<sub><sup> Math, Dynamic Programming, Combinatorics </sup></sub>]
 
@@ -667,8 +667,6 @@ Sub Array/Sub Set/Sub Sequence
 
 :yellow_circle:  [1218. Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) [<sub><sup> Array, Hash Table, Dynamic Programming </sup></sub>]
 
-:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) [<sub><sup> Array, Binary Search, Dynamic Programming, Sorting </sup></sub>]
-
 :yellow_circle:  [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) [<sub><sup> Array, Two Pointers, Binary Search, Sorting </sup></sub>]
 
 :yellow_circle:  [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) [<sub><sup> String, Dynamic Programming </sup></sub>]
@@ -680,6 +678,8 @@ Sub Array/Sub Set/Sub Sequence
 :red_circle:  [2407. Longest Increasing Subsequence II](https://leetcode.com/problems/longest-increasing-subsequence-ii/) [<sub><sup> Array, Divide and Conquer, Dynamic Programming, Binary Indexed Tree, Segment Tree, Queue, Monotonic Queue </sup></sub>]
 
 :red_circle:  [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) [<sub><sup> Array, Binary Search, Dynamic Programming, Sorting </sup></sub>]
 
 :red_circle:  [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) [<sub><sup> Hash Table, String, Sliding Window </sup></sub>]
 
@@ -787,7 +787,7 @@ Uncategorized
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1575. Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/) [<sub><sup> Array, Dynamic Programming, Memoization </sup></sub>]
 
-:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [956. Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [956. Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [2272. Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
