@@ -298,6 +298,8 @@ DFS/BFS
 
 :yellow_circle:  [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) [<sub><sup> Depth-First Search, Breadth-First Search, Union Find, Graph </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) [<sub><sup> Depth-First Search, Breadth-First Search, Graph, Topological Sort </sup></sub>]
+
 :yellow_circle:  [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/) [<sub><sup> Array, Math, Depth-First Search, Breadth-First Search, Graph, Geometry </sup></sub>]
 
 :yellow_circle:  [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Union Find, Matrix </sup></sub>]
