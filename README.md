@@ -653,6 +653,8 @@ Backtracking
 
 :yellow_circle:  [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) [<sub><sup> String, Dynamic Programming, Backtracking </sup></sub>]
 
+:yellow_circle:  [2305. Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/) [<sub><sup> Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask </sup></sub>]
+
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [51. N-Queens](https://leetcode.com/problems/n-queens/) [<sub><sup> Array, Backtracking </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/) [<sub><sup> Backtracking </sup></sub>]
