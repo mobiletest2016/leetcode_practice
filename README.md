@@ -528,6 +528,8 @@ Graph/N-ary Tree/Trie
 
 :red_circle:  [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [2272. Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/) [<sub><sup> Array, Math, Dynamic Programming, Game Theory </sup></sub>]
 
 :red_circle:  [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
@@ -796,6 +798,4 @@ Uncategorized
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1575. Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/) [<sub><sup> Array, Dynamic Programming, Memoization </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [956. Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
-
-:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [2272. Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
