@@ -333,6 +333,8 @@ Binary Tree/Binary Search Tree
 
 :green_circle:	 [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) [<sub><sup> Tree, Depth-First Search, Binary Search Tree, Binary Tree </sup></sub>]
 
+:green_circle:	 [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) [<sub><sup> Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
+
 :green_circle:	 [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) [<sub><sup> String, Tree, Depth-First Search, Binary Tree </sup></sub>]
 
 :green_circle:	 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) [<sub><sup> Stack, Tree, Depth-First Search, Binary Tree </sup></sub>]
