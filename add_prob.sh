@@ -68,9 +68,12 @@ else
 	echo -n ":green_circle:	" >> README.md
 fi
 
-read -p "Annotate this question (n/N - Ninja, s/S - Star, Enter-None) ?" choice
+echo "Annotation difficulty: Ninja >> Bulb >> Star >> None"
+read -p "Annotate this question (n/N - Ninja, b/B - Bulb, s/S - Star, Enter-None) ?" choice
 	if [[ $choice == 's' || $choise == 'S' ]]; then
 		echo -n  "<picture><img class=\"emoji\" alt=\"star\" height=\"35\" width=\"35\" src=\"https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true\"></picture> " >> README.md
+	elif [[ $choice == 'b' || $choise == 'B' ]]; then
+		echo -n  "<picture><img class=\"emoji\" alt=\"bulb\" height=\"35\" width=\"35\" src=\"https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true\"></picture> " >> README.md
 	elif [[ $choice == 'n' || $choise == 'N' ]]; then
 		echo -n  "<picture><img class=\"emoji\" alt=\"ninja\" height=\"35\" width=\"35\" src=\"https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true\"></picture> " >> README.md
 	else
