@@ -294,6 +294,8 @@ DFS/BFS
 
 :yellow_circle:  [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Union Find, Matrix </sup></sub>]
 
+:yellow_circle:  [207. Course Schedule](https://leetcode.com/problems/course-schedule/) [<sub><sup> Depth-First Search, Breadth-First Search, Graph, Topological Sort </sup></sub>]
+
 :yellow_circle:  [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) [<sub><sup> Depth-First Search, Breadth-First Search, Union Find, Graph </sup></sub>]
 
 :yellow_circle:  [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/) [<sub><sup> Array, Math, Depth-First Search, Breadth-First Search, Graph, Geometry </sup></sub>]
