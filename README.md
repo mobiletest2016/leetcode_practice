@@ -152,7 +152,7 @@ Sliding Window
 
 :yellow_circle:  [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) [<sub><sup> Array, Hash Table, Sliding Window </sup></sub>]
 
-:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1838. Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) [<sub><sup> Array, Binary Search, Greedy, Sliding Window, Sorting, Prefix Sum </sup></sub>]
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1838. Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) [<sub><sup> Array, Binary Search, Greedy, Sliding Window, Sorting, Prefix Sum </sup></sub>]
 
 :yellow_circle:  [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) [<sub><sup> Array, Dynamic Programming, Sliding Window </sup></sub>]
 
@@ -677,9 +677,9 @@ Sub Array/Sub Set/Sub Sequence
 
 :yellow_circle:  [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) [<sub><sup> Array, Greedy </sup></sub>]
 
-:yellow_circle:  [1027. Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) [<sub><sup> Array, Hash Table, Binary Search, Dynamic Programming </sup></sub>]
+:yellow_circle:  <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1027. Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) [<sub><sup> Array, Hash Table, Binary Search, Dynamic Programming </sup></sub>]
 
-:yellow_circle:  [1218. Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) [<sub><sup> Array, Hash Table, Dynamic Programming </sup></sub>]
+:yellow_circle:  <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1218. Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) [<sub><sup> Array, Hash Table, Dynamic Programming </sup></sub>]
 
 :yellow_circle:  [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) [<sub><sup> Array, Two Pointers, Binary Search, Sorting </sup></sub>]
 
