@@ -575,6 +575,8 @@ Graph/N-ary Tree/Trie
 
 :red_circle:  [879. Profitable Schemes](https://leetcode.com/problems/profitable-schemes/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1751. Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/) [<sub><sup> Array, Binary Search, Dynamic Programming, Sorting </sup></sub>]
+
 
 String + Dynamic Programming
 ------
