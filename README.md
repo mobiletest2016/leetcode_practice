@@ -812,3 +812,5 @@ Uncategorized
 :yellow_circle:  [39. Combination Sum](https://leetcode.com/problems/combination-sum/) [<sub><sup> Array, Backtracking </sup></sub>]
 
 :yellow_circle:  [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) [<sub><sup> Array, Backtracking </sup></sub>]
+
+:yellow_circle:  [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) [<sub><sup> Array, Backtracking </sup></sub>]
