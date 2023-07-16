@@ -765,6 +765,8 @@ Math
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1799. Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/) [<sub><sup> Array, Math, Dynamic Programming, Backtracking, Bit Manipulation, Number Theory, Bitmask </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [564. Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/) [<sub><sup> Math, String </sup></sub>]
+
 
 Uncategorized
 ------
