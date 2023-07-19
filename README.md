@@ -816,3 +816,5 @@ Uncategorized
 :yellow_circle:  [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) [<sub><sup> Array, Backtracking </sup></sub>]
 
 :yellow_circle:  [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) [<sub><sup> Array, Backtracking </sup></sub>]
+
+:yellow_circle:  [146. LRU Cache](https://leetcode.com/problems/lru-cache/) [<sub><sup> Hash Table, Linked List, Design, Doubly-Linked List </sup></sub>]
