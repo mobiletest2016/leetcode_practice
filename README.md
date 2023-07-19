@@ -23,6 +23,16 @@ Links
 [Sliding Window Cheat Sheet](https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/c-maximum-sliding-window-cheatsheet-template/)
 
 
+Design
+------
+
+:yellow_circle:  [146. LRU Cache](https://leetcode.com/problems/lru-cache/) [<sub><sup> Hash Table, Linked List, Design, Doubly-Linked List </sup></sub>]
+
+:yellow_circle:  [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/) [<sub><sup> Array, Linked List, Stack, Design, Doubly-Linked List, Data Stream </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [RPC Log Detect Timeout](https://github.com/mobiletest2016/leetcode_practice/blob/master/rpc_log_detect_timeout.md)
+
+
 1D/2D Arrays
 ------
 
@@ -783,8 +793,6 @@ Uncategorized
 
 :yellow_circle:  [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) [<sub><sup> Linked List, Math, Reservoir Sampling, Randomized </sup></sub>]
 
-:yellow_circle:  [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/) [<sub><sup> Array, Linked List, Stack, Design, Doubly-Linked List, Data Stream </sup></sub>]
-
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) [<sub><sup> Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort </sup></sub>]
 
 :yellow_circle:  [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) [<sub><sup> Array, Matrix, Simulation </sup></sub>]
@@ -816,5 +824,3 @@ Uncategorized
 :yellow_circle:  [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) [<sub><sup> Array, Backtracking </sup></sub>]
 
 :yellow_circle:  [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) [<sub><sup> Array, Backtracking </sup></sub>]
-
-:yellow_circle:  [146. LRU Cache](https://leetcode.com/problems/lru-cache/) [<sub><sup> Hash Table, Linked List, Design, Doubly-Linked List </sup></sub>]
