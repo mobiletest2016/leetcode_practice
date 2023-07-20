@@ -38,6 +38,8 @@ Design
 
 :green_circle:	 [1287. Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) [<sub><sup> Array </sup></sub>]
 
+:green_circle:	<picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) [<sub><sup> Array, Hash Table, Stack, Monotonic Stack </sup></sub>]
+
 :green_circle:	 [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) [<sub><sup> Array, Greedy </sup></sub>]
 
 :yellow_circle:  [78. Subsets](https://leetcode.com/problems/subsets/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
