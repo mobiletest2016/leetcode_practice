@@ -48,6 +48,8 @@ Design
 
 :yellow_circle:  [835. Image Overlap](https://leetcode.com/problems/image-overlap/) [<sub><sup> Array, Matrix </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) [<sub><sup> Array, Stack, Simulation </sup></sub>]
+
 :yellow_circle:  [384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) [<sub><sup> Array, Math, Randomized </sup></sub>]
 
 :yellow_circle:  [48. Rotate Image](https://leetcode.com/problems/rotate-image/) [<sub><sup> Array, Math, Matrix </sup></sub>]
