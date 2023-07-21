@@ -695,6 +695,8 @@ Sub Array/Sub Set/Sub Sequence
 
 :yellow_circle:  [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) [<sub><sup> Array, Dynamic Programming, Greedy </sup></sub>]
 
+:yellow_circle:  [646. Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) [<sub><sup> Array, Dynamic Programming, Greedy, Sorting </sup></sub>]
+
 :yellow_circle:  [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) [<sub><sup> Array, Binary Search, Dynamic Programming </sup></sub>]
 
 :yellow_circle:  [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/) [<sub><sup> Array, Hash Table, Two Pointers, String, Dynamic Programming </sup></sub>]
