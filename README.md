@@ -482,6 +482,8 @@ Graph/N-ary Tree/Trie
 
 :yellow_circle:  [91. Decode Ways](https://leetcode.com/problems/decode-ways/) [<sub><sup> String, Dynamic Programming </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) [<sub><sup> Array, Dynamic Programming, Binary Indexed Tree, Segment Tree </sup></sub>]
+
 :yellow_circle:  [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) [<sub><sup> Array, Dynamic Programming, Depth-First Search, Matrix, Simulation </sup></sub>]
 
 :yellow_circle:  [2140. Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
@@ -692,6 +694,8 @@ Sub Array/Sub Set/Sub Sequence
 :yellow_circle:  [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) [<sub><sup> Array, Dynamic Programming, Greedy </sup></sub>]
 
 :yellow_circle:  [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) [<sub><sup> Array, Binary Search, Dynamic Programming </sup></sub>]
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) [<sub><sup> Array, Dynamic Programming, Binary Indexed Tree, Segment Tree </sup></sub>]
 
 :yellow_circle:  [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) [<sub><sup> Array, Greedy </sup></sub>]
 
