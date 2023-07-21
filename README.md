@@ -695,6 +695,8 @@ Sub Array/Sub Set/Sub Sequence
 
 :yellow_circle:  [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) [<sub><sup> Array, Binary Search, Dynamic Programming </sup></sub>]
 
+:yellow_circle:  [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/) [<sub><sup> Array, Hash Table, Two Pointers, String, Dynamic Programming </sup></sub>]
+
 :yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) [<sub><sup> Array, Dynamic Programming, Binary Indexed Tree, Segment Tree </sup></sub>]
 
 :yellow_circle:  [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) [<sub><sup> Array, Greedy </sup></sub>]
