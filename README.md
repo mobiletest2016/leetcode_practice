@@ -38,6 +38,8 @@ Stack/Monotonic Stack
 
 :green_circle:	<picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) [<sub><sup> Array, Hash Table, Stack, Monotonic Stack </sup></sub>]
 
+:yellow_circle:  [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) [<sub><sup> String, Stack, Greedy, Monotonic Stack </sup></sub>]
+
 :yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) [<sub><sup> Array, Stack, Simulation </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) [<sub><sup> Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack </sup></sub>]
