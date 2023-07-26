@@ -33,6 +33,17 @@ Design
 :red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [RPC Log Detect Timeout](https://github.com/mobiletest2016/leetcode_practice/blob/master/rpc_log_detect_timeout.md)
 
 
+Stack/Monotonic Stack
+------
+
+:green_circle:	<picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) [<sub><sup> Array, Hash Table, Stack, Monotonic Stack </sup></sub>]
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) [<sub><sup> Array, Stack, Simulation </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) [<sub><sup> Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) [<sub><sup> Math, String, Stack, Recursion </sup></sub>]
+
 1D/2D Arrays
 ------
 
@@ -838,5 +849,3 @@ Uncategorized
 :yellow_circle:  [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) [<sub><sup> Array, Backtracking </sup></sub>]
 
 :yellow_circle:  [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) [<sub><sup> Array, Backtracking </sup></sub>]
-
-:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) [<sub><sup> Math, String, Stack, Recursion </sup></sub>]
