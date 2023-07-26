@@ -44,6 +44,11 @@ Stack/Monotonic Stack
 
 :red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) [<sub><sup> Math, String, Stack, Recursion </sup></sub>]
 
+:red_circle:  [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) [<sub><sup> String, Dynamic Programming, Stack </sup></sub>]
+
+:red_circle:  [895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) [<sub><sup> Hash Table, Stack, Design, Ordered Set </sup></sub>]
+
+
 1D/2D Arrays
 ------
 
@@ -849,5 +854,3 @@ Uncategorized
 :yellow_circle:  [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) [<sub><sup> Array, Backtracking </sup></sub>]
 
 :yellow_circle:  [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) [<sub><sup> Array, Backtracking </sup></sub>]
-
-:red_circle:  [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) [<sub><sup> String, Dynamic Programming, Stack </sup></sub>]
