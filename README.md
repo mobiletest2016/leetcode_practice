@@ -838,3 +838,5 @@ Uncategorized
 :yellow_circle:  [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) [<sub><sup> Array, Backtracking </sup></sub>]
 
 :yellow_circle:  [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) [<sub><sup> Array, Backtracking </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) [<sub><sup> Math, String, Stack, Recursion </sup></sub>]
