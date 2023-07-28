@@ -76,6 +76,8 @@ Stack/Monotonic Stack
 
 :yellow_circle:  [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) [<sub><sup> Array, Math </sup></sub>]
 
+:yellow_circle:  [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/) [<sub><sup> Array, Math, Dynamic Programming, Recursion, Game Theory </sup></sub>]
+
 :yellow_circle:  [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1001. Grid Illumination](https://leetcode.com/problems/grid-illumination/) [<sub><sup> Array, Hash Table </sup></sub>]
