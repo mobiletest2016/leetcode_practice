@@ -799,6 +799,8 @@ Math
 
 :yellow_circle:  [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) [<sub><sup> Array, Math, Divide and Conquer, Geometry, Sorting, Heap (Priority Queue), Quickselect </sup></sub>]
 
+:yellow_circle:  [808. Soup Servings](https://leetcode.com/problems/soup-servings/) [<sub><sup> Math, Dynamic Programming, Probability and Statistics </sup></sub>]
+
 :yellow_circle:  [1680. Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) [<sub><sup> Math, Bit Manipulation, Simulation </sup></sub>]
 
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [991. Broken Calculator](https://leetcode.com/problems/broken-calculator/) [<sub><sup> Math, Greedy </sup></sub>]
