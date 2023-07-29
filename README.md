@@ -797,6 +797,8 @@ Math
 
 :yellow_circle:  [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/) [<sub><sup> Math, Geometry </sup></sub>]
 
+:yellow_circle:  [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/) [<sub><sup> Dynamic Programming </sup></sub>]
+
 :yellow_circle:  [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) [<sub><sup> Array, Math, Divide and Conquer, Geometry, Sorting, Heap (Priority Queue), Quickselect </sup></sub>]
 
 :yellow_circle:  [808. Soup Servings](https://leetcode.com/problems/soup-servings/) [<sub><sup> Math, Dynamic Programming, Probability and Statistics </sup></sub>]
