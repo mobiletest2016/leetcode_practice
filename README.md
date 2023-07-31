@@ -631,6 +631,8 @@ String + Dynamic Programming
 
 :red_circle:  [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) [<sub><sup> String, Dynamic Programming, Recursion </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [664. Strange Printer](https://leetcode.com/problems/strange-printer/) [<sub><sup> String, Dynamic Programming </sup></sub>]
+
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [72. Edit Distance](https://leetcode.com/problems/edit-distance/) [<sub><sup> String, Dynamic Programming </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [87. Scramble String](https://leetcode.com/problems/scramble-string/) [<sub><sup> String, Dynamic Programming </sup></sub>]
