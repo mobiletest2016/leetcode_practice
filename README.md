@@ -627,6 +627,8 @@ String + Dynamic Programming
 
 :yellow_circle:  [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) [<sub><sup> String, Dynamic Programming </sup></sub>]
 
+:yellow_circle:  [712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) [<sub><sup> String, Dynamic Programming </sup></sub>]
+
 :yellow_circle:  [97. Interleaving String](https://leetcode.com/problems/interleaving-string/) [<sub><sup> String, Dynamic Programming </sup></sub>]
 
 :red_circle:  [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) [<sub><sup> String, Dynamic Programming, Recursion </sup></sub>]
