@@ -94,6 +94,8 @@ String
 
 :green_circle:	 [290. Word Pattern](https://leetcode.com/problems/word-pattern/) [<sub><sup> Hash Table, String </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2800. Shortest String That Contains Three Strings](https://leetcode.com/problems/shortest-string-that-contains-three-strings/) [<sub><sup> String, Greedy, Enumeration </sup></sub>]
+
 :yellow_circle:  [443. String Compression](https://leetcode.com/problems/string-compression/) [<sub><sup> Two Pointers, String </sup></sub>]
 
 :yellow_circle:  [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) [<sub><sup> String </sup></sub>]
