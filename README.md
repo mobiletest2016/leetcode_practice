@@ -621,6 +621,7 @@ Graph/N-ary Tree/Trie
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1751. Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/) [<sub><sup> Array, Binary Search, Dynamic Programming, Sorting </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [920. Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/) [<sub><sup> Math, Dynamic Programming, Combinatorics </sup></sub>]
 
 String + Dynamic Programming
 ------
