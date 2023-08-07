@@ -334,6 +334,8 @@ DFS/BFS
 
 :yellow_circle:  [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Union Find, Matrix </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) [<sub><sup>  </sup></sub>]
+
 :yellow_circle:  [207. Course Schedule](https://leetcode.com/problems/course-schedule/) [<sub><sup> Depth-First Search, Breadth-First Search, Graph, Topological Sort </sup></sub>]
 
 :yellow_circle:  [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) [<sub><sup> Depth-First Search, Breadth-First Search, Union Find, Graph </sup></sub>]
