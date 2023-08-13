@@ -512,6 +512,8 @@ Graph/N-ary Tree/Trie
 
 :yellow_circle:  [91. Decode Ways](https://leetcode.com/problems/decode-ways/) [<sub><sup> String, Dynamic Programming </sup></sub>]
 
+:yellow_circle:  [2369. Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
 :yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) [<sub><sup> Array, Dynamic Programming, Binary Indexed Tree, Segment Tree </sup></sub>]
 
 :yellow_circle:  [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) [<sub><sup> Array, Dynamic Programming, Depth-First Search, Matrix, Simulation </sup></sub>]
