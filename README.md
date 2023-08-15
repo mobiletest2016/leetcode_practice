@@ -927,3 +927,5 @@ Uncategorized
 :yellow_circle:  [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) [<sub><sup> Linked List, Two Pointers </sup></sub>]
 
 :green_circle:	 [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) [<sub><sup> Linked List, Two Pointers </sup></sub>]
+
+:yellow_circle:  [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) [<sub><sup> Linked List, Two Pointers </sup></sub>]
