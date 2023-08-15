@@ -90,6 +90,8 @@ Linked List
 
 :green_circle:	 [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) [<sub><sup> Linked List </sup></sub>]
 
+:green_circle:	 [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) [<sub><sup> Linked List, Recursion </sup></sub>]
+
 :green_circle:	 [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) [<sub><sup> Linked List, Recursion </sup></sub>]
 
 :green_circle:	 [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) [<sub><sup> Hash Table, Linked List, Two Pointers </sup></sub>]
