@@ -36,6 +36,8 @@ Design
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [460. LFU Cache](https://leetcode.com/problems/lfu-cache/) [<sub><sup> Hash Table, Linked List, Design, Doubly-Linked List </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1206. Design Skiplist](https://leetcode.com/problems/design-skiplist/) [<sub><sup> Linked List, Design </sup></sub>]
+
 
 Stack/Monotonic Stack
 ------
