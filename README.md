@@ -116,8 +116,6 @@ Linked List
 
 :yellow_circle:  [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) [<sub><sup> Linked List, Two Pointers, Stack </sup></sub>]
 
-:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) [<sub><sup> Linked List, Recursion </sup></sub>]
-
 :yellow_circle:  [86. Partition List](https://leetcode.com/problems/partition-list/) [<sub><sup> Linked List, Two Pointers </sup></sub>]
 
 :yellow_circle:  [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) [<sub><sup> Linked List </sup></sub>]
@@ -139,6 +137,8 @@ Linked List
 :yellow_circle:  [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) [<sub><sup> Linked List, Two Pointers </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) [<sub><sup> Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) [<sub><sup> Linked List, Recursion </sup></sub>]
 
 
 String
