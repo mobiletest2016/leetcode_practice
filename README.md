@@ -929,3 +929,5 @@ Uncategorized
 :green_circle:	 [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) [<sub><sup> Linked List, Two Pointers </sup></sub>]
 
 :yellow_circle:  [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) [<sub><sup> Linked List, Two Pointers </sup></sub>]
+
+:yellow_circle:  [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) [<sub><sup> Linked List, Two Pointers, Stack </sup></sub>]
