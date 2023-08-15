@@ -104,6 +104,8 @@ Linked List
 
 :yellow_circle:  [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) [<sub><sup> Linked List </sup></sub>]
 
+:yellow_circle:  [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) [<sub><sup> Linked List </sup></sub>]
+
 :yellow_circle:  [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) [<sub><sup> Linked List, Math, Reservoir Sampling, Randomized </sup></sub>]
 
 :yellow_circle:  [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) [<sub><sup> Linked List, Math, Recursion </sup></sub>]
@@ -112,11 +114,11 @@ Linked List
 
 :yellow_circle:  [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) [<sub><sup> Hash Table, Linked List, Two Pointers </sup></sub>]
 
-:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) [<sub><sup> Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort </sup></sub>]
-
 :yellow_circle:  [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) [<sub><sup> Linked List, Recursion </sup></sub>]
 
 :yellow_circle:  [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) [<sub><sup> Linked List, Two Pointers </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) [<sub><sup> Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort </sup></sub>]
 
 
 String
