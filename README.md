@@ -889,3 +889,5 @@ Uncategorized
 :green_circle:	 [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
 :green_circle:	 [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
+:yellow_circle:  [86. Partition List](https://leetcode.com/problems/partition-list/) [<sub><sup> Linked List, Two Pointers </sup></sub>]
