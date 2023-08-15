@@ -903,3 +903,5 @@ Uncategorized
 :green_circle:	 [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
 :yellow_circle:  [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) [<sub><sup> Linked List, Recursion </sup></sub>]
+
+:yellow_circle:  [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) [<sub><sup> Linked List, Two Pointers </sup></sub>]
