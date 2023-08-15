@@ -104,6 +104,8 @@ Linked List
 
 :yellow_circle:  [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) [<sub><sup> Linked List, Two Pointers </sup></sub>]
 
+:yellow_circle:  [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) [<sub><sup> Hash Table, Linked List, Two Pointers </sup></sub>]
+
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) [<sub><sup> Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort </sup></sub>]
 
 :yellow_circle:  [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) [<sub><sup> Linked List, Recursion </sup></sub>]
