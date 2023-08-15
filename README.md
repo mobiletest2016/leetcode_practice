@@ -94,6 +94,7 @@ Linked List
 
 :yellow_circle:  [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) [<sub><sup> Linked List, Math, Reservoir Sampling, Randomized </sup></sub>]
 
+:yellow_circle:  [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) [<sub><sup> Linked List, Math, Recursion </sup></sub>]
 
 
 String
