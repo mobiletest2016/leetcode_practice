@@ -901,3 +901,5 @@ Uncategorized
 :green_circle:	 [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
 :green_circle:	 [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
+:yellow_circle:  [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) [<sub><sup> Linked List, Recursion </sup></sub>]
