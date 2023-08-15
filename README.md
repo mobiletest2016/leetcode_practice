@@ -100,6 +100,16 @@ Linked List
 
 :green_circle:	 [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) [<sub><sup> Hash Table, Linked List, Two Pointers </sup></sub>]
 
+:green_circle:	 [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) [<sub><sup> Linked List, Two Pointers </sup></sub>]
+
+:yellow_circle:  [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) [<sub><sup> Linked List, Two Pointers </sup></sub>]
+
+:yellow_circle:  [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) [<sub><sup> Linked List, Two Pointers </sup></sub>]
+
+:yellow_circle:  [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) [<sub><sup> Linked List, Two Pointers, Stack </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) [<sub><sup> Linked List, Recursion </sup></sub>]
+
 :yellow_circle:  [86. Partition List](https://leetcode.com/problems/partition-list/) [<sub><sup> Linked List, Two Pointers </sup></sub>]
 
 :yellow_circle:  [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) [<sub><sup> Linked List </sup></sub>]
@@ -923,13 +933,3 @@ Uncategorized
 :green_circle:	 [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
 :green_circle:	 [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
-
-:yellow_circle:  [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) [<sub><sup> Linked List, Two Pointers </sup></sub>]
-
-:green_circle:	 [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) [<sub><sup> Linked List, Two Pointers </sup></sub>]
-
-:yellow_circle:  [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) [<sub><sup> Linked List, Two Pointers </sup></sub>]
-
-:yellow_circle:  [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) [<sub><sup> Linked List, Two Pointers, Stack </sup></sub>]
-
-:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) [<sub><sup> Linked List, Recursion </sup></sub>]
