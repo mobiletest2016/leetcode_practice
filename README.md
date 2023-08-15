@@ -92,6 +92,8 @@ Linked List
 
 :green_circle:	 [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) [<sub><sup> Linked List, Recursion </sup></sub>]
 
+:green_circle:	 [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) [<sub><sup> Hash Table, Linked List, Two Pointers </sup></sub>]
+
 :yellow_circle:  [86. Partition List](https://leetcode.com/problems/partition-list/) [<sub><sup> Linked List, Two Pointers </sup></sub>]
 
 :yellow_circle:  [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) [<sub><sup> Linked List </sup></sub>]
