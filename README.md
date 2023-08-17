@@ -410,6 +410,8 @@ DFS/BFS
 
 :yellow_circle:  [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) [<sub><sup> Depth-First Search, Breadth-First Search, Graph, Topological Sort </sup></sub>]
 
+:yellow_circle:  [542. 01 Matrix](https://leetcode.com/problems/01-matrix/) [<sub><sup> Array, Dynamic Programming, Breadth-First Search, Matrix </sup></sub>]
+
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Matrix </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1970. Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/) [<sub><sup> Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Matrix </sup></sub>]
