@@ -965,3 +965,5 @@ Uncategorized
 :yellow_circle: [737. Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/) [<sub><sup> Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union Find </sup></sub>]
 
 :red_circle: [749. Contain Virus](https://leetcode.com/problems/contain-virus/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Matrix, Simulation </sup></sub>]
+
+:red_circle: [839. Similar String Groups](https://leetcode.com/problems/similar-string-groups/) [<sub><sup> Array, String, Depth-First Search, Breadth-First Search, Union Find </sup></sub>]
