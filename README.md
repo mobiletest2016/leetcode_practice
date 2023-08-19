@@ -912,25 +912,11 @@ Union Find
 
 :yellow_circle: [261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) [<sub><sup> Depth-First Search, Breadth-First Search, Union Find, Graph </sup></sub>]
 
-:red_circle: [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/) [<sub><sup> Array, Union Find </sup></sub>]
-
-:red_circle: [352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) [<sub><sup> Binary Search, Design, Ordered Set </sup></sub>]
-
 :yellow_circle: [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) [<sub><sup> Depth-First Search, Breadth-First Search, Union Find, Graph </sup></sub>]
-
-:red_circle: [711. Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/) [<sub><sup> Hash Table, Depth-First Search, Breadth-First Search, Union Find, Hash Function </sup></sub>]
 
 :yellow_circle: [721. Accounts Merge](https://leetcode.com/problems/accounts-merge/) [<sub><sup> Array, String, Depth-First Search, Breadth-First Search, Union Find </sup></sub>]
 
 :yellow_circle: [737. Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/) [<sub><sup> Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union Find </sup></sub>]
-
-:red_circle: [749. Contain Virus](https://leetcode.com/problems/contain-virus/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Matrix, Simulation </sup></sub>]
-
-:red_circle: [839. Similar String Groups](https://leetcode.com/problems/similar-string-groups/) [<sub><sup> Array, String, Depth-First Search, Breadth-First Search, Union Find </sup></sub>]
-
-:red_circle: [924. Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Union Find, Matrix </sup></sub>]
-
-:red_circle: [928. Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Union Find, Matrix </sup></sub>]
 
 :yellow_circle: [959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/) [<sub><sup> Depth-First Search, Breadth-First Search, Union Find, Graph </sup></sub>]
 
@@ -942,17 +928,31 @@ Union Find
 
 :yellow_circle: [1101. The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/) [<sub><sup> Array, Union Find </sup></sub>]
 
-:red_circle: [1168. Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/) [<sub><sup> Union Find, Graph, Minimum Spanning Tree </sup></sub>]
-
 :yellow_circle: [1258. Synonymous Sentences](https://leetcode.com/problems/synonymous-sentences/) [<sub><sup> Array, Hash Table, String, Backtracking, Union Find </sup></sub>]
-
-:red_circle: [1627. Graph Connectivity With Threshold](https://leetcode.com/problems/graph-connectivity-with-threshold/) [<sub><sup> Array, Math, Union Find </sup></sub>]
-
-:red_circle: [1632. Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix/) [<sub><sup> Array, Greedy, Union Find, Graph, Topological Sort, Matrix </sup></sub>]
 
 :yellow_circle: [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) [<sub><sup> Hash Table, String, Depth-First Search, Breadth-First Search, Union Find </sup></sub>]
 
 :yellow_circle: [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) [<sub><sup> Depth-First Search, Breadth-First Search, Union Find, Graph </sup></sub>]
+
+:red_circle: [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/) [<sub><sup> Array, Union Find </sup></sub>]
+
+:red_circle: [352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) [<sub><sup> Binary Search, Design, Ordered Set </sup></sub>]
+
+:red_circle: [711. Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/) [<sub><sup> Hash Table, Depth-First Search, Breadth-First Search, Union Find, Hash Function </sup></sub>]
+
+:red_circle: [749. Contain Virus](https://leetcode.com/problems/contain-virus/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Matrix, Simulation </sup></sub>]
+
+:red_circle: [839. Similar String Groups](https://leetcode.com/problems/similar-string-groups/) [<sub><sup> Array, String, Depth-First Search, Breadth-First Search, Union Find </sup></sub>]
+
+:red_circle: [924. Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Union Find, Matrix </sup></sub>]
+
+:red_circle: [928. Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Union Find, Matrix </sup></sub>]
+
+:red_circle: [1168. Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/) [<sub><sup> Union Find, Graph, Minimum Spanning Tree </sup></sub>]
+
+:red_circle: [1627. Graph Connectivity With Threshold](https://leetcode.com/problems/graph-connectivity-with-threshold/) [<sub><sup> Array, Math, Union Find </sup></sub>]
+
+:red_circle: [1632. Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix/) [<sub><sup> Array, Greedy, Union Find, Graph, Topological Sort, Matrix </sup></sub>]
 
 :red_circle: [1434. Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/) [<sub><sup> Array, Dynamic Programming, Bit Manipulation, Bitmask </sup></sub>]
 
