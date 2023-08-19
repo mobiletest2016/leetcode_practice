@@ -987,3 +987,5 @@ Uncategorized
 :red_circle: [1627. Graph Connectivity With Threshold](https://leetcode.com/problems/graph-connectivity-with-threshold/) [<sub><sup> Array, Math, Union Find </sup></sub>]
 
 :red_circle: [1632. Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix/) [<sub><sup> Array, Greedy, Union Find, Graph, Topological Sort, Matrix </sup></sub>]
+
+:yellow_circle: [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) [<sub><sup> Hash Table, String, Depth-First Search, Breadth-First Search, Union Find </sup></sub>]
