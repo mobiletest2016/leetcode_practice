@@ -971,3 +971,5 @@ Uncategorized
 :red_circle: [924. Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Union Find, Matrix </sup></sub>]
 
 :red_circle: [928. Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Union Find, Matrix </sup></sub>]
+
+:yellow_circle: [959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/) [<sub><sup> Depth-First Search, Breadth-First Search, Union Find, Graph </sup></sub>]
