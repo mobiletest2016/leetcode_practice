@@ -977,3 +977,5 @@ Uncategorized
 :yellow_circle: [990. Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) [<sub><sup> Array, String, Union Find, Graph </sup></sub>]
 
 :yellow_circle: [1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) [<sub><sup> String, Union Find </sup></sub>]
+
+:yellow_circle: [1101. The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/) [<sub><sup> Array, Union Find </sup></sub>]
