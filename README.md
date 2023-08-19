@@ -991,3 +991,5 @@ Uncategorized
 :yellow_circle: [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) [<sub><sup> Hash Table, String, Depth-First Search, Breadth-First Search, Union Find </sup></sub>]
 
 :yellow_circle: [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) [<sub><sup> Depth-First Search, Breadth-First Search, Union Find, Graph </sup></sub>]
+
+:red_circle: [1434. Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/) [<sub><sup> Array, Dynamic Programming, Bit Manipulation, Bitmask </sup></sub>]
