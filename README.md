@@ -1007,3 +1007,5 @@ Uncategorized
 :red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1125. Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/) [<sub><sup> Array, Dynamic Programming, Bit Manipulation, Bitmask </sup></sub>]
 
 :red_circle: [499. The Maze III](https://leetcode.com/problems/the-maze-iii/) [<sub><sup> Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
+
+:yellow_circle: [505. The Maze II](https://leetcode.com/problems/the-maze-ii/) [<sub><sup> Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
