@@ -959,3 +959,5 @@ Uncategorized
 :yellow_circle: [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) [<sub><sup> Depth-First Search, Breadth-First Search, Union Find, Graph </sup></sub>]
 
 :red_circle: [711. Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/) [<sub><sup> Hash Table, Depth-First Search, Breadth-First Search, Union Find, Hash Function </sup></sub>]
+
+:yellow_circle: [721. Accounts Merge](https://leetcode.com/problems/accounts-merge/) [<sub><sup> Array, String, Depth-First Search, Breadth-First Search, Union Find </sup></sub>]
