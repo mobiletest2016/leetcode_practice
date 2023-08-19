@@ -975,3 +975,5 @@ Uncategorized
 :yellow_circle: [959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/) [<sub><sup> Depth-First Search, Breadth-First Search, Union Find, Graph </sup></sub>]
 
 :yellow_circle: [990. Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) [<sub><sup> Array, String, Union Find, Graph </sup></sub>]
+
+:yellow_circle: [1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) [<sub><sup> String, Union Find </sup></sub>]
