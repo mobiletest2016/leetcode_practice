@@ -936,6 +936,8 @@ Union Find
 
 :yellow_circle: [1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) [<sub><sup> String, Union Find </sup></sub>]
 
+:yellow_circle: [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) [<sub><sup> Array, Union Find, Graph, Minimum Spanning Tree </sup></sub>]
+
 :yellow_circle: [1101. The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/) [<sub><sup> Array, Union Find </sup></sub>]
 
 :red_circle: [1168. Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/) [<sub><sup> Union Find, Graph, Minimum Spanning Tree </sup></sub>]
