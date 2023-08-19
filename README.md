@@ -1009,3 +1009,5 @@ Uncategorized
 :red_circle: [499. The Maze III](https://leetcode.com/problems/the-maze-iii/) [<sub><sup> Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
 
 :yellow_circle: [505. The Maze II](https://leetcode.com/problems/the-maze-ii/) [<sub><sup> Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
+
+:yellow_circle: [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) [<sub><sup> Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
