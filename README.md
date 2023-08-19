@@ -981,3 +981,5 @@ Uncategorized
 :yellow_circle: [1101. The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/) [<sub><sup> Array, Union Find </sup></sub>]
 
 :red_circle: [1168. Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/) [<sub><sup> Union Find, Graph, Minimum Spanning Tree </sup></sub>]
+
+:yellow_circle: [1258. Synonymous Sentences](https://leetcode.com/problems/synonymous-sentences/) [<sub><sup> Array, Hash Table, String, Backtracking, Union Find </sup></sub>]
