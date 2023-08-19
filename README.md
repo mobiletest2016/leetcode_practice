@@ -953,3 +953,5 @@ Uncategorized
 :yellow_circle: [261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) [<sub><sup> Depth-First Search, Breadth-First Search, Union Find, Graph </sup></sub>]
 
 :red_circle: [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/) [<sub><sup> Array, Union Find </sup></sub>]
+
+:red_circle: [352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) [<sub><sup> Binary Search, Design, Ordered Set </sup></sub>]
