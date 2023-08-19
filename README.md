@@ -906,6 +906,8 @@ Math
 Union Find
 ------
 
+:green_circle: [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) [<sub><sup> Depth-First Search, Breadth-First Search, Union Find, Graph </sup></sub>]
+
 :yellow_circle: [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) [<sub><sup> Array, Hash Table, Union Find </sup></sub>]
 
 :yellow_circle: [261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) [<sub><sup> Depth-First Search, Breadth-First Search, Union Find, Graph </sup></sub>]
