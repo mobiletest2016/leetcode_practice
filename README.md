@@ -957,3 +957,5 @@ Uncategorized
 :red_circle: [352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) [<sub><sup> Binary Search, Design, Ordered Set </sup></sub>]
 
 :yellow_circle: [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) [<sub><sup> Depth-First Search, Breadth-First Search, Union Find, Graph </sup></sub>]
+
+:red_circle: [711. Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/) [<sub><sup> Hash Table, Depth-First Search, Breadth-First Search, Union Find, Hash Function </sup></sub>]
