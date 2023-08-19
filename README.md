@@ -961,3 +961,5 @@ Uncategorized
 :red_circle: [711. Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/) [<sub><sup> Hash Table, Depth-First Search, Breadth-First Search, Union Find, Hash Function </sup></sub>]
 
 :yellow_circle: [721. Accounts Merge](https://leetcode.com/problems/accounts-merge/) [<sub><sup> Array, String, Depth-First Search, Breadth-First Search, Union Find </sup></sub>]
+
+:yellow_circle: [737. Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/) [<sub><sup> Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union Find </sup></sub>]
