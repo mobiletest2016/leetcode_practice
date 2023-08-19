@@ -1023,3 +1023,5 @@ Uncategorized
 :red_circle: [1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) [<sub><sup> Array, Breadth-First Search, Graph, Heap (Priority Queue), Matrix, Shortest Path </sup></sub>]
 
 :yellow_circle: [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) [<sub><sup> Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix </sup></sub>]
+
+:yellow_circle: [1786. Number of Restricted Paths From First to Last Node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/) [<sub><sup> Dynamic Programming, Graph, Topological Sort, Heap (Priority Queue), Shortest Path </sup></sub>]
