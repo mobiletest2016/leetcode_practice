@@ -985,3 +985,5 @@ Uncategorized
 :yellow_circle: [1258. Synonymous Sentences](https://leetcode.com/problems/synonymous-sentences/) [<sub><sup> Array, Hash Table, String, Backtracking, Union Find </sup></sub>]
 
 :red_circle: [1627. Graph Connectivity With Threshold](https://leetcode.com/problems/graph-connectivity-with-threshold/) [<sub><sup> Array, Math, Union Find </sup></sub>]
+
+:red_circle: [1632. Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix/) [<sub><sup> Array, Greedy, Union Find, Graph, Topological Sort, Matrix </sup></sub>]
