@@ -973,3 +973,5 @@ Uncategorized
 :red_circle: [928. Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Union Find, Matrix </sup></sub>]
 
 :yellow_circle: [959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/) [<sub><sup> Depth-First Search, Breadth-First Search, Union Find, Graph </sup></sub>]
+
+:yellow_circle: [990. Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) [<sub><sup> Array, String, Union Find, Graph </sup></sub>]
