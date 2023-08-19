@@ -983,3 +983,5 @@ Uncategorized
 :red_circle: [1168. Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/) [<sub><sup> Union Find, Graph, Minimum Spanning Tree </sup></sub>]
 
 :yellow_circle: [1258. Synonymous Sentences](https://leetcode.com/problems/synonymous-sentences/) [<sub><sup> Array, Hash Table, String, Backtracking, Union Find </sup></sub>]
+
+:red_circle: [1627. Graph Connectivity With Threshold](https://leetcode.com/problems/graph-connectivity-with-threshold/) [<sub><sup> Array, Math, Union Find </sup></sub>]
