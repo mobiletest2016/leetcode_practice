@@ -951,3 +951,5 @@ Uncategorized
 :yellow_circle: [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) [<sub><sup> Array, Hash Table, Union Find </sup></sub>]
 
 :yellow_circle: [261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) [<sub><sup> Depth-First Search, Breadth-First Search, Union Find, Graph </sup></sub>]
+
+:red_circle: [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/) [<sub><sup> Array, Union Find </sup></sub>]
