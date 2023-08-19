@@ -1011,3 +1011,5 @@ Uncategorized
 :yellow_circle: [505. The Maze II](https://leetcode.com/problems/the-maze-ii/) [<sub><sup> Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
 
 :yellow_circle: [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) [<sub><sup> Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
+
+:yellow_circle: [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) [<sub><sup> Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
