@@ -987,6 +987,21 @@ Dijkstra's
 
 :yellow_circle: [1786. Number of Restricted Paths From First to Last Node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/) [<sub><sup> Dynamic Programming, Graph, Topological Sort, Heap (Priority Queue), Shortest Path </sup></sub>]
 
+
+Minimum Spanning Tree
+------
+
+:yellow_circle: [1135. Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) [<sub><sup> Union Find, Graph, Heap (Priority Queue), Minimum Spanning Tree </sup></sub>]
+
+:red_circle: [1168. Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/) [<sub><sup> Union Find, Graph, Minimum Spanning Tree </sup></sub>]
+
+:red_circle: [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) [<sub><sup> Union Find, Graph, Sorting, Minimum Spanning Tree, Strongly Connected Component </sup></sub>]
+
+:yellow_circle: [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) [<sub><sup> Array, Union Find, Graph, Minimum Spanning Tree </sup></sub>]
+
+:red_circle: [1724. Checking Existence of Edge Length Limited Paths II](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii/) [<sub><sup> Union Find, Graph, Minimum Spanning Tree </sup></sub>]
+
+
 Uncategorized
 ------
 
@@ -1031,13 +1046,3 @@ Uncategorized
 :green_circle:	 [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1125. Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/) [<sub><sup> Array, Dynamic Programming, Bit Manipulation, Bitmask </sup></sub>]
-
-:yellow_circle: [1135. Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) [<sub><sup> Union Find, Graph, Heap (Priority Queue), Minimum Spanning Tree </sup></sub>]
-
-:red_circle: [1168. Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/) [<sub><sup> Union Find, Graph, Minimum Spanning Tree </sup></sub>]
-
-:red_circle: [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) [<sub><sup> Union Find, Graph, Sorting, Minimum Spanning Tree, Strongly Connected Component </sup></sub>]
-
-:yellow_circle: [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) [<sub><sup> Array, Union Find, Graph, Minimum Spanning Tree </sup></sub>]
-
-:red_circle: [1724. Checking Existence of Edge Length Limited Paths II](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii/) [<sub><sup> Union Find, Graph, Minimum Spanning Tree </sup></sub>]
