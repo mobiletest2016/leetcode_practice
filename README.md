@@ -808,6 +808,8 @@ Sub Array/Sub Set/Sub Sequence
 
 :yellow_circle:  [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) [<sub><sup> Array, Binary Search, Dynamic Programming </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) [<sub><sup> Array, Hash Table, Union Find </sup></sub>]
+
 :yellow_circle:  [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/) [<sub><sup> Array, Hash Table, Two Pointers, String, Dynamic Programming </sup></sub>]
 
 :yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) [<sub><sup> Array, Dynamic Programming, Binary Indexed Tree, Segment Tree </sup></sub>]
@@ -910,7 +912,7 @@ Union Find
 
 :green_circle: [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) [<sub><sup> Depth-First Search, Breadth-First Search, Union Find, Graph </sup></sub>]
 
-:yellow_circle: [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) [<sub><sup> Array, Hash Table, Union Find </sup></sub>]
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) [<sub><sup> Array, Hash Table, Union Find </sup></sub>]
 
 :yellow_circle: [261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) [<sub><sup> Depth-First Search, Breadth-First Search, Union Find, Graph </sup></sub>]
 
