@@ -1035,3 +1035,5 @@ Uncategorized
 :yellow_circle: [1135. Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) [<sub><sup> Union Find, Graph, Heap (Priority Queue), Minimum Spanning Tree </sup></sub>]
 
 :red_circle: [1168. Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/) [<sub><sup> Union Find, Graph, Minimum Spanning Tree </sup></sub>]
+
+:red_circle: [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) [<sub><sup> Union Find, Graph, Sorting, Minimum Spanning Tree, Strongly Connected Component </sup></sub>]
