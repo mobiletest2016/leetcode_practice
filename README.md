@@ -1031,3 +1031,5 @@ Uncategorized
 :green_circle:	 [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1125. Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/) [<sub><sup> Array, Dynamic Programming, Bit Manipulation, Bitmask </sup></sub>]
+
+:yellow_circle: [1135. Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) [<sub><sup> Union Find, Graph, Heap (Priority Queue), Minimum Spanning Tree </sup></sub>]
