@@ -1037,3 +1037,5 @@ Uncategorized
 :red_circle: [1168. Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/) [<sub><sup> Union Find, Graph, Minimum Spanning Tree </sup></sub>]
 
 :red_circle: [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) [<sub><sup> Union Find, Graph, Sorting, Minimum Spanning Tree, Strongly Connected Component </sup></sub>]
+
+:yellow_circle: [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) [<sub><sup> Array, Union Find, Graph, Minimum Spanning Tree </sup></sub>]
