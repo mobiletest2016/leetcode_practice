@@ -146,6 +146,8 @@ String
 
 :green_circle:	 [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) [<sub><sup> Array, String </sup></sub>]
 
+:green_circle: [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) [<sub><sup> String, String Matching </sup></sub>]
+
 :green_circle:	 [520. Detect Capital](https://leetcode.com/problems/detect-capital/) [<sub><sup> String </sup></sub>]
 
 :green_circle:	 [290. Word Pattern](https://leetcode.com/problems/word-pattern/) [<sub><sup> Hash Table, String </sup></sub>]
