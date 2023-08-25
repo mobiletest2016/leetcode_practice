@@ -1050,3 +1050,5 @@ Uncategorized
 :red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1125. Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/) [<sub><sup> Array, Dynamic Programming, Bit Manipulation, Bitmask </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [2468. Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/) [<sub><sup> String, Binary Search </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [68. Text Justification](https://leetcode.com/problems/text-justification/) [<sub><sup> Array, String, Simulation </sup></sub>]
