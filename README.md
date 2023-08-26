@@ -675,6 +675,8 @@ Graph/N-ary Tree/Trie
 
 :yellow_circle:  [877. Stone Game](https://leetcode.com/problems/stone-game/) [<sub><sup> Array, Math, Dynamic Programming, Game Theory </sup></sub>]
 
+:yellow_circle: [2304. Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
+
 :yellow_circle:  [221. Maximal Square](https://leetcode.com/problems/maximal-square/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
 
 :yellow_circle:  [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
