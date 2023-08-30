@@ -740,6 +740,8 @@ Greedy
 
 :green_circle:	 [2389. Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) [<sub><sup> Array, Binary Search, Greedy, Sorting, Prefix Sum </sup></sub>]
 
+:green_circle: [1827. Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) [<sub><sup> Array, Greedy </sup></sub>]
+
 :green_circle:	 [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) [<sub><sup> Array, Math, Greedy, Sorting </sup></sub>]
 
 :yellow_circle:  [1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) [<sub><sup> Array, String, Dynamic Programming, Greedy </sup></sub>]
