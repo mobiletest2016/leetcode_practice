@@ -650,6 +650,8 @@ Graph/N-ary Tree/Trie
 
 :red_circle:  [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) [<sub><sup> Array, Dynamic Programming, Greedy </sup></sub>]
+
 :red_circle:  [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [2272. Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
@@ -763,6 +765,8 @@ Greedy
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [135. Candy](https://leetcode.com/problems/candy/) [<sub><sup> Array, Greedy </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2551. Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/) [<sub><sup> Array, Greedy, Sorting, Heap (Priority Queue) </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) [<sub><sup> Array, Dynamic Programming, Greedy </sup></sub>]
 
 
 Intervals
