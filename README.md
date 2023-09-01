@@ -45,6 +45,12 @@ Design
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2296. Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/) [<sub><sup> Linked List, String, Stack, Design, Simulation, Doubly-Linked List </sup></sub>]
 
 
+Concurrency
+------
+
+:green_circle: [1114. Print in Order](https://leetcode.com/problems/print-in-order/) [<sub><sup> Concurrency </sup></sub>]
+
+
 Stack/Monotonic Stack
 ------
 
