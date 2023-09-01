@@ -52,6 +52,8 @@ Concurrency
 
 :yellow_circle: [1115. Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/) [<sub><sup> Concurrency </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1117. Building H2O](https://leetcode.com/problems/building-h2o/) [<sub><sup> Concurrency </sup></sub>]
+
 
 Stack/Monotonic Stack
 ------
