@@ -50,6 +50,8 @@ Concurrency
 
 :green_circle: [1114. Print in Order](https://leetcode.com/problems/print-in-order/) [<sub><sup> Concurrency </sup></sub>]
 
+:yellow_circle: [1115. Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/) [<sub><sup> Concurrency </sup></sub>]
+
 
 Stack/Monotonic Stack
 ------
