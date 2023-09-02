@@ -758,6 +758,24 @@ Greedy
 
 :green_circle:	 [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) [<sub><sup> Array, Math, Greedy, Sorting </sup></sub>]
 
+:green_circle: [1005. Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) [<sub><sup> Array, Greedy, Sorting </sup></sub>]
+
+:green_circle: [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) [<sub><sup> Array, Heap (Priority Queue) </sup></sub>]
+
+:green_circle: [1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) [<sub><sup> Array, Math, Greedy </sup></sub>]
+
+:green_circle: [1758. Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) [<sub><sup> String </sup></sub>]
+
+:green_circle: [2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) [<sub><sup> Array, Sorting </sup></sub>]
+
+:green_circle: [2591. Distribute Money to Maximum Children](https://leetcode.com/problems/distribute-money-to-maximum-children/) [<sub><sup> Math, Greedy </sup></sub>]
+
+:green_circle: [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/) [<sub><sup> Array, Two Pointers, Greedy, Sorting </sup></sub>]
+
+:green_circle: [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) [<sub><sup> Array, Greedy </sup></sub>]
+
+:green_circle: [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/) [<sub><sup> Array, Greedy </sup></sub>]
+
 :yellow_circle:  [1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) [<sub><sup> Array, String, Dynamic Programming, Greedy </sup></sub>]
 
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [134. Gas Station](https://leetcode.com/problems/gas-station/) [<sub><sup> Array, Greedy </sup></sub>]
@@ -770,6 +788,89 @@ Greedy
 
 :yellow_circle:  [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) [<sub><sup> Array, Two Pointers, Greedy, Sorting </sup></sub>]
 
+:yellow_circle: [1024. Video Stitching](https://leetcode.com/problems/video-stitching/) [<sub><sup> Array, Dynamic Programming, Greedy </sup></sub>]
+
+:yellow_circle: [1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) [<sub><sup> Array, Greedy, Sorting </sup></sub>]
+
+:yellow_circle: [1053. Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/) [<sub><sup> Array, Greedy </sup></sub>]
+
+:yellow_circle: [1054. Distant Barcodes](https://leetcode.com/problems/distant-barcodes/) [<sub><sup> Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting </sup></sub>]
+
+:yellow_circle: [1094. Car Pooling](https://leetcode.com/problems/car-pooling/) [<sub><sup> Array, Sorting, Heap (Priority Queue), Simulation, Prefix Sum </sup></sub>]
+
+:yellow_circle: [1167. Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) [<sub><sup> Array, Greedy, Heap (Priority Queue) </sup></sub>]
+
+:yellow_circle: [1276. Number of Burgers with No Waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/) [<sub><sup> Math </sup></sub>]
+
+:yellow_circle: [1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) [<sub><sup> Array, Hash Table </sup></sub>]
+
+:yellow_circle: [1296. Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) [<sub><sup> Array, Hash Table, Greedy, Sorting </sup></sub>]
+
+:yellow_circle: [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) [<sub><sup> Array, Hash Table, Greedy, Sorting, Heap (Priority Queue) </sup></sub>]
+
+:yellow_circle: [134. Gas Station](https://leetcode.com/problems/gas-station/) [<sub><sup> Array, Greedy </sup></sub>]
+
+:yellow_circle: [1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) [<sub><sup> Array, Greedy, Sorting, Heap (Priority Queue) </sup></sub>]
+
+:yellow_circle: [1386. Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) [<sub><sup> Array, Hash Table, Greedy, Bit Manipulation </sup></sub>]
+
+:yellow_circle: [1400. Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/) [<sub><sup> Hash Table, String, Greedy, Counting </sup></sub>]
+
+:yellow_circle: [1405. Longest Happy String](https://leetcode.com/problems/longest-happy-string/) [<sub><sup> String, Greedy, Heap (Priority Queue) </sup></sub>]
+
+:yellow_circle: [1419. Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/) [<sub><sup> String, Counting </sup></sub>]
+
+:yellow_circle: [1433. Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/) [<sub><sup> String, Greedy, Sorting </sup></sub>]
+
+:yellow_circle: [1529. Minimum Suffix Flips](https://leetcode.com/problems/minimum-suffix-flips/) [<sub><sup> String, Greedy </sup></sub>]
+
+:yellow_circle: [1616. Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/) [<sub><sup> Two Pointers, String </sup></sub>]
+
+:yellow_circle: [1648. Sell Diminishing-Valued Colored Balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/) [<sub><sup> Array, Math, Binary Search, Greedy, Sorting, Heap (Priority Queue) </sup></sub>]
+
+:yellow_circle: [1845. Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/) [<sub><sup> Design, Heap (Priority Queue) </sup></sub>]
+
+:yellow_circle: [2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) [<sub><sup> Array, Hash Table, Sorting, Counting </sup></sub>]
+
+:yellow_circle: [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) [<sub><sup> Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum </sup></sub>]
+
+:yellow_circle: [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) [<sub><sup> String, Stack, Greedy, Monotonic Stack </sup></sub>]
+
+:yellow_circle: [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) [<sub><sup> Array, Dynamic Programming, Greedy </sup></sub>]
+
+:yellow_circle: [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) [<sub><sup> String, Stack, Greedy, Monotonic Stack </sup></sub>]
+
+:yellow_circle: [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) [<sub><sup> Array, Greedy, Binary Indexed Tree, Segment Tree, Sorting </sup></sub>]
+
+:yellow_circle: [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) [<sub><sup> Array, Dynamic Programming, Greedy </sup></sub>]
+
+:yellow_circle: [55. Jump Game](https://leetcode.com/problems/jump-game/) [<sub><sup> Array, Dynamic Programming, Greedy </sup></sub>]
+
+:yellow_circle: [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/) [<sub><sup> Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting </sup></sub>]
+
+:yellow_circle: [665. Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) [<sub><sup> Array </sup></sub>]
+
+:yellow_circle: [670. Maximum Swap](https://leetcode.com/problems/maximum-swap/) [<sub><sup> Math, Greedy </sup></sub>]
+
+:yellow_circle: [763. Partition Labels](https://leetcode.com/problems/partition-labels/) [<sub><sup> Hash Table, Two Pointers, String, Greedy </sup></sub>]
+
+:yellow_circle: [767. Reorganize String](https://leetcode.com/problems/reorganize-string/) [<sub><sup> Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting </sup></sub>]
+
+:yellow_circle: [870. Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) [<sub><sup> Array, Two Pointers, Greedy, Sorting </sup></sub>]
+
+:yellow_circle: [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) [<sub><sup> Array, Two Pointers, Greedy, Sorting </sup></sub>]
+
+:yellow_circle: [910. Smallest Range II](https://leetcode.com/problems/smallest-range-ii/) [<sub><sup> Array, Math, Greedy, Sorting </sup></sub>]
+
+:yellow_circle: [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) [<sub><sup> String, Stack, Greedy </sup></sub>]
+
+:yellow_circle: [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) [<sub><sup> Array, Two Pointers, Greedy, Sorting </sup></sub>]
+
+:yellow_circle: [955. Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) [<sub><sup> Array, String, Greedy </sup></sub>]
+
+:yellow_circle: [984. String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/) [<sub><sup> String, Greedy </sup></sub>]
+
+
 :red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [2366. Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/) [<sub><sup> Array, Math, Greedy </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [135. Candy](https://leetcode.com/problems/candy/) [<sub><sup> Array, Greedy </sup></sub>]
@@ -777,6 +878,16 @@ Greedy
 :red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2551. Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/) [<sub><sup> Array, Greedy, Sorting, Heap (Priority Queue) </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) [<sub><sup> Array, Dynamic Programming, Greedy </sup></sub>]
+
+:red_circle: [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) [<sub><sup> Array, Dynamic Programming, Greedy </sup></sub>]
+
+:red_circle: [135. Candy](https://leetcode.com/problems/candy/) [<sub><sup> Array, Greedy </sup></sub>]
+
+:red_circle: [1383. Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/) [<sub><sup> Array, Greedy, Sorting, Heap (Priority Queue) </sup></sub>]
+
+:red_circle: [2589. Minimum Time to Complete All Tasks](https://leetcode.com/problems/minimum-time-to-complete-all-tasks/) [<sub><sup> Array, Binary Search, Stack, Greedy, Sorting </sup></sub>]
+
+:red_circle: [358. Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) [<sub><sup> Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting </sup></sub>]
 
 
 Intervals
