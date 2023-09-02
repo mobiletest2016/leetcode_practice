@@ -12,6 +12,8 @@ Links
 
 [Important and Useful links from all over the LeetCode](https://leetcode.com/discuss/general-discussion/665604/Important-and-Useful-links-from-all-over-the-LeetCode)
 
+[Line Sweep Algorithms](https://leetcode.com/discuss/study-guide/2166045/line-sweep-algorithms)
+
 [A Concise Template for "Overlapping Interval Problem"](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/solutions/93735/a-concise-template-for-overlapping-interval-problem/)
 
 [The ART of Dynamic Programming - An Intuitive Approach: From Apprentice to Master](https://leetcode.com/discuss/general-discussion/712010/The-ART-of-Dynamic-Programming-An-Intuitive-Approach%3A-from-Apprentice-to-Master)
@@ -53,6 +55,80 @@ Concurrency
 :yellow_circle: [1115. Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/) [<sub><sup> Concurrency </sup></sub>]
 
 :yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1117. Building H2O](https://leetcode.com/problems/building-h2o/) [<sub><sup> Concurrency </sup></sub>]
+
+
+Sweep Line
+------
+
+:green_circle:	 [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
+:green_circle:	 [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
+:green_circle: [1854. Maximum Population Year](https://leetcode.com/problems/maximum-population-year/) [<sub><sup> Array, Counting </sup></sub>]
+
+:green_circle: [1893. Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
+
+:green_circle: [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) [<sub><sup> Array, Sorting </sup></sub>]
+
+:yellow_circle:  [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) [<sub><sup> Array, Backtracking </sup></sub>]
+
+:yellow_circle:  [39. Combination Sum](https://leetcode.com/problems/combination-sum/) [<sub><sup> Array, Backtracking </sup></sub>]
+
+:yellow_circle:  [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) [<sub><sup> Array, Backtracking </sup></sub>]
+
+:yellow_circle: [1024. Video Stitching](https://leetcode.com/problems/video-stitching/) [<sub><sup> Array, Dynamic Programming, Greedy </sup></sub>]
+
+:yellow_circle: [1229. Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler/) [<sub><sup> Array, Two Pointers, Sorting </sup></sub>]
+
+:yellow_circle: [1272. Remove Interval](https://leetcode.com/problems/remove-interval/) [<sub><sup> Array </sup></sub>]
+
+:yellow_circle: [1589. Maximum Sum Obtained of Any Permutation](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/) [<sub><sup> Array, Greedy, Sorting, Prefix Sum </sup></sub>]
+
+:yellow_circle: [1674. Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
+
+:yellow_circle: [1943. Describe the Painting](https://leetcode.com/problems/describe-the-painting/) [<sub><sup> Array, Prefix Sum </sup></sub>]
+
+:yellow_circle: [2237. Count Positions on Street With Required Brightness](https://leetcode.com/problems/count-positions-on-street-with-required-brightness/) [<sub><sup> Array, Prefix Sum </sup></sub>]
+
+:yellow_circle: [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) [<sub><sup> Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum </sup></sub>]
+
+:yellow_circle: [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) [<sub><sup> Array, Design, Binary Indexed Tree, Segment Tree </sup></sub>]
+
+:yellow_circle: [370. Range Addition](https://leetcode.com/problems/range-addition/) [<sub><sup> Array, Prefix Sum </sup></sub>]
+
+:yellow_circle: [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) [<sub><sup> Array, Dynamic Programming, Greedy, Sorting </sup></sub>]
+
+:yellow_circle: [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) [<sub><sup> Array, Greedy, Sorting </sup></sub>]
+
+:yellow_circle: [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) [<sub><sup> Array, Sorting </sup></sub>]
+
+:yellow_circle: [57. Insert Interval](https://leetcode.com/problems/insert-interval/) [<sub><sup> Array </sup></sub>]
+
+:yellow_circle: [646. Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) [<sub><sup> Array, Dynamic Programming, Greedy, Sorting </sup></sub>]
+
+:yellow_circle: [731. My Calendar II](https://leetcode.com/problems/my-calendar-ii/) [<sub><sup> Binary Search, Design, Segment Tree, Ordered Set </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1125. Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/) [<sub><sup> Array, Dynamic Programming, Bit Manipulation, Bitmask </sup></sub>]
+
+:red_circle: [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) [<sub><sup> Array, Dynamic Programming, Greedy </sup></sub>]
+
+:red_circle: [1851. Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/) [<sub><sup> Array, Binary Search, Line Sweep, Sorting, Heap (Priority Queue) </sup></sub>]
+
+:red_circle: [2158. Amount of New Area Painted Each Day](https://leetcode.com/problems/amount-of-new-area-painted-each-day/) [<sub><sup> Array, Segment Tree, Ordered Set </sup></sub>]
+
+:red_circle: [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) [<sub><sup> Array, Divide and Conquer, Binary Indexed Tree, Segment Tree, Line Sweep, Heap (Priority Queue), Ordered Set </sup></sub>]
+
+:red_circle: [2251. Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) [<sub><sup> Array, Hash Table, Binary Search, Sorting, Prefix Sum, Ordered Set </sup></sub>]
+
+:red_circle: [391. Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/) [<sub><sup> Array, Line Sweep </sup></sub>]
+
+:red_circle: [587. Erect the Fence](https://leetcode.com/problems/erect-the-fence/) [<sub><sup> Array, Math, Geometry </sup></sub>]
+
+:red_circle: [732. My Calendar III](https://leetcode.com/problems/my-calendar-iii/) [<sub><sup> Binary Search, Design, Segment Tree, Ordered Set </sup></sub>]
+
+:red_circle: [759. Employee Free Time](https://leetcode.com/problems/employee-free-time/) [<sub><sup> Array, Sorting, Heap (Priority Queue) </sup></sub>]
+
+:red_circle: [850. Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) [<sub><sup> Array, Segment Tree, Line Sweep, Ordered Set </sup></sub>]
 
 
 Stack/Monotonic Stack
@@ -1175,15 +1251,3 @@ Uncategorized
 :red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [956. Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1601. Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) [<sub><sup> Array, Backtracking, Bit Manipulation, Enumeration </sup></sub>]
-
-:yellow_circle:  [39. Combination Sum](https://leetcode.com/problems/combination-sum/) [<sub><sup> Array, Backtracking </sup></sub>]
-
-:yellow_circle:  [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) [<sub><sup> Array, Backtracking </sup></sub>]
-
-:yellow_circle:  [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) [<sub><sup> Array, Backtracking </sup></sub>]
-
-:green_circle:	 [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
-
-:green_circle:	 [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
-
-:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1125. Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/) [<sub><sup> Array, Dynamic Programming, Bit Manipulation, Bitmask </sup></sub>]
