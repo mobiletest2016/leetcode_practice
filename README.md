@@ -38,7 +38,7 @@ Design
 
 :red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [RPC Log Detect Timeout](https://github.com/mobiletest2016/leetcode_practice/blob/master/rpc_log_detect_timeout.md)
 
-:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [432. All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) [<sub><sup> Hash Table, Linked List, Design, Doubly-Linked List </sup></sub>]
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [432. All O(1) Data Structure](https://leetcode.com/problems/all-oone-data-structure/) [<sub><sup> Hash Table, Linked List, Design, Doubly-Linked List </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [460. LFU Cache](https://leetcode.com/problems/lfu-cache/) [<sub><sup> Hash Table, Linked List, Design, Doubly-Linked List </sup></sub>]
 
