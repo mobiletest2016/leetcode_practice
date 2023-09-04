@@ -854,6 +854,8 @@ Greedy
 
 :green_circle: [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/) [<sub><sup> Array, Greedy </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2844. Minimum Operations to Make a Special Number](https://leetcode.com/problems/minimum-operations-to-make-a-special-number/) [<sub><sup>  </sup></sub>]
+
 :yellow_circle:  [1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) [<sub><sup> Array, String, Dynamic Programming, Greedy </sup></sub>]
 
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [134. Gas Station](https://leetcode.com/problems/gas-station/) [<sub><sup> Array, Greedy </sup></sub>]
