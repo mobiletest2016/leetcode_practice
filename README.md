@@ -316,6 +316,8 @@ Two Pointer
 
 :green_circle:	 [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [<sub><sup> Array, Two Pointers </sup></sub>]
 
+:yellow_circle:  [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) [<sub><sup> Array, Two Pointers, Binary Search, Bit Manipulation </sup></sub>]
+
 :yellow_circle:  [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) [<sub><sup> Array, Two Pointers </sup></sub>]
 
 :yellow_circle:  [15. 3Sum](https://leetcode.com/problems/3sum/) [<sub><sup> Array, Two Pointers, Sorting </sup></sub>]
