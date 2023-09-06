@@ -202,6 +202,8 @@ Linked List
 
 :green_circle:	 [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) [<sub><sup> Linked List, Two Pointers </sup></sub>]
 
+:yellow_circle: [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) [<sub><sup> Hash Table, Linked List </sup></sub>]
+
 :yellow_circle:  [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) [<sub><sup> Linked List, Two Pointers </sup></sub>]
 
 :yellow_circle: [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) [<sub><sup> Linked List </sup></sub>]
