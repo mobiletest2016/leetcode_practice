@@ -204,6 +204,8 @@ Linked List
 
 :yellow_circle:  [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) [<sub><sup> Linked List, Two Pointers </sup></sub>]
 
+:yellow_circle: [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) [<sub><sup> Linked List </sup></sub>]
+
 :yellow_circle:  [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) [<sub><sup> Linked List, Two Pointers </sup></sub>]
 
 :yellow_circle:  [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) [<sub><sup> Linked List, Two Pointers, Stack </sup></sub>]
