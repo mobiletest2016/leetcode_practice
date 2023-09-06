@@ -146,6 +146,8 @@ Stack/Monotonic Stack
 
 :red_circle:  [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) [<sub><sup> String, Dynamic Programming, Stack </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) [<sub><sup> Array, Stack, Monotonic Stack </sup></sub>]
+
 :red_circle:  [895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) [<sub><sup> Hash Table, Stack, Design, Ordered Set </sup></sub>]
 
 
