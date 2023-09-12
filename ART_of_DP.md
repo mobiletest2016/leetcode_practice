@@ -39,11 +39,11 @@ Problems From: [The ART of Dynamic Programming ](https://leetcode.com/discuss/ge
 
 :yellow_circle: [221. Maximal Square](https://leetcode.com/problems/maximal-square/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
 
-:yellow_circle: [256. Paint House](https://leetcode.com/problems/paint-house/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+:yellow_circle: :lock: [256. Paint House](https://leetcode.com/problems/paint-house/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
 :yellow_circle: [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) [<sub><sup> Hash Table, Math, Dynamic Programming, Heap (Priority Queue) </sup></sub>]
 
-:red_circle: [265. Paint House II](https://leetcode.com/problems/paint-house-ii/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+:red_circle: :lock: [265. Paint House II](https://leetcode.com/problems/paint-house-ii/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
 :yellow_circle: [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/) [<sub><sup> Math, Dynamic Programming, Breadth-First Search </sup></sub>]
 
@@ -79,9 +79,9 @@ Problems From: [The ART of Dynamic Programming ](https://leetcode.com/discuss/ge
 
 :yellow_circle: [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) [<sub><sup> String, Dynamic Programming </sup></sub>]
 
-:yellow_circle: [549. Binary Tree Longest Consecutive Sequence II](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/) [<sub><sup> Tree, Depth-First Search, Binary Tree </sup></sub>]
+:yellow_circle: :lock: [549. Binary Tree Longest Consecutive Sequence II](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/) [<sub><sup> Tree, Depth-First Search, Binary Tree </sup></sub>]
 
-:red_circle: [568. Maximum Vacation Days](https://leetcode.com/problems/maximum-vacation-days/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
+:red_circle: :lock: [568. Maximum Vacation Days](https://leetcode.com/problems/maximum-vacation-days/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
 
 :yellow_circle: [576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) [<sub><sup> Dynamic Programming </sup></sub>]
 
@@ -127,7 +127,7 @@ Problems From: [The ART of Dynamic Programming ](https://leetcode.com/discuss/ge
 
 :yellow_circle: [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) [<sub><sup> String, Dynamic Programming </sup></sub>]
 
-:yellow_circle: [1230. Toss Strange Coins](https://leetcode.com/problems/toss-strange-coins/) [<sub><sup> Math, Dynamic Programming, Probability and Statistics </sup></sub>]
+:yellow_circle: :lock: [1230. Toss Strange Coins](https://leetcode.com/problems/toss-strange-coins/) [<sub><sup> Math, Dynamic Programming, Probability and Statistics </sup></sub>]
 
 :red_circle: [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) [<sub><sup> Array, Binary Search, Dynamic Programming, Sorting </sup></sub>]
 
@@ -173,23 +173,23 @@ Problems From: [The ART of Dynamic Programming ](https://leetcode.com/discuss/ge
 
 :yellow_circle: [2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) [<sub><sup> Array, Hash Table, Greedy, Counting </sup></sub>]
 
-:red_circle: [2247. Maximum Cost of Trip With K Highways](https://leetcode.com/problems/maximum-cost-of-trip-with-k-highways/) [<sub><sup> Dynamic Programming, Bit Manipulation, Graph, Bitmask </sup></sub>]
+:red_circle: :lock: [2247. Maximum Cost of Trip With K Highways](https://leetcode.com/problems/maximum-cost-of-trip-with-k-highways/) [<sub><sup> Dynamic Programming, Bit Manipulation, Graph, Bitmask </sup></sub>]
 
 :yellow_circle: [2266. Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/) [<sub><sup> Hash Table, Math, String, Dynamic Programming </sup></sub>]
 
 :red_circle: [2267.  Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
 
-:yellow_circle: [2291. Maximum Profit From Trading Stocks](https://leetcode.com/problems/maximum-profit-from-trading-stocks/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+:yellow_circle: :lock: [2291. Maximum Profit From Trading Stocks](https://leetcode.com/problems/maximum-profit-from-trading-stocks/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
 :yellow_circle: [2304. Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
 
 :red_circle: [2328. Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/) [<sub><sup> Array, Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Topological Sort, Memoization, Matrix </sup></sub>]
 
-:red_circle: [2361. Minimum Costs Using the Train Line](https://leetcode.com/problems/minimum-costs-using-the-train-line/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+:red_circle: :lock: [2361. Minimum Costs Using the Train Line](https://leetcode.com/problems/minimum-costs-using-the-train-line/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
 :yellow_circle: [2369. Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
-:yellow_circle: [2431. Maximize Total Tastiness of Purchased Fruits](https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+:yellow_circle: :lock: [2431. Maximize Total Tastiness of Purchased Fruits](https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
 :yellow_circle: [2466. Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) [<sub><sup> Dynamic Programming </sup></sub>]
 
@@ -230,11 +230,11 @@ Problems From: [The ART of Dynamic Programming ](https://leetcode.com/discuss/ge
 
 :yellow_circle: [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
-:yellow_circle: [487. Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) [<sub><sup> Array, Dynamic Programming, Sliding Window </sup></sub>]
+:yellow_circle: :lock: [487. Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) [<sub><sup> Array, Dynamic Programming, Sliding Window </sup></sub>]
 
 :yellow_circle: [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
 
-:yellow_circle: [624. Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/) [<sub><sup> Array, Greedy </sup></sub>]
+:yellow_circle: :lock: [624. Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/) [<sub><sup> Array, Greedy </sup></sub>]
 
 :yellow_circle: [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/) [<sub><sup> Array, Hash Table, Dynamic Programming </sup></sub>]
 
@@ -248,7 +248,7 @@ Problems From: [The ART of Dynamic Programming ](https://leetcode.com/discuss/ge
 
 :yellow_circle: [1567. Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/) [<sub><sup> Array, Dynamic Programming, Greedy </sup></sub>]
 
-:yellow_circle: [1746. Maximum Subarray Sum After One Operation](https://leetcode.com/problems/maximum-subarray-sum-after-one-operation/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+:yellow_circle: :lock: [1746. Maximum Subarray Sum After One Operation](https://leetcode.com/problems/maximum-subarray-sum-after-one-operation/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
 :yellow_circle: [2054. Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/) [<sub><sup> Array, Binary Search, Dynamic Programming, Sorting, Heap (Priority Queue) </sup></sub>]
 
@@ -258,7 +258,7 @@ Problems From: [The ART of Dynamic Programming ](https://leetcode.com/discuss/ge
 
 :yellow_circle: [2327. Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) [<sub><sup> Dynamic Programming, Queue, Simulation </sup></sub>]
 
-:yellow_circle: [2393. Count Strictly Increasing Subarrays](https://leetcode.com/problems/count-strictly-increasing-subarrays/) [<sub><sup> Array, Math, Dynamic Programming </sup></sub>]
+:yellow_circle: :lock: [2393. Count Strictly Increasing Subarrays](https://leetcode.com/problems/count-strictly-increasing-subarrays/) [<sub><sup> Array, Math, Dynamic Programming </sup></sub>]
 
 :yellow_circle: [2414. Length of the Longest Alphabetical Continuous Substring](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/) [<sub><sup> String </sup></sub>]
 
@@ -279,11 +279,11 @@ Problems From: [The ART of Dynamic Programming ](https://leetcode.com/discuss/ge
 
 :yellow_circle: [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) [<sub><sup> Array, Design, Binary Indexed Tree, Segment Tree </sup></sub>]
 
-:yellow_circle: [361. Bomb Enemy](https://leetcode.com/problems/bomb-enemy/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
+:yellow_circle: :lock: [361. Bomb Enemy](https://leetcode.com/problems/bomb-enemy/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
 
 :yellow_circle: [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
 
-:yellow_circle: [562. Longest Line of Consecutive One in Matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
+:yellow_circle: :lock: [562. Longest Line of Consecutive One in Matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
 
 :yellow_circle: [646. Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) [<sub><sup> Array, Dynamic Programming, Greedy, Sorting </sup></sub>]
 
@@ -299,7 +299,7 @@ Problems From: [The ART of Dynamic Programming ](https://leetcode.com/discuss/ge
 
 :yellow_circle: [1139. Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
 
-:yellow_circle: [1182. Shortest Distance to Target Color](https://leetcode.com/problems/shortest-distance-to-target-color/) [<sub><sup> Array, Binary Search, Dynamic Programming </sup></sub>]
+:yellow_circle: :lock: [1182. Shortest Distance to Target Color](https://leetcode.com/problems/shortest-distance-to-target-color/) [<sub><sup> Array, Binary Search, Dynamic Programming </sup></sub>]
 
 :yellow_circle: [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
 
@@ -331,11 +331,11 @@ Problems From: [The ART of Dynamic Programming ](https://leetcode.com/discuss/ge
 
 :red_circle: [2167. Minimum Time to Remove All Cars Containing Illegal Goods](https://leetcode.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/) [<sub><sup> String, Dynamic Programming </sup></sub>]
 
-:yellow_circle: [2219. Maximum Sum Score of Array](https://leetcode.com/problems/maximum-sum-score-of-array/) [<sub><sup> Array, Prefix Sum </sup></sub>]
+:yellow_circle: :lock: [2219. Maximum Sum Score of Array](https://leetcode.com/problems/maximum-sum-score-of-array/) [<sub><sup> Array, Prefix Sum </sup></sub>]
 
 :yellow_circle: [2222. Number of Ways to Select Buildings](https://leetcode.com/problems/number-of-ways-to-select-buildings/) [<sub><sup> String, Dynamic Programming, Prefix Sum </sup></sub>]
 
-:red_circle: [2247. Maximum Cost of Trip With K Highways](https://leetcode.com/problems/maximum-cost-of-trip-with-k-highways/) [<sub><sup> Dynamic Programming, Bit Manipulation, Graph, Bitmask </sup></sub>]
+:red_circle: :lock: [2247. Maximum Cost of Trip With K Highways](https://leetcode.com/problems/maximum-cost-of-trip-with-k-highways/) [<sub><sup> Dynamic Programming, Bit Manipulation, Graph, Bitmask </sup></sub>]
 
 :yellow_circle: [2266. Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/) [<sub><sup> Hash Table, Math, String, Dynamic Programming </sup></sub>]
 
@@ -390,7 +390,7 @@ Problems From: [The ART of Dynamic Programming ](https://leetcode.com/discuss/ge
 
 :yellow_circle: [1759. Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/) [<sub><sup> Math, String </sup></sub>]
 
-:yellow_circle: [1858. Longest Word With All Prefixes](https://leetcode.com/problems/longest-word-with-all-prefixes/) [<sub><sup> Depth-First Search, Trie </sup></sub>]
+:yellow_circle: :lock: [1858. Longest Word With All Prefixes](https://leetcode.com/problems/longest-word-with-all-prefixes/) [<sub><sup> Depth-First Search, Trie </sup></sub>]
 
 :yellow_circle: [2121. Intervals Between Identical Elements](https://leetcode.com/problems/intervals-between-identical-elements/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
 

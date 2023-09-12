@@ -68,7 +68,7 @@ Sweep Line
 
 :green_circle: [1893. Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
 
-:green_circle: [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) [<sub><sup> Array, Sorting </sup></sub>]
+:green_circle: :lock: [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) [<sub><sup> Array, Sorting </sup></sub>]
 
 :yellow_circle:  [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) [<sub><sup> Array, Backtracking </sup></sub>]
 
@@ -78,9 +78,9 @@ Sweep Line
 
 :yellow_circle: [1024. Video Stitching](https://leetcode.com/problems/video-stitching/) [<sub><sup> Array, Dynamic Programming, Greedy </sup></sub>]
 
-:yellow_circle: [1229. Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler/) [<sub><sup> Array, Two Pointers, Sorting </sup></sub>]
+:yellow_circle: :lock: [1229. Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler/) [<sub><sup> Array, Two Pointers, Sorting </sup></sub>]
 
-:yellow_circle: [1272. Remove Interval](https://leetcode.com/problems/remove-interval/) [<sub><sup> Array </sup></sub>]
+:yellow_circle: :lock: [1272. Remove Interval](https://leetcode.com/problems/remove-interval/) [<sub><sup> Array </sup></sub>]
 
 :yellow_circle: [1589. Maximum Sum Obtained of Any Permutation](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/) [<sub><sup> Array, Greedy, Sorting, Prefix Sum </sup></sub>]
 
@@ -88,13 +88,13 @@ Sweep Line
 
 :yellow_circle: [1943. Describe the Painting](https://leetcode.com/problems/describe-the-painting/) [<sub><sup> Array, Prefix Sum </sup></sub>]
 
-:yellow_circle: [2237. Count Positions on Street With Required Brightness](https://leetcode.com/problems/count-positions-on-street-with-required-brightness/) [<sub><sup> Array, Prefix Sum </sup></sub>]
+:yellow_circle: :lock: [2237. Count Positions on Street With Required Brightness](https://leetcode.com/problems/count-positions-on-street-with-required-brightness/) [<sub><sup> Array, Prefix Sum </sup></sub>]
 
-:yellow_circle: [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) [<sub><sup> Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum </sup></sub>]
+:yellow_circle: :lock: [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) [<sub><sup> Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum </sup></sub>]
 
 :yellow_circle: [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) [<sub><sup> Array, Design, Binary Indexed Tree, Segment Tree </sup></sub>]
 
-:yellow_circle: [370. Range Addition](https://leetcode.com/problems/range-addition/) [<sub><sup> Array, Prefix Sum </sup></sub>]
+:yellow_circle: :lock: [370. Range Addition](https://leetcode.com/problems/range-addition/) [<sub><sup> Array, Prefix Sum </sup></sub>]
 
 :yellow_circle: [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) [<sub><sup> Array, Dynamic Programming, Greedy, Sorting </sup></sub>]
 
@@ -112,7 +112,7 @@ Sweep Line
 
 :red_circle: [1851. Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/) [<sub><sup> Array, Binary Search, Line Sweep, Sorting, Heap (Priority Queue) </sup></sub>]
 
-:red_circle: [2158. Amount of New Area Painted Each Day](https://leetcode.com/problems/amount-of-new-area-painted-each-day/) [<sub><sup> Array, Segment Tree, Ordered Set </sup></sub>]
+:red_circle: :lock: [2158. Amount of New Area Painted Each Day](https://leetcode.com/problems/amount-of-new-area-painted-each-day/) [<sub><sup> Array, Segment Tree, Ordered Set </sup></sub>]
 
 :red_circle: [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) [<sub><sup> Array, Divide and Conquer, Binary Indexed Tree, Segment Tree, Line Sweep, Heap (Priority Queue), Ordered Set </sup></sub>]
 
@@ -124,7 +124,7 @@ Sweep Line
 
 :red_circle: [732. My Calendar III](https://leetcode.com/problems/my-calendar-iii/) [<sub><sup> Binary Search, Design, Segment Tree, Ordered Set </sup></sub>]
 
-:red_circle: [759. Employee Free Time](https://leetcode.com/problems/employee-free-time/) [<sub><sup> Array, Sorting, Heap (Priority Queue) </sup></sub>]
+:red_circle: :lock: [759. Employee Free Time](https://leetcode.com/problems/employee-free-time/) [<sub><sup> Array, Sorting, Heap (Priority Queue) </sup></sub>]
 
 :red_circle: [850. Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) [<sub><sup> Array, Segment Tree, Line Sweep, Ordered Set </sup></sub>]
 
@@ -396,7 +396,7 @@ Binary Search
 
 :green_circle:	 [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) [<sub><sup> Math, Binary Search </sup></sub>]
 
-:green_circle:	 [1150. Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/) [<sub><sup> Array, Binary Search </sup></sub>]
+:green_circle: :lock: [1150. Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/) [<sub><sup> Array, Binary Search </sup></sub>]
 
 :green_circle:	 [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) [<sub><sup> Math, Binary Search </sup></sub>]
 
@@ -470,9 +470,9 @@ Binary Search
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) [<sub><sup> Array, Binary Search, Divide and Conquer </sup></sub>]
 
-:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture>  [1231. Divide Chocolate](https://leetcode.com/problems/divide-chocolate/) [<sub><sup> Array, Binary Search </sup></sub>]
+:red_circle: :lock: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture>  [1231. Divide Chocolate](https://leetcode.com/problems/divide-chocolate/) [<sub><sup> Array, Binary Search </sup></sub>]
 
-:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [774. Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) [<sub><sup> Array, Binary Search </sup></sub>]
+:red_circle: :lock: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [774. Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) [<sub><sup> Array, Binary Search </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) [<sub><sup> Array, Binary Search, Dynamic Programming, Greedy </sup></sub>]
 
@@ -886,7 +886,7 @@ Greedy
 
 :yellow_circle: [1094. Car Pooling](https://leetcode.com/problems/car-pooling/) [<sub><sup> Array, Sorting, Heap (Priority Queue), Simulation, Prefix Sum </sup></sub>]
 
-:yellow_circle: [1167. Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) [<sub><sup> Array, Greedy, Heap (Priority Queue) </sup></sub>]
+:yellow_circle: :lock: [1167. Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) [<sub><sup> Array, Greedy, Heap (Priority Queue) </sup></sub>]
 
 :yellow_circle: [1276. Number of Burgers with No Waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/) [<sub><sup> Math </sup></sub>]
 
@@ -920,7 +920,7 @@ Greedy
 
 :yellow_circle: [2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) [<sub><sup> Array, Hash Table, Sorting, Counting </sup></sub>]
 
-:yellow_circle: [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) [<sub><sup> Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum </sup></sub>]
+:yellow_circle: :lock: [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) [<sub><sup> Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum </sup></sub>]
 
 :yellow_circle: [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) [<sub><sup> String, Stack, Greedy, Monotonic Stack </sup></sub>]
 
@@ -975,7 +975,7 @@ Greedy
 
 :red_circle: [2589. Minimum Time to Complete All Tasks](https://leetcode.com/problems/minimum-time-to-complete-all-tasks/) [<sub><sup> Array, Binary Search, Stack, Greedy, Sorting </sup></sub>]
 
-:red_circle: [358. Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) [<sub><sup> Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting </sup></sub>]
+:red_circle: :lock: [358. Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) [<sub><sup> Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting </sup></sub>]
 
 
 Intervals
@@ -1143,13 +1143,13 @@ Union Find
 
 :yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) [<sub><sup> Array, Hash Table, Union Find </sup></sub>]
 
-:yellow_circle: [261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) [<sub><sup> Depth-First Search, Breadth-First Search, Union Find, Graph </sup></sub>]
+:yellow_circle: :lock: [261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) [<sub><sup> Depth-First Search, Breadth-First Search, Union Find, Graph </sup></sub>]
 
 :yellow_circle: [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) [<sub><sup> Depth-First Search, Breadth-First Search, Union Find, Graph </sup></sub>]
 
 :yellow_circle: [721. Accounts Merge](https://leetcode.com/problems/accounts-merge/) [<sub><sup> Array, String, Depth-First Search, Breadth-First Search, Union Find </sup></sub>]
 
-:yellow_circle: [737. Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/) [<sub><sup> Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union Find </sup></sub>]
+:yellow_circle: :lock: [737. Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/) [<sub><sup> Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union Find </sup></sub>]
 
 :yellow_circle: [959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/) [<sub><sup> Depth-First Search, Breadth-First Search, Union Find, Graph </sup></sub>]
 
@@ -1159,19 +1159,19 @@ Union Find
 
 :yellow_circle: [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) [<sub><sup> Array, Union Find, Graph, Minimum Spanning Tree </sup></sub>]
 
-:yellow_circle: [1101. The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/) [<sub><sup> Array, Union Find </sup></sub>]
+:yellow_circle: :lock: [1101. The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/) [<sub><sup> Array, Union Find </sup></sub>]
 
-:yellow_circle: [1258. Synonymous Sentences](https://leetcode.com/problems/synonymous-sentences/) [<sub><sup> Array, Hash Table, String, Backtracking, Union Find </sup></sub>]
+:yellow_circle: :lock: [1258. Synonymous Sentences](https://leetcode.com/problems/synonymous-sentences/) [<sub><sup> Array, Hash Table, String, Backtracking, Union Find </sup></sub>]
 
 :yellow_circle: [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) [<sub><sup> Hash Table, String, Depth-First Search, Breadth-First Search, Union Find </sup></sub>]
 
 :yellow_circle: [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) [<sub><sup> Depth-First Search, Breadth-First Search, Union Find, Graph </sup></sub>]
 
-:red_circle: [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/) [<sub><sup> Array, Union Find </sup></sub>]
+:red_circle: :lock: [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/) [<sub><sup> Array, Union Find </sup></sub>]
 
 :red_circle: [352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) [<sub><sup> Binary Search, Design, Ordered Set </sup></sub>]
 
-:red_circle: [711. Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/) [<sub><sup> Hash Table, Depth-First Search, Breadth-First Search, Union Find, Hash Function </sup></sub>]
+:red_circle: :lock: [711. Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/) [<sub><sup> Hash Table, Depth-First Search, Breadth-First Search, Union Find, Hash Function </sup></sub>]
 
 :red_circle: [749. Contain Virus](https://leetcode.com/problems/contain-virus/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Matrix, Simulation </sup></sub>]
 
@@ -1181,7 +1181,7 @@ Union Find
 
 :red_circle: [928. Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Union Find, Matrix </sup></sub>]
 
-:red_circle: [1168. Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/) [<sub><sup> Union Find, Graph, Minimum Spanning Tree </sup></sub>]
+:red_circle: :lock: [1168. Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/) [<sub><sup> Union Find, Graph, Minimum Spanning Tree </sup></sub>]
 
 :red_circle: [1627. Graph Connectivity With Threshold](https://leetcode.com/problems/graph-connectivity-with-threshold/) [<sub><sup> Array, Math, Union Find </sup></sub>]
 
@@ -1198,9 +1198,9 @@ Dijkstra's
 ------
 
 
-:red_circle: [499. The Maze III](https://leetcode.com/problems/the-maze-iii/) [<sub><sup> Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
+:red_circle: :lock: [499. The Maze III](https://leetcode.com/problems/the-maze-iii/) [<sub><sup> Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
 
-:yellow_circle: [505. The Maze II](https://leetcode.com/problems/the-maze-ii/) [<sub><sup> Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
+:yellow_circle: :lock: [505. The Maze II](https://leetcode.com/problems/the-maze-ii/) [<sub><sup> Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
 
 :yellow_circle: [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) [<sub><sup> Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
 
@@ -1222,15 +1222,15 @@ Dijkstra's
 Minimum Spanning Tree
 ------
 
-:yellow_circle: [1135. Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) [<sub><sup> Union Find, Graph, Heap (Priority Queue), Minimum Spanning Tree </sup></sub>]
+:yellow_circle: :lock: [1135. Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) [<sub><sup> Union Find, Graph, Heap (Priority Queue), Minimum Spanning Tree </sup></sub>]
 
-:red_circle: [1168. Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/) [<sub><sup> Union Find, Graph, Minimum Spanning Tree </sup></sub>]
+:red_circle: :lock: [1168. Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/) [<sub><sup> Union Find, Graph, Minimum Spanning Tree </sup></sub>]
 
 :red_circle: [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) [<sub><sup> Union Find, Graph, Sorting, Minimum Spanning Tree, Strongly Connected Component </sup></sub>]
 
 :yellow_circle: [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) [<sub><sup> Array, Union Find, Graph, Minimum Spanning Tree </sup></sub>]
 
-:red_circle: [1724. Checking Existence of Edge Length Limited Paths II](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii/) [<sub><sup> Union Find, Graph, Minimum Spanning Tree </sup></sub>]
+:red_circle: :lock: [1724. Checking Existence of Edge Length Limited Paths II](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii/) [<sub><sup> Union Find, Graph, Minimum Spanning Tree </sup></sub>]
 
 
 Uncategorized
