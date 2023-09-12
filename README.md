@@ -66,6 +66,8 @@ Sweep Line
 
 :green_circle: [1854. Maximum Population Year](https://leetcode.com/problems/maximum-population-year/) [<sub><sup> Array, Counting </sup></sub>]
 
+:green_circle: [2848. Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/) [<sub><sup> Hash Table, Math, Prefix Sum </sup></sub>]
+
 :green_circle: [1893. Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
 
 :green_circle: :lock: [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) [<sub><sup> Array, Sorting </sup></sub>]
@@ -1205,6 +1207,8 @@ Dijkstra's
 :yellow_circle: [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) [<sub><sup> Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
 
 :yellow_circle: [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) [<sub><sup> Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) [<sub><sup>  </sup></sub>]
 
 :red_circle: [882. Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/) [<sub><sup> Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
 
