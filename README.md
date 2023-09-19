@@ -1304,3 +1304,5 @@ Uncategorized
 :yellow_circle: :lock: [2297. Jump Game VIII](https://leetcode.com/problems/jump-game-viii/) [<sub><sup> Array, Dynamic Programming, Stack, Graph, Monotonic Stack, Shortest Path </sup></sub>]
 
 :yellow_circle: [2662. Minimum Cost of a Path With Special Roads](https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/) [<sub><sup> Array, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
+
+:yellow_circle: :lock: [2473. Minimum Cost to Buy Apples](https://leetcode.com/problems/minimum-cost-to-buy-apples/) [<sub><sup> Array, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
