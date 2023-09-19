@@ -1306,3 +1306,5 @@ Uncategorized
 :yellow_circle: [2662. Minimum Cost of a Path With Special Roads](https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/) [<sub><sup> Array, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
 
 :yellow_circle: :lock: [2473. Minimum Cost to Buy Apples](https://leetcode.com/problems/minimum-cost-to-buy-apples/) [<sub><sup> Array, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
+
+:yellow_circle: :lock: [2093. Minimum Cost to Reach City With Discounts](https://leetcode.com/problems/minimum-cost-to-reach-city-with-discounts/) [<sub><sup> Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
