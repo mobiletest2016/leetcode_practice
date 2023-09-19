@@ -1300,3 +1300,5 @@ Uncategorized
 :red_circle: :lock: [2714. Find Shortest Path with K Hops](https://leetcode.com/problems/find-shortest-path-with-k-hops/) [<sub><sup> Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
 
 :yellow_circle: :lock: [2737. Find the Closest Marked Node](https://leetcode.com/problems/find-the-closest-marked-node/) [<sub><sup> Array, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
+
+:yellow_circle: :lock: [2297. Jump Game VIII](https://leetcode.com/problems/jump-game-viii/) [<sub><sup> Array, Dynamic Programming, Stack, Graph, Monotonic Stack, Shortest Path </sup></sub>]
