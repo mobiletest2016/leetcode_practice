@@ -1221,6 +1221,32 @@ Dijkstra's
 
 :yellow_circle: [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) [<sub><sup> Dynamic Programming, Graph, Shortest Path </sup></sub>]
 
+:yellow_circle: [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path </sup></sub>]
+
+:yellow_circle: :lock: [2737. Find the Closest Marked Node](https://leetcode.com/problems/find-the-closest-marked-node/) [<sub><sup> Array, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
+
+:yellow_circle: :lock: [2297. Jump Game VIII](https://leetcode.com/problems/jump-game-viii/) [<sub><sup> Array, Dynamic Programming, Stack, Graph, Monotonic Stack, Shortest Path </sup></sub>]
+
+:yellow_circle: [2662. Minimum Cost of a Path With Special Roads](https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/) [<sub><sup> Array, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
+
+:yellow_circle: :lock: [2473. Minimum Cost to Buy Apples](https://leetcode.com/problems/minimum-cost-to-buy-apples/) [<sub><sup> Array, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
+
+:yellow_circle: :lock: [2093. Minimum Cost to Reach City With Discounts](https://leetcode.com/problems/minimum-cost-to-reach-city-with-discounts/) [<sub><sup> Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
+
+:red_circle: [2642. Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) [<sub><sup> Graph, Design, Heap (Priority Queue), Shortest Path </sup></sub>]
+
+:red_circle: :lock: [2714. Find Shortest Path with K Hops](https://leetcode.com/problems/find-shortest-path-with-k-hops/) [<sub><sup> Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
+
+:red_circle: [2290. Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) [<sub><sup> Array, Breadth-First Search, Graph, Heap (Priority Queue), Matrix, Shortest Path </sup></sub>]
+
+:red_circle: [2577. Minimum Time to Visit a Cell In a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/) [<sub><sup> Array, Breadth-First Search, Graph, Heap (Priority Queue), Matrix, Shortest Path </sup></sub>]
+
+:red_circle: [2203. Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/) [<sub><sup> Graph, Shortest Path </sup></sub>]
+
+:red_circle: [2699. Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/) [<sub><sup> Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
+
+:red_circle: [2045. Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/) [<sub><sup> Breadth-First Search, Graph, Shortest Path </sup></sub>]
+
 :red_circle: [882. Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/) [<sub><sup> Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
 
 :red_circle: :lock: [499. The Maze III](https://leetcode.com/problems/the-maze-iii/) [<sub><sup> Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
@@ -1292,29 +1318,3 @@ Uncategorized
 :red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1125. Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/) [<sub><sup> Array, Dynamic Programming, Bit Manipulation, Bitmask </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2790. Maximum Number of Groups With Increasing Length](https://leetcode.com/problems/maximum-number-of-groups-with-increasing-length/) [<sub><sup> Array, Math, Binary Search, Greedy, Sorting </sup></sub>]
-
-:red_circle: [2642. Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) [<sub><sup> Graph, Design, Heap (Priority Queue), Shortest Path </sup></sub>]
-
-:yellow_circle: [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path </sup></sub>]
-
-:red_circle: :lock: [2714. Find Shortest Path with K Hops](https://leetcode.com/problems/find-shortest-path-with-k-hops/) [<sub><sup> Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
-
-:yellow_circle: :lock: [2737. Find the Closest Marked Node](https://leetcode.com/problems/find-the-closest-marked-node/) [<sub><sup> Array, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
-
-:yellow_circle: :lock: [2297. Jump Game VIII](https://leetcode.com/problems/jump-game-viii/) [<sub><sup> Array, Dynamic Programming, Stack, Graph, Monotonic Stack, Shortest Path </sup></sub>]
-
-:yellow_circle: [2662. Minimum Cost of a Path With Special Roads](https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/) [<sub><sup> Array, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
-
-:yellow_circle: :lock: [2473. Minimum Cost to Buy Apples](https://leetcode.com/problems/minimum-cost-to-buy-apples/) [<sub><sup> Array, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
-
-:yellow_circle: :lock: [2093. Minimum Cost to Reach City With Discounts](https://leetcode.com/problems/minimum-cost-to-reach-city-with-discounts/) [<sub><sup> Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
-
-:red_circle: [2290. Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) [<sub><sup> Array, Breadth-First Search, Graph, Heap (Priority Queue), Matrix, Shortest Path </sup></sub>]
-
-:red_circle: [2577. Minimum Time to Visit a Cell In a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/) [<sub><sup> Array, Breadth-First Search, Graph, Heap (Priority Queue), Matrix, Shortest Path </sup></sub>]
-
-:red_circle: [2203. Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/) [<sub><sup> Graph, Shortest Path </sup></sub>]
-
-:red_circle: [2699. Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/) [<sub><sup> Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
-
-:red_circle: [2045. Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/) [<sub><sup> Breadth-First Search, Graph, Shortest Path </sup></sub>]
