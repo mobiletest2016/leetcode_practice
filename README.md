@@ -1308,3 +1308,5 @@ Uncategorized
 :yellow_circle: :lock: [2473. Minimum Cost to Buy Apples](https://leetcode.com/problems/minimum-cost-to-buy-apples/) [<sub><sup> Array, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
 
 :yellow_circle: :lock: [2093. Minimum Cost to Reach City With Discounts](https://leetcode.com/problems/minimum-cost-to-reach-city-with-discounts/) [<sub><sup> Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
+
+:red_circle: [2290. Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) [<sub><sup> Array, Breadth-First Search, Graph, Heap (Priority Queue), Matrix, Shortest Path </sup></sub>]
