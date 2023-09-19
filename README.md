@@ -1316,3 +1316,5 @@ Uncategorized
 :red_circle: [2203. Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/) [<sub><sup> Graph, Shortest Path </sup></sub>]
 
 :red_circle: [2699. Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/) [<sub><sup> Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
+
+:red_circle: [2045. Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/) [<sub><sup> Breadth-First Search, Graph, Shortest Path </sup></sub>]
