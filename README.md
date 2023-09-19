@@ -1201,28 +1201,29 @@ Union Find
 Dijkstra's
 ------
 
-
-:red_circle: :lock: [499. The Maze III](https://leetcode.com/problems/the-maze-iii/) [<sub><sup> Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
-
 :yellow_circle: :lock: [505. The Maze II](https://leetcode.com/problems/the-maze-ii/) [<sub><sup> Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
 
 :yellow_circle: [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) [<sub><sup> Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
 
 :yellow_circle: [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) [<sub><sup> Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
 
-:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) [<sub><sup>  </sup></sub>]
+:yellow_circle: [1976. Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) [<sub><sup> Dynamic Programming, Graph, Topological Sort, Shortest Path </sup></sub>]
 
-:red_circle: [882. Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/) [<sub><sup> Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
+:yellow_circle: [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) [<sub><sup> Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix </sup></sub>]
+
+:yellow_circle: [1786. Number of Restricted Paths From First to Last Node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/) [<sub><sup> Dynamic Programming, Graph, Topological Sort, Heap (Priority Queue), Shortest Path </sup></sub>]
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) [<sub><sup>  </sup></sub>]
 
 :yellow_circle: [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/) [<sub><sup> Array, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
 
 :yellow_circle: [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) [<sub><sup> Dynamic Programming, Graph, Shortest Path </sup></sub>]
 
+:red_circle: [882. Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/) [<sub><sup> Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
+
+:red_circle: :lock: [499. The Maze III](https://leetcode.com/problems/the-maze-iii/) [<sub><sup> Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
+
 :red_circle: [1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) [<sub><sup> Array, Breadth-First Search, Graph, Heap (Priority Queue), Matrix, Shortest Path </sup></sub>]
-
-:yellow_circle: [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) [<sub><sup> Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix </sup></sub>]
-
-:yellow_circle: [1786. Number of Restricted Paths From First to Last Node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/) [<sub><sup> Dynamic Programming, Graph, Topological Sort, Heap (Priority Queue), Shortest Path </sup></sub>]
 
 
 Minimum Spanning Tree
@@ -1243,6 +1244,8 @@ Floyd-Warshall's
 ------
 
 :yellow_circle: [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) [<sub><sup> Dynamic Programming, Graph, Shortest Path </sup></sub>]
+
+:yellow_circle: [1976. Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) [<sub><sup> Dynamic Programming, Graph, Topological Sort, Shortest Path </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) [<sub><sup> Dynamic Programming, Bit Manipulation, Breadth-First Search, Graph, Bitmask </sup></sub>]
 
