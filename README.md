@@ -1296,3 +1296,5 @@ Uncategorized
 :red_circle: [2642. Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) [<sub><sup> Graph, Design, Heap (Priority Queue), Shortest Path </sup></sub>]
 
 :yellow_circle: [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path </sup></sub>]
+
+:red_circle: :lock: [2714. Find Shortest Path with K Hops](https://leetcode.com/problems/find-shortest-path-with-k-hops/) [<sub><sup> Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
