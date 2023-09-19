@@ -1312,3 +1312,5 @@ Uncategorized
 :red_circle: [2290. Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) [<sub><sup> Array, Breadth-First Search, Graph, Heap (Priority Queue), Matrix, Shortest Path </sup></sub>]
 
 :red_circle: [2577. Minimum Time to Visit a Cell In a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/) [<sub><sup> Array, Breadth-First Search, Graph, Heap (Priority Queue), Matrix, Shortest Path </sup></sub>]
+
+:red_circle: [2203. Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/) [<sub><sup> Graph, Shortest Path </sup></sub>]
