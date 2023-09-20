@@ -348,6 +348,8 @@ Sliding Window
 
 :yellow_circle:  [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) [<sub><sup> Hash Table, Two Pointers, String, Sliding Window </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture>  [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) [<sub><sup> Array, Hash Table, Binary Search, Sliding Window, Prefix Sum </sup></sub>]
+
 :yellow_circle:  [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [<sub><sup> Hash Table, String, Sliding Window </sup></sub>]
 
 :yellow_circle:  [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) [<sub><sup> Array, Sliding Window, Prefix Sum </sup></sub>]
@@ -460,7 +462,7 @@ Binary Search
 
 :yellow_circle:  [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) [<sub><sup> Array, Binary Search, Matrix </sup></sub>]
 
-:yellow_circle:  [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) [<sub><sup> Array, Hash Table, Binary Search, Sliding Window, Prefix Sum </sup></sub>]
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) [<sub><sup> Array, Hash Table, Binary Search, Sliding Window, Prefix Sum </sup></sub>]
 
 :yellow_circle:  [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) [<sub><sup> Array, Binary Search, Sliding Window, Prefix Sum </sup></sub>]
 
