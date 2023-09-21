@@ -680,6 +680,8 @@ Bitmask + Dynamic Programming
 
 :yellow_circle: [2305. Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/) [<sub><sup> Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1799. Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/) [<sub><sup> Array, Math, Dynamic Programming, Backtracking, Bit Manipulation, Number Theory, Bitmask </sup></sub>]
+
 :red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) [<sub><sup> Dynamic Programming, Bit Manipulation, Breadth-First Search, Graph, Bitmask </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1125. Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/) [<sub><sup> Array, Dynamic Programming, Bit Manipulation, Bitmask </sup></sub>]
