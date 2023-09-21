@@ -673,6 +673,11 @@ Graph/N-ary Tree/Trie
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1697. Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/) [<sub><sup> Array, Union Find, Graph, Sorting </sup></sub>]
 
+Bitmask + Dynamic Programming
+------
+
+:yellow_circle: [473. Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) [<sub><sup> Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask </sup></sub>]
+
 
 (1)/1D Array + Dynamic Programming
 ------
