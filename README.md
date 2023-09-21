@@ -682,6 +682,30 @@ Bitmask + Dynamic Programming
 
 :yellow_circle: [2305. Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/) [<sub><sup> Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask </sup></sub>]
 
+:yellow_circle: [526. Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) [<sub><sup> Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask </sup></sub>]
+
+:yellow_circle: [698. Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) [<sub><sup> Array, Dynamic Programming, Backtracking, Bit Manipulation, Memoization, Bitmask </sup></sub>]
+
+:red_circle: [1655. Distribute Repeating Integers](https://leetcode.com/problems/distribute-repeating-integers/) [<sub><sup> Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask </sup></sub>]
+
+:red_circle: [943. Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) [<sub><sup> Array, String, Dynamic Programming, Bit Manipulation, Bitmask </sup></sub>]
+
+:red_circle: [854. K-Similar Strings](https://leetcode.com/problems/k-similar-strings/) [<sub><sup> String, Breadth-First Search </sup></sub>]
+
+:red_circle: [1659. Maximize Grid Happiness](https://leetcode.com/problems/maximize-grid-happiness/) [<sub><sup> Dynamic Programming, Bit Manipulation, Memoization, Bitmask </sup></sub>]
+
+:red_circle: [1815. Maximum Number of Groups Getting Fresh Donuts](https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/) [<sub><sup> Array, Dynamic Programming, Bit Manipulation, Memoization, Bitmask </sup></sub>]
+
+:red_circle: [1349. Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam/) [<sub><sup> Array, Dynamic Programming, Bit Manipulation, Matrix, Bitmask </sup></sub>]
+
+:red_circle: [1681. Minimum Incompatibility](https://leetcode.com/problems/minimum-incompatibility/) [<sub><sup> Array, Dynamic Programming, Bit Manipulation, Bitmask </sup></sub>]
+
+:red_circle: [1879. Minimum XOR Sum of Two Arrays](https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/) [<sub><sup> Array, Dynamic Programming, Bit Manipulation, Bitmask </sup></sub>]
+
+:red_circle: [1434. Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/) [<sub><sup> Array, Dynamic Programming, Bit Manipulation, Bitmask </sup></sub>]
+
+:red_circle: [1494. Parallel Courses II](https://leetcode.com/problems/parallel-courses-ii/) [<sub><sup> Dynamic Programming, Bit Manipulation, Graph, Bitmask </sup></sub>]
+
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1799. Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/) [<sub><sup> Array, Math, Dynamic Programming, Backtracking, Bit Manipulation, Number Theory, Bitmask </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) [<sub><sup> Dynamic Programming, Bit Manipulation, Breadth-First Search, Graph, Bitmask </sup></sub>]
