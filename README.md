@@ -8,6 +8,11 @@ Question Lists
 Links
 -----
 
+[Dmitry Babichev's webpage](https://flykiller.github.io/leetcode/)
+
+[Dmitry Babichev's webpage Coding Patterns](https://flykiller.github.io/coding%20ideas/)
+
+
 [Leetcode System Design Posts](https://leetcode.com/discuss/interview-question/1140451/helpful-list-of-leetcode-posts-on-system-design-at-facebook-google-amazon-uber-microsoft)
 
 [Important and Useful links from all over the LeetCode](https://leetcode.com/discuss/general-discussion/665604/Important-and-Useful-links-from-all-over-the-LeetCode)
