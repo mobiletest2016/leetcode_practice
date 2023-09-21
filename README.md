@@ -678,6 +678,8 @@ Bitmask + Dynamic Programming
 
 :yellow_circle: [473. Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) [<sub><sup> Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) [<sub><sup> Dynamic Programming, Bit Manipulation, Breadth-First Search, Graph, Bitmask </sup></sub>]
+
 
 (1)/1D Array + Dynamic Programming
 ------
