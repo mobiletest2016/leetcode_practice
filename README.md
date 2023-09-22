@@ -31,7 +31,7 @@ Links
 
 [Sliding Window Cheat Sheet](https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/c-maximum-sliding-window-cheatsheet-template/)
 
-[Dynamic programming on subsets with examples, explained](https://leetcode.com/tag/bitmask/discuss/1125779/Dynamic-programming-on-subsets-with-examples-explained)
+[Dynamic programming on subsets with examples, explained(Bitmask DP)](https://leetcode.com/tag/bitmask/discuss/1125779/Dynamic-programming-on-subsets-with-examples-explained)
 
 
 Design
