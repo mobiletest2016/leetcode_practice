@@ -85,6 +85,8 @@ Sweep Line
 
 :yellow_circle:  [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) [<sub><sup> Array, Backtracking </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2250. Count Number of Rectangles Containing Each Point](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/) [<sub><sup> Array, Binary Search, Binary Indexed Tree, Sorting </sup></sub>]
+
 :yellow_circle: [1024. Video Stitching](https://leetcode.com/problems/video-stitching/) [<sub><sup> Array, Dynamic Programming, Greedy </sup></sub>]
 
 :yellow_circle: :lock: [1229. Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler/) [<sub><sup> Array, Two Pointers, Sorting </sup></sub>]
@@ -414,6 +416,8 @@ Binary Search
 :green_circle:	 [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) [<sub><sup> Binary Search, Interactive </sup></sub>]
 
 :yellow_circle:  [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) [<sub><sup> Array, Binary Search </sup></sub>]
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2250. Count Number of Rectangles Containing Each Point](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/) [<sub><sup> Array, Binary Search, Binary Indexed Tree, Sorting </sup></sub>]
 
 :yellow_circle:  [1552. Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/) [<sub><sup> Array, Binary Search, Sorting </sup></sub>]
 
