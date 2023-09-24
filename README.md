@@ -837,6 +837,8 @@ Bitmask + Dynamic Programming
 
 :yellow_circle:  [221. Maximal Square](https://leetcode.com/problems/maximal-square/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [799. Champagne Tower](https://leetcode.com/problems/champagne-tower/) [<sub><sup> Dynamic Programming </sup></sub>]
+
 :yellow_circle:  [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) [<sub><sup> Array, Dynamic Programming, Matrix </sup></sub>]
 
 :yellow_circle:  [1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) [<sub><sup> Array, Dynamic Programming, Breadth-First Search, Matrix </sup></sub>]
