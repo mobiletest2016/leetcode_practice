@@ -147,6 +147,8 @@ Stack/Monotonic Stack
 
 :yellow_circle:  [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) [<sub><sup> String, Stack, Greedy, Monotonic Stack </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) [<sub><sup> String, Stack, Greedy, Monotonic Stack </sup></sub>]
+
 :yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) [<sub><sup> Array, Stack, Simulation </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) [<sub><sup> Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack </sup></sub>]
@@ -434,6 +436,8 @@ Binary Search
 :yellow_circle:  [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) [<sub><sup> Array, Binary Search, Sorting, Heap (Priority Queue), Matrix </sup></sub>]
 
 :yellow_circle:  [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) [<sub><sup> Array, Two Pointers, Binary Search, Bit Manipulation </sup></sub>]
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) [<sub><sup> String, Stack, Greedy, Monotonic Stack </sup></sub>]
 
 :yellow_circle:  [1760. Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) [<sub><sup> Array, Binary Search </sup></sub>]
 
@@ -980,7 +984,7 @@ Greedy
 
 :yellow_circle: :lock: [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) [<sub><sup> Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum </sup></sub>]
 
-:yellow_circle: [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) [<sub><sup> String, Stack, Greedy, Monotonic Stack </sup></sub>]
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) [<sub><sup> String, Stack, Greedy, Monotonic Stack </sup></sub>]
 
 :yellow_circle: [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) [<sub><sup> Array, Dynamic Programming, Greedy </sup></sub>]
 
