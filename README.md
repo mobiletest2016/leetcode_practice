@@ -166,6 +166,70 @@ Stack/Monotonic Stack
 :red_circle:  [895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) [<sub><sup> Hash Table, Stack, Design, Ordered Set </sup></sub>]
 
 
+Prefix Sum
+------
+
+:green_circle: [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) [<sub><sup> Array </sup></sub>]
+
+:green_circle: [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) [<sub><sup> Array, Design, Prefix Sum </sup></sub>]
+
+:yellow_circle: :lock: [325. Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
+
+:yellow_circle: [1177. Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/) [<sub><sup> Array, Hash Table, String, Bit Manipulation, Prefix Sum </sup></sub>]
+
+:yellow_circle: [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) [<sub><sup> Array, Hash Table, Math, Sliding Window </sup></sub>]
+
+:yellow_circle: [1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) [<sub><sup> Array, Binary Search, Matrix, Prefix Sum </sup></sub>]
+
+:yellow_circle: [1314. Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) [<sub><sup> Array, Matrix, Prefix Sum </sup></sub>]
+
+:yellow_circle: [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) [<sub><sup> Array, Sliding Window, Prefix Sum </sup></sub>]
+
+:yellow_circle: [1477. Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) [<sub><sup> Array, Hash Table, Binary Search, Dynamic Programming, Sliding Window </sup></sub>]
+
+:yellow_circle: [1508. Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/) [<sub><sup> Array, Two Pointers, Binary Search, Sorting </sup></sub>]
+
+:yellow_circle: [1590. Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
+
+:yellow_circle: [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) [<sub><sup> Array, Hash Table, Binary Search, Sliding Window, Prefix Sum </sup></sub>]
+
+:yellow_circle: [1664. Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
+:yellow_circle: [1674. Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
+
+:yellow_circle: [1685. Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) [<sub><sup> Array, Math, Prefix Sum </sup></sub>]
+
+:yellow_circle: [1690. Stone Game VII](https://leetcode.com/problems/stone-game-vii/) [<sub><sup> Array, Math, Dynamic Programming, Game Theory </sup></sub>]
+
+:yellow_circle: [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) [<sub><sup> Array, Hash Table, Sliding Window </sup></sub>]
+
+:yellow_circle: [1712. Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) [<sub><sup> Array, Two Pointers, Binary Search, Prefix Sum </sup></sub>]
+
+:yellow_circle: [1749. Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
+:yellow_circle: [1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/) [<sub><sup> Hash Table, String, Bit Manipulation, Prefix Sum </sup></sub>]
+
+:yellow_circle: [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) [<sub><sup> Array, Design, Matrix, Prefix Sum </sup></sub>]
+
+:yellow_circle: [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) [<sub><sup> Tree, Depth-First Search, Binary Tree </sup></sub>]
+
+:yellow_circle: [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) [<sub><sup> Array, Hash Table, Math, Prefix Sum </sup></sub>]
+
+:yellow_circle: [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
+
+:yellow_circle: [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) [<sub><sup> Array, Hash Table, Sliding Window, Prefix Sum </sup></sub>]
+
+:yellow_circle: [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
+
+:red_circle: [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) [<sub><sup> Array, Hash Table, Matrix, Prefix Sum </sup></sub>]
+
+:red_circle: [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) [<sub><sup> Array, Binary Search, Matrix, Prefix Sum, Ordered Set </sup></sub>]
+
+:red_circle: [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) [<sub><sup> Array, Binary Search, Matrix, Prefix Sum, Ordered Set </sup></sub>]
+
+:red_circle: [689. Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
+
 1D/2D Arrays
 ------
 
@@ -1385,63 +1449,3 @@ Uncategorized
 :red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1125. Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/) [<sub><sup> Array, Dynamic Programming, Bit Manipulation, Bitmask </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2790. Maximum Number of Groups With Increasing Length](https://leetcode.com/problems/maximum-number-of-groups-with-increasing-length/) [<sub><sup> Array, Math, Binary Search, Greedy, Sorting </sup></sub>]
-
-:red_circle: [689. Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
-
-:yellow_circle: [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) [<sub><sup> Array, Hash Table, Math, Prefix Sum </sup></sub>]
-
-:yellow_circle: [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
-
-:yellow_circle: :lock: [325. Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
-
-:red_circle: [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) [<sub><sup> Array, Hash Table, Matrix, Prefix Sum </sup></sub>]
-
-:red_circle: [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) [<sub><sup> Array, Binary Search, Matrix, Prefix Sum, Ordered Set </sup></sub>]
-
-:yellow_circle: [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) [<sub><sup> Array, Hash Table, Sliding Window, Prefix Sum </sup></sub>]
-
-:yellow_circle: [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) [<sub><sup> Tree, Depth-First Search, Binary Tree </sup></sub>]
-
-:yellow_circle: [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
-
-:yellow_circle: [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) [<sub><sup> Array, Design, Matrix, Prefix Sum </sup></sub>]
-
-:yellow_circle: [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) [<sub><sup> Array, Hash Table, Math, Sliding Window </sup></sub>]
-
-:yellow_circle: [1314. Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) [<sub><sup> Array, Matrix, Prefix Sum </sup></sub>]
-
-:yellow_circle: [1508. Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/) [<sub><sup> Array, Two Pointers, Binary Search, Sorting </sup></sub>]
-
-:yellow_circle: [1477. Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) [<sub><sup> Array, Hash Table, Binary Search, Dynamic Programming, Sliding Window </sup></sub>]
-
-:green_circle: [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) [<sub><sup> Array, Design, Prefix Sum </sup></sub>]
-
-:yellow_circle: [1690. Stone Game VII](https://leetcode.com/problems/stone-game-vii/) [<sub><sup> Array, Math, Dynamic Programming, Game Theory </sup></sub>]
-
-:yellow_circle: [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) [<sub><sup> Array, Sliding Window, Prefix Sum </sup></sub>]
-
-:yellow_circle: [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) [<sub><sup> Array, Hash Table, Binary Search, Sliding Window, Prefix Sum </sup></sub>]
-
-:green_circle: [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) [<sub><sup> Array </sup></sub>]
-
-:red_circle: [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) [<sub><sup> Array, Binary Search, Matrix, Prefix Sum, Ordered Set </sup></sub>]
-
-:yellow_circle: [1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) [<sub><sup> Array, Binary Search, Matrix, Prefix Sum </sup></sub>]
-
-:yellow_circle: [1664. Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
-
-:yellow_circle: [1674. Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
-
-:yellow_circle: [1712. Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) [<sub><sup> Array, Two Pointers, Binary Search, Prefix Sum </sup></sub>]
-
-:yellow_circle: [1685. Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) [<sub><sup> Array, Math, Prefix Sum </sup></sub>]
-
-:yellow_circle: [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) [<sub><sup> Array, Hash Table, Sliding Window </sup></sub>]
-
-:yellow_circle: [1177. Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/) [<sub><sup> Array, Hash Table, String, Bit Manipulation, Prefix Sum </sup></sub>]
-
-:yellow_circle: [1590. Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
-
-:yellow_circle: [1749. Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
-
-:yellow_circle: [1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/) [<sub><sup> Hash Table, String, Bit Manipulation, Prefix Sum </sup></sub>]
