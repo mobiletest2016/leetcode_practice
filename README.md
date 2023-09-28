@@ -1435,3 +1435,5 @@ Uncategorized
 :yellow_circle: [1712. Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) [<sub><sup> Array, Two Pointers, Binary Search, Prefix Sum </sup></sub>]
 
 :yellow_circle: [1685. Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) [<sub><sup> Array, Math, Prefix Sum </sup></sub>]
+
+:yellow_circle: [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) [<sub><sup> Array, Hash Table, Sliding Window </sup></sub>]
