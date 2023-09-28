@@ -1391,3 +1391,5 @@ Uncategorized
 :yellow_circle: [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) [<sub><sup> Array, Hash Table, Math, Prefix Sum </sup></sub>]
 
 :yellow_circle: [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
+
+:yellow_circle: :lock: [325. Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
