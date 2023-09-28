@@ -1427,3 +1427,5 @@ Uncategorized
 :red_circle: [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) [<sub><sup> Array, Binary Search, Matrix, Prefix Sum, Ordered Set </sup></sub>]
 
 :yellow_circle: [1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) [<sub><sup> Array, Binary Search, Matrix, Prefix Sum </sup></sub>]
+
+:yellow_circle: [1664. Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
