@@ -1401,3 +1401,5 @@ Uncategorized
 :yellow_circle: [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) [<sub><sup> Array, Hash Table, Sliding Window, Prefix Sum </sup></sub>]
 
 :yellow_circle: [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) [<sub><sup> Tree, Depth-First Search, Binary Tree </sup></sub>]
+
+:yellow_circle: [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
