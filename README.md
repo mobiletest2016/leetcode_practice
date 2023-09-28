@@ -1431,3 +1431,5 @@ Uncategorized
 :yellow_circle: [1664. Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
 :yellow_circle: [1674. Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
+
+:yellow_circle: [1712. Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) [<sub><sup> Array, Two Pointers, Binary Search, Prefix Sum </sup></sub>]
