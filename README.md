@@ -1425,3 +1425,5 @@ Uncategorized
 :green_circle: [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) [<sub><sup> Array </sup></sub>]
 
 :red_circle: [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) [<sub><sup> Array, Binary Search, Matrix, Prefix Sum, Ordered Set </sup></sub>]
+
+:yellow_circle: [1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) [<sub><sup> Array, Binary Search, Matrix, Prefix Sum </sup></sub>]
