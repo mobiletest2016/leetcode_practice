@@ -1413,3 +1413,5 @@ Uncategorized
 :yellow_circle: [1508. Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/) [<sub><sup> Array, Two Pointers, Binary Search, Sorting </sup></sub>]
 
 :yellow_circle: [1477. Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) [<sub><sup> Array, Hash Table, Binary Search, Dynamic Programming, Sliding Window </sup></sub>]
+
+:green_circle: [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) [<sub><sup> Array, Design, Prefix Sum </sup></sub>]
