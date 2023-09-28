@@ -1439,3 +1439,5 @@ Uncategorized
 :yellow_circle: [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) [<sub><sup> Array, Hash Table, Sliding Window </sup></sub>]
 
 :yellow_circle: [1177. Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/) [<sub><sup> Array, Hash Table, String, Bit Manipulation, Prefix Sum </sup></sub>]
+
+:yellow_circle: [1590. Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
