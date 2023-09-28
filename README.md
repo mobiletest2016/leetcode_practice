@@ -1389,3 +1389,5 @@ Uncategorized
 :red_circle: [689. Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
 :yellow_circle: [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) [<sub><sup> Array, Hash Table, Math, Prefix Sum </sup></sub>]
+
+:yellow_circle: [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
