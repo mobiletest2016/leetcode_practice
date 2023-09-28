@@ -1433,3 +1433,5 @@ Uncategorized
 :yellow_circle: [1674. Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
 
 :yellow_circle: [1712. Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) [<sub><sup> Array, Two Pointers, Binary Search, Prefix Sum </sup></sub>]
+
+:yellow_circle: [1685. Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) [<sub><sup> Array, Math, Prefix Sum </sup></sub>]
