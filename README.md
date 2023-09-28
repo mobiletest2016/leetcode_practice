@@ -1403,3 +1403,5 @@ Uncategorized
 :yellow_circle: [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) [<sub><sup> Tree, Depth-First Search, Binary Tree </sup></sub>]
 
 :yellow_circle: [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
+
+:yellow_circle: [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) [<sub><sup> Array, Design, Matrix, Prefix Sum </sup></sub>]
