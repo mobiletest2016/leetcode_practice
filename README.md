@@ -1405,3 +1405,5 @@ Uncategorized
 :yellow_circle: [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
 
 :yellow_circle: [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) [<sub><sup> Array, Design, Matrix, Prefix Sum </sup></sub>]
+
+:yellow_circle: [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) [<sub><sup> Array, Hash Table, Math, Sliding Window </sup></sub>]
