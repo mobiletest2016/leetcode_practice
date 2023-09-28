@@ -1397,3 +1397,5 @@ Uncategorized
 :red_circle: [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) [<sub><sup> Array, Hash Table, Matrix, Prefix Sum </sup></sub>]
 
 :red_circle: [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) [<sub><sup> Array, Binary Search, Matrix, Prefix Sum, Ordered Set </sup></sub>]
+
+:yellow_circle: [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) [<sub><sup> Array, Hash Table, Sliding Window, Prefix Sum </sup></sub>]
