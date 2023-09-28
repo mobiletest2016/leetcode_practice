@@ -1443,3 +1443,5 @@ Uncategorized
 :yellow_circle: [1590. Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
 
 :yellow_circle: [1749. Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
+:yellow_circle: [1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/) [<sub><sup> Hash Table, String, Bit Manipulation, Prefix Sum </sup></sub>]
