@@ -1411,3 +1411,5 @@ Uncategorized
 :yellow_circle: [1314. Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) [<sub><sup> Array, Matrix, Prefix Sum </sup></sub>]
 
 :yellow_circle: [1508. Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/) [<sub><sup> Array, Two Pointers, Binary Search, Sorting </sup></sub>]
+
+:yellow_circle: [1477. Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) [<sub><sup> Array, Hash Table, Binary Search, Dynamic Programming, Sliding Window </sup></sub>]
