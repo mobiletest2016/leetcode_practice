@@ -33,6 +33,8 @@ Links
 
 [Dynamic programming on subsets with examples, explained(Bitmask DP)](https://leetcode.com/tag/bitmask/discuss/1125779/Dynamic-programming-on-subsets-with-examples-explained)
 
+[Introduction to Fenwick Tree/Binary Indexed Tree(BIT)](https://leetcode.com/discuss/general-discussion/1093346)
+
 
 Design
 ------
