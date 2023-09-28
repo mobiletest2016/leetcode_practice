@@ -1399,3 +1399,5 @@ Uncategorized
 :red_circle: [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) [<sub><sup> Array, Binary Search, Matrix, Prefix Sum, Ordered Set </sup></sub>]
 
 :yellow_circle: [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) [<sub><sup> Array, Hash Table, Sliding Window, Prefix Sum </sup></sub>]
+
+:yellow_circle: [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) [<sub><sup> Tree, Depth-First Search, Binary Tree </sup></sub>]
