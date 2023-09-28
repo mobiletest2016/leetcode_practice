@@ -345,6 +345,8 @@ Two Pointer
 
 :yellow_circle:  [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) [<sub><sup> Array, Two Pointers, Sorting </sup></sub>]
 
+:red_circle: [1537. Get the Maximum Score](https://leetcode.com/problems/get-the-maximum-score/) [<sub><sup> Array, Two Pointers, Dynamic Programming, Greedy </sup></sub>]
+
 :red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) [<sub><sup> Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack </sup></sub>]
 
 
@@ -826,6 +828,8 @@ Bitmask + Dynamic Programming
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1187. Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/) [<sub><sup> Array, Binary Search, Dynamic Programming, Sorting </sup></sub>]
 
+:red_circle: [1537. Get the Maximum Score](https://leetcode.com/problems/get-the-maximum-score/) [<sub><sup> Array, Two Pointers, Dynamic Programming, Greedy </sup></sub>]
+
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2218. Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/) [<sub><sup> Array, Dynamic Programming, Prefix Sum </sup></sub>]
@@ -1024,7 +1028,6 @@ Greedy
 
 :yellow_circle: [984. String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/) [<sub><sup> String, Greedy </sup></sub>]
 
-
 :red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [2366. Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/) [<sub><sup> Array, Math, Greedy </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [135. Candy](https://leetcode.com/problems/candy/) [<sub><sup> Array, Greedy </sup></sub>]
@@ -1042,6 +1045,8 @@ Greedy
 :red_circle: [2589. Minimum Time to Complete All Tasks](https://leetcode.com/problems/minimum-time-to-complete-all-tasks/) [<sub><sup> Array, Binary Search, Stack, Greedy, Sorting </sup></sub>]
 
 :red_circle: :lock: [358. Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) [<sub><sup> Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting </sup></sub>]
+
+:red_circle: [1537. Get the Maximum Score](https://leetcode.com/problems/get-the-maximum-score/) [<sub><sup> Array, Two Pointers, Dynamic Programming, Greedy </sup></sub>]
 
 
 Intervals
