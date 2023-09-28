@@ -1417,3 +1417,5 @@ Uncategorized
 :green_circle: [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) [<sub><sup> Array, Design, Prefix Sum </sup></sub>]
 
 :yellow_circle: [1690. Stone Game VII](https://leetcode.com/problems/stone-game-vii/) [<sub><sup> Array, Math, Dynamic Programming, Game Theory </sup></sub>]
+
+:yellow_circle: [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) [<sub><sup> Array, Sliding Window, Prefix Sum </sup></sub>]
