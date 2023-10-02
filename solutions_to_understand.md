@@ -1,3 +1,12 @@
+### 456. 132 Pattern
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [456. 132 Pattern](https://leetcode.com/problems/132-pattern/) [<sub><sup> Array, Binary Search, Stack, Monotonic Stack, Ordered Set </sup></sub>]
+
+https://leetcode.com/submissions/detail/1062677010/
+
+https://leetcode.com/submissions/detail/694963957/
+
+
 ### 1498. Number of Subsequences That Satisfy the Given Sum Condition
 
 :yellow_circle:  [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) [<sub><sup> Array, Two Pointers, Binary Search, Sorting </sup></sub>]
