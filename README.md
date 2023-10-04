@@ -187,6 +187,8 @@ Prefix Sum
 
 :yellow_circle: [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) [<sub><sup> Array, Sliding Window, Prefix Sum </sup></sub>]
 
+:yellow_circle: [2875. Minimum Size Subarray in Infinite Array](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/) [<sub><sup> Array, Hash Table, Sliding Window, Prefix Sum </sup></sub>]
+
 :yellow_circle: [1477. Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) [<sub><sup> Array, Hash Table, Binary Search, Dynamic Programming, Sliding Window </sup></sub>]
 
 :yellow_circle: [1508. Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/) [<sub><sup> Array, Two Pointers, Binary Search, Sorting </sup></sub>]
@@ -428,6 +430,8 @@ Sliding Window
 :green_circle:	<picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1763. Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/) [<sub><sup> Hash Table, String, Divide and Conquer, Bit Manipulation, Sliding Window </sup></sub>]
 
 :yellow_circle:  [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) [<sub><sup> Array, Binary Search, Sliding Window, Prefix Sum </sup></sub>]
+
+:yellow_circle: [2875. Minimum Size Subarray in Infinite Array](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/) [<sub><sup> Array, Hash Table, Sliding Window, Prefix Sum </sup></sub>]
 
 :yellow_circle:  [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) [<sub><sup> Hash Table, Two Pointers, String, Sliding Window </sup></sub>]
 
