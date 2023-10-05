@@ -87,6 +87,8 @@ https://leetcode.com/problems/largest-rectangle-in-histogram/solutions/995249/py
 
 ### 2250. Count Number of Rectangles Containing Each Point
 
+https://leetcode.com/contest/weekly-contest-290/submissions/detail/686310783/
+
 https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/solutions/1979001/java-understanding-solution-from-uwi-weekly-champion/
 
 https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/submissions/1056122733/
