@@ -161,6 +161,8 @@ Stack/Monotonic Stack
 
 :yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [456. 132 Pattern](https://leetcode.com/problems/132-pattern/) [<sub><sup> Array, Binary Search, Stack, Monotonic Stack, Ordered Set </sup></sub>]
 
+:yellow_circle: :lock: [1762. Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/) [<sub><sup> Array, Stack, Monotonic Stack </sup></sub>]
+
 :red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) [<sub><sup> Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) [<sub><sup> Math, String, Stack, Recursion </sup></sub>]
