@@ -153,6 +153,8 @@ Stack/Monotonic Stack
 
 :yellow_circle: [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) [<sub><sup> Array, Stack, Monotonic Stack </sup></sub>]
 
+:yellow_circle: [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) [<sub><sup> Array, Stack, Monotonic Stack </sup></sub>]
+
 :yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) [<sub><sup> String, Stack, Greedy, Monotonic Stack </sup></sub>]
 
 :yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) [<sub><sup> Array, Stack, Simulation </sup></sub>]
