@@ -1437,6 +1437,14 @@ Tarjan's Algorithm ([Wiki](https://en.wikipedia.org/wiki/Tarjan%27s_strongly_con
 :red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) [<sub><sup> Depth-First Search, Graph, Biconnected Component </sup></sub>]
 
 
+Boyer–Moore majority vote algorithm ([Wiki](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm))
+------
+
+:yellow_circle: [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) [<sub><sup> Array, Hash Table, Sorting, Counting </sup></sub>]
+
+:green_circle: [169. Majority Element](https://leetcode.com/problems/majority-element/) [<sub><sup> Array, Hash Table, Divide and Conquer, Sorting, Counting </sup></sub>]
+
+
 Uncategorized
 ------
 
