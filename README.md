@@ -1493,3 +1493,5 @@ Uncategorized
 :red_circle: [2035. Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/) [<sub><sup> Array, Two Pointers, Binary Search, Dynamic Programming, Bit Manipulation, Ordered Set, Bitmask </sup></sub>]
 
 :red_circle: [805. Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/) [<sub><sup> Array, Math, Dynamic Programming, Bit Manipulation, Bitmask </sup></sub>]
+
+:red_circle: [1755. Closest Subsequence Sum](https://leetcode.com/problems/closest-subsequence-sum/) [<sub><sup> Array, Two Pointers, Dynamic Programming, Bit Manipulation, Bitmask </sup></sub>]
