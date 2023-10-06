@@ -1453,6 +1453,18 @@ Boyer–Moore majority vote algorithm ([Wiki](https://en.wikipedia.org/wiki/Boye
 :green_circle: [169. Majority Element](https://leetcode.com/problems/majority-element/) [<sub><sup> Array, Hash Table, Divide and Conquer, Sorting, Counting </sup></sub>]
 
 
+Meet in the middle
+------
+
+:red_circle: [2035. Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/) [<sub><sup> Array, Two Pointers, Binary Search, Dynamic Programming, Bit Manipulation, Ordered Set, Bitmask </sup></sub>]
+
+:red_circle: [805. Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/) [<sub><sup> Array, Math, Dynamic Programming, Bit Manipulation, Bitmask </sup></sub>]
+
+:red_circle: [1755. Closest Subsequence Sum](https://leetcode.com/problems/closest-subsequence-sum/) [<sub><sup> Array, Two Pointers, Dynamic Programming, Bit Manipulation, Bitmask </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [956. Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
+
 Uncategorized
 ------
 
@@ -1482,16 +1494,8 @@ Uncategorized
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1575. Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/) [<sub><sup> Array, Dynamic Programming, Memoization </sup></sub>]
 
-:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [956. Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
-
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1601. Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) [<sub><sup> Array, Backtracking, Bit Manipulation, Enumeration </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1125. Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/) [<sub><sup> Array, Dynamic Programming, Bit Manipulation, Bitmask </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2790. Maximum Number of Groups With Increasing Length](https://leetcode.com/problems/maximum-number-of-groups-with-increasing-length/) [<sub><sup> Array, Math, Binary Search, Greedy, Sorting </sup></sub>]
-
-:red_circle: [2035. Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/) [<sub><sup> Array, Two Pointers, Binary Search, Dynamic Programming, Bit Manipulation, Ordered Set, Bitmask </sup></sub>]
-
-:red_circle: [805. Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/) [<sub><sup> Array, Math, Dynamic Programming, Bit Manipulation, Bitmask </sup></sub>]
-
-:red_circle: [1755. Closest Subsequence Sum](https://leetcode.com/problems/closest-subsequence-sum/) [<sub><sup> Array, Two Pointers, Dynamic Programming, Bit Manipulation, Bitmask </sup></sub>]
