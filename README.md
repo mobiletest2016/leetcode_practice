@@ -1505,3 +1505,5 @@ Uncategorized
 :yellow_circle: [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) [<sub><sup> Stack, Design, Monotonic Stack, Data Stream </sup></sub>]
 
 :yellow_circle: [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) [<sub><sup> Array, Dynamic Programming, Stack, Monotonic Stack </sup></sub>]
+
+:yellow_circle: [1130. Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) [<sub><sup> Array, Dynamic Programming, Stack, Greedy, Monotonic Stack </sup></sub>]
