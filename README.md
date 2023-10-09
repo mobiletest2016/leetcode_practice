@@ -1525,3 +1525,5 @@ Uncategorized
 :red_circle: [2398. Maximum Number of Robots Within Budget](https://leetcode.com/problems/maximum-number-of-robots-within-budget/) [<sub><sup> Array, Binary Search, Queue, Sliding Window, Heap (Priority Queue), Prefix Sum </sup></sub>]
 
 :red_circle: [2454. Next Greater Element IV](https://leetcode.com/problems/next-greater-element-iv/) [<sub><sup> Array, Binary Search, Stack, Sorting, Heap (Priority Queue), Monotonic Stack </sup></sub>]
+
+:yellow_circle: [2594. Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/) [<sub><sup> Array, Binary Search </sup></sub>]
