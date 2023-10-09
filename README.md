@@ -147,6 +147,28 @@ Stack/Monotonic Stack
 
 :green_circle:	<picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) [<sub><sup> Array, Hash Table, Stack, Monotonic Stack </sup></sub>]
 
+:green_circle: [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) [<sub><sup> Array, Stack, Monotonic Stack </sup></sub>]
+
+:yellow_circle: [1130. Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) [<sub><sup> Array, Dynamic Programming, Stack, Greedy, Monotonic Stack </sup></sub>]
+
+:yellow_circle: [1673. Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) [<sub><sup> Array, Stack, Greedy, Monotonic Stack </sup></sub>]
+
+:yellow_circle: [2289. Steps to Make Array Non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing/) [<sub><sup> Array, Linked List, Stack, Monotonic Stack </sup></sub>]
+
+:yellow_circle: [2594. Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/) [<sub><sup> Array, Binary Search </sup></sub>]
+
+:yellow_circle: [2735. Collecting Chocolates](https://leetcode.com/problems/collecting-chocolates/) [<sub><sup> Array, Enumeration </sup></sub>]
+
+:yellow_circle: [2865. Beautiful Towers I](https://leetcode.com/problems/beautiful-towers-i/) [<sub><sup> Array, Stack, Monotonic Stack </sup></sub>]
+
+:yellow_circle: [2866. Beautiful Towers II](https://leetcode.com/problems/beautiful-towers-ii/) [<sub><sup> Array, Stack, Monotonic Stack </sup></sub>]
+
+:yellow_circle: [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) [<sub><sup> String, Stack </sup></sub>]
+
+:yellow_circle: [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) [<sub><sup> Stack, Design, Monotonic Stack, Data Stream </sup></sub>]
+
+:yellow_circle: [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) [<sub><sup> Array, Dynamic Programming, Stack, Monotonic Stack </sup></sub>]
+
 :yellow_circle:  [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) [<sub><sup> String, Stack, Greedy, Monotonic Stack </sup></sub>]
 
 :yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [880. Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/) [<sub><sup> String, Stack </sup></sub>]
@@ -157,8 +179,6 @@ Stack/Monotonic Stack
 
 :yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) [<sub><sup> String, Stack, Greedy, Monotonic Stack </sup></sub>]
 
-:red_circle: [1944. Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) [<sub><sup> Array, Stack, Monotonic Stack </sup></sub>]
-
 :yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) [<sub><sup> Array, Stack, Simulation </sup></sub>]
 
 :yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [456. 132 Pattern](https://leetcode.com/problems/132-pattern/) [<sub><sup> Array, Binary Search, Stack, Monotonic Stack, Ordered Set </sup></sub>]
@@ -166,6 +186,20 @@ Stack/Monotonic Stack
 :yellow_circle: :lock: [1762. Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/) [<sub><sup> Array, Stack, Monotonic Stack </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) [<sub><sup> Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack </sup></sub>]
+
+:red_circle: [1425. Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/) [<sub><sup> Array, Dynamic Programming, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue </sup></sub>]
+
+:red_circle: [1671. Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) [<sub><sup> Array, Binary Search, Dynamic Programming, Greedy </sup></sub>]
+
+:red_circle: [1776. Car Fleet II](https://leetcode.com/problems/car-fleet-ii/) [<sub><sup> Array, Math, Stack, Heap (Priority Queue), Monotonic Stack </sup></sub>]
+
+:red_circle: [1944. Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) [<sub><sup> Array, Stack, Monotonic Stack </sup></sub>]
+
+:red_circle: [2281. Sum of Total Strength of Wizards](https://leetcode.com/problems/sum-of-total-strength-of-wizards/) [<sub><sup> Array, Stack, Monotonic Stack, Prefix Sum </sup></sub>]
+
+:red_circle: [2398. Maximum Number of Robots Within Budget](https://leetcode.com/problems/maximum-number-of-robots-within-budget/) [<sub><sup> Array, Binary Search, Queue, Sliding Window, Heap (Priority Queue), Prefix Sum </sup></sub>]
+
+:red_circle: [2454. Next Greater Element IV](https://leetcode.com/problems/next-greater-element-iv/) [<sub><sup> Array, Binary Search, Stack, Sorting, Heap (Priority Queue), Monotonic Stack </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) [<sub><sup> Math, String, Stack, Recursion </sup></sub>]
 
@@ -1499,37 +1533,3 @@ Uncategorized
 :red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1125. Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/) [<sub><sup> Array, Dynamic Programming, Bit Manipulation, Bitmask </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2790. Maximum Number of Groups With Increasing Length](https://leetcode.com/problems/maximum-number-of-groups-with-increasing-length/) [<sub><sup> Array, Math, Binary Search, Greedy, Sorting </sup></sub>]
-
-:yellow_circle: [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) [<sub><sup> String, Stack </sup></sub>]
-
-:yellow_circle: [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) [<sub><sup> Stack, Design, Monotonic Stack, Data Stream </sup></sub>]
-
-:yellow_circle: [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) [<sub><sup> Array, Dynamic Programming, Stack, Monotonic Stack </sup></sub>]
-
-:yellow_circle: [1130. Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) [<sub><sup> Array, Dynamic Programming, Stack, Greedy, Monotonic Stack </sup></sub>]
-
-:red_circle: [1425. Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/) [<sub><sup> Array, Dynamic Programming, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue </sup></sub>]
-
-:green_circle: [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) [<sub><sup> Array, Stack, Monotonic Stack </sup></sub>]
-
-:red_circle: [1671. Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) [<sub><sup> Array, Binary Search, Dynamic Programming, Greedy </sup></sub>]
-
-:yellow_circle: [1673. Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) [<sub><sup> Array, Stack, Greedy, Monotonic Stack </sup></sub>]
-
-:red_circle: [1776. Car Fleet II](https://leetcode.com/problems/car-fleet-ii/) [<sub><sup> Array, Math, Stack, Heap (Priority Queue), Monotonic Stack </sup></sub>]
-
-:red_circle: [2281. Sum of Total Strength of Wizards](https://leetcode.com/problems/sum-of-total-strength-of-wizards/) [<sub><sup> Array, Stack, Monotonic Stack, Prefix Sum </sup></sub>]
-
-:yellow_circle: [2289. Steps to Make Array Non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing/) [<sub><sup> Array, Linked List, Stack, Monotonic Stack </sup></sub>]
-
-:red_circle: [2398. Maximum Number of Robots Within Budget](https://leetcode.com/problems/maximum-number-of-robots-within-budget/) [<sub><sup> Array, Binary Search, Queue, Sliding Window, Heap (Priority Queue), Prefix Sum </sup></sub>]
-
-:red_circle: [2454. Next Greater Element IV](https://leetcode.com/problems/next-greater-element-iv/) [<sub><sup> Array, Binary Search, Stack, Sorting, Heap (Priority Queue), Monotonic Stack </sup></sub>]
-
-:yellow_circle: [2594. Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/) [<sub><sup> Array, Binary Search </sup></sub>]
-
-:yellow_circle: [2735. Collecting Chocolates](https://leetcode.com/problems/collecting-chocolates/) [<sub><sup> Array, Enumeration </sup></sub>]
-
-:yellow_circle: [2865. Beautiful Towers I](https://leetcode.com/problems/beautiful-towers-i/) [<sub><sup> Array, Stack, Monotonic Stack </sup></sub>]
-
-:yellow_circle: [2866. Beautiful Towers II](https://leetcode.com/problems/beautiful-towers-ii/) [<sub><sup> Array, Stack, Monotonic Stack </sup></sub>]
