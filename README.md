@@ -149,6 +149,26 @@ Stack/Monotonic Stack
 
 :green_circle: [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) [<sub><sup> Array, Stack, Monotonic Stack </sup></sub>]
 
+:green_circle: [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) [<sub><sup> String, Stack </sup></sub>]
+
+:green_circle: [682. Baseball Game](https://leetcode.com/problems/baseball-game/) [<sub><sup> Array, Stack, Simulation </sup></sub>]
+
+:green_circle: [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) [<sub><sup> Stack, Design, Queue </sup></sub>]
+
+:yellow_circle: [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) [<sub><sup> Array, Math, Stack </sup></sub>]
+
+:yellow_circle: [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) [<sub><sup> String, Stack, Simulation </sup></sub>]
+
+:yellow_circle: [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) [<sub><sup> Array, Stack, Simulation </sup></sub>]
+
+:yellow_circle: [853. Car Fleet](https://leetcode.com/problems/car-fleet/) [<sub><sup> Array, Stack, Sorting, Monotonic Stack </sup></sub>]
+
+:yellow_circle: [71. Simplify Path](https://leetcode.com/problems/simplify-path/) [<sub><sup> String, Stack </sup></sub>]
+
+:yellow_circle: [394. Decode String](https://leetcode.com/problems/decode-string/) [<sub><sup> String, Stack, Recursion </sup></sub>]
+
+:yellow_circle: [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) [<sub><sup> String, Stack </sup></sub>]
+
 :yellow_circle: [1130. Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) [<sub><sup> Array, Dynamic Programming, Stack, Greedy, Monotonic Stack </sup></sub>]
 
 :yellow_circle: [1673. Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) [<sub><sup> Array, Stack, Greedy, Monotonic Stack </sup></sub>]
@@ -1533,23 +1553,3 @@ Uncategorized
 :red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1125. Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/) [<sub><sup> Array, Dynamic Programming, Bit Manipulation, Bitmask </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2790. Maximum Number of Groups With Increasing Length](https://leetcode.com/problems/maximum-number-of-groups-with-increasing-length/) [<sub><sup> Array, Math, Binary Search, Greedy, Sorting </sup></sub>]
-
-:green_circle: [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) [<sub><sup> String, Stack </sup></sub>]
-
-:green_circle: [682. Baseball Game](https://leetcode.com/problems/baseball-game/) [<sub><sup> Array, Stack, Simulation </sup></sub>]
-
-:green_circle: [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) [<sub><sup> Stack, Design, Queue </sup></sub>]
-
-:yellow_circle: [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) [<sub><sup> Array, Math, Stack </sup></sub>]
-
-:yellow_circle: [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) [<sub><sup> String, Stack, Simulation </sup></sub>]
-
-:yellow_circle: [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) [<sub><sup> Array, Stack, Simulation </sup></sub>]
-
-:yellow_circle: [853. Car Fleet](https://leetcode.com/problems/car-fleet/) [<sub><sup> Array, Stack, Sorting, Monotonic Stack </sup></sub>]
-
-:yellow_circle: [71. Simplify Path](https://leetcode.com/problems/simplify-path/) [<sub><sup> String, Stack </sup></sub>]
-
-:yellow_circle: [394. Decode String](https://leetcode.com/problems/decode-string/) [<sub><sup> String, Stack, Recursion </sup></sub>]
-
-:yellow_circle: [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) [<sub><sup> String, Stack </sup></sub>]
