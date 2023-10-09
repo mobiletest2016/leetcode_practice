@@ -1539,3 +1539,5 @@ Uncategorized
 :green_circle: [682. Baseball Game](https://leetcode.com/problems/baseball-game/) [<sub><sup> Array, Stack, Simulation </sup></sub>]
 
 :green_circle: [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) [<sub><sup> Stack, Design, Queue </sup></sub>]
+
+:yellow_circle: [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) [<sub><sup> Array, Math, Stack </sup></sub>]
