@@ -1537,3 +1537,5 @@ Uncategorized
 :green_circle: [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) [<sub><sup> String, Stack </sup></sub>]
 
 :green_circle: [682. Baseball Game](https://leetcode.com/problems/baseball-game/) [<sub><sup> Array, Stack, Simulation </sup></sub>]
+
+:green_circle: [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) [<sub><sup> Stack, Design, Queue </sup></sub>]
