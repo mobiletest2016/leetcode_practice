@@ -1547,3 +1547,5 @@ Uncategorized
 :yellow_circle: [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) [<sub><sup> Array, Stack, Simulation </sup></sub>]
 
 :yellow_circle: [853. Car Fleet](https://leetcode.com/problems/car-fleet/) [<sub><sup> Array, Stack, Sorting, Monotonic Stack </sup></sub>]
+
+:yellow_circle: [71. Simplify Path](https://leetcode.com/problems/simplify-path/) [<sub><sup> String, Stack </sup></sub>]
