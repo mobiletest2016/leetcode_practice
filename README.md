@@ -1513,3 +1513,5 @@ Uncategorized
 :green_circle: [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) [<sub><sup> Array, Stack, Monotonic Stack </sup></sub>]
 
 :red_circle: [1671. Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) [<sub><sup> Array, Binary Search, Dynamic Programming, Greedy </sup></sub>]
+
+:yellow_circle: [1673. Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) [<sub><sup> Array, Stack, Greedy, Monotonic Stack </sup></sub>]
