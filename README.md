@@ -1541,3 +1541,5 @@ Uncategorized
 :green_circle: [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) [<sub><sup> Stack, Design, Queue </sup></sub>]
 
 :yellow_circle: [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) [<sub><sup> Array, Math, Stack </sup></sub>]
+
+:yellow_circle: [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) [<sub><sup> String, Stack, Simulation </sup></sub>]
