@@ -1551,3 +1551,5 @@ Uncategorized
 :yellow_circle: [71. Simplify Path](https://leetcode.com/problems/simplify-path/) [<sub><sup> String, Stack </sup></sub>]
 
 :yellow_circle: [394. Decode String](https://leetcode.com/problems/decode-string/) [<sub><sup> String, Stack, Recursion </sup></sub>]
+
+:yellow_circle: [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) [<sub><sup> String, Stack </sup></sub>]
