@@ -1511,3 +1511,5 @@ Uncategorized
 :red_circle: [1425. Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/) [<sub><sup> Array, Dynamic Programming, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue </sup></sub>]
 
 :green_circle: [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) [<sub><sup> Array, Stack, Monotonic Stack </sup></sub>]
+
+:red_circle: [1671. Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) [<sub><sup> Array, Binary Search, Dynamic Programming, Greedy </sup></sub>]
