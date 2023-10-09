@@ -1501,3 +1501,5 @@ Uncategorized
 :red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2790. Maximum Number of Groups With Increasing Length](https://leetcode.com/problems/maximum-number-of-groups-with-increasing-length/) [<sub><sup> Array, Math, Binary Search, Greedy, Sorting </sup></sub>]
 
 :yellow_circle: [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) [<sub><sup> String, Stack </sup></sub>]
+
+:yellow_circle: [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) [<sub><sup> Stack, Design, Monotonic Stack, Data Stream </sup></sub>]
