@@ -1521,3 +1521,5 @@ Uncategorized
 :red_circle: [2281. Sum of Total Strength of Wizards](https://leetcode.com/problems/sum-of-total-strength-of-wizards/) [<sub><sup> Array, Stack, Monotonic Stack, Prefix Sum </sup></sub>]
 
 :yellow_circle: [2289. Steps to Make Array Non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing/) [<sub><sup> Array, Linked List, Stack, Monotonic Stack </sup></sub>]
+
+:red_circle: [2398. Maximum Number of Robots Within Budget](https://leetcode.com/problems/maximum-number-of-robots-within-budget/) [<sub><sup> Array, Binary Search, Queue, Sliding Window, Heap (Priority Queue), Prefix Sum </sup></sub>]
