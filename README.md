@@ -1529,3 +1529,5 @@ Uncategorized
 :yellow_circle: [2594. Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/) [<sub><sup> Array, Binary Search </sup></sub>]
 
 :yellow_circle: [2735. Collecting Chocolates](https://leetcode.com/problems/collecting-chocolates/) [<sub><sup> Array, Enumeration </sup></sub>]
+
+:yellow_circle: [2865. Beautiful Towers I](https://leetcode.com/problems/beautiful-towers-i/) [<sub><sup> Array, Stack, Monotonic Stack </sup></sub>]
