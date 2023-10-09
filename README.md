@@ -1517,3 +1517,5 @@ Uncategorized
 :yellow_circle: [1673. Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) [<sub><sup> Array, Stack, Greedy, Monotonic Stack </sup></sub>]
 
 :red_circle: [1776. Car Fleet II](https://leetcode.com/problems/car-fleet-ii/) [<sub><sup> Array, Math, Stack, Heap (Priority Queue), Monotonic Stack </sup></sub>]
+
+:red_circle: [2281. Sum of Total Strength of Wizards](https://leetcode.com/problems/sum-of-total-strength-of-wizards/) [<sub><sup> Array, Stack, Monotonic Stack, Prefix Sum </sup></sub>]
