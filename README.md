@@ -1507,3 +1507,5 @@ Uncategorized
 :yellow_circle: [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) [<sub><sup> Array, Dynamic Programming, Stack, Monotonic Stack </sup></sub>]
 
 :yellow_circle: [1130. Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) [<sub><sup> Array, Dynamic Programming, Stack, Greedy, Monotonic Stack </sup></sub>]
+
+:red_circle: [1425. Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/) [<sub><sup> Array, Dynamic Programming, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue </sup></sub>]
