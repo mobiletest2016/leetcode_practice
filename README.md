@@ -1527,3 +1527,5 @@ Uncategorized
 :red_circle: [2454. Next Greater Element IV](https://leetcode.com/problems/next-greater-element-iv/) [<sub><sup> Array, Binary Search, Stack, Sorting, Heap (Priority Queue), Monotonic Stack </sup></sub>]
 
 :yellow_circle: [2594. Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/) [<sub><sup> Array, Binary Search </sup></sub>]
+
+:yellow_circle: [2735. Collecting Chocolates](https://leetcode.com/problems/collecting-chocolates/) [<sub><sup> Array, Enumeration </sup></sub>]
