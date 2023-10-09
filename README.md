@@ -1531,3 +1531,5 @@ Uncategorized
 :yellow_circle: [2735. Collecting Chocolates](https://leetcode.com/problems/collecting-chocolates/) [<sub><sup> Array, Enumeration </sup></sub>]
 
 :yellow_circle: [2865. Beautiful Towers I](https://leetcode.com/problems/beautiful-towers-i/) [<sub><sup> Array, Stack, Monotonic Stack </sup></sub>]
+
+:yellow_circle: [2866. Beautiful Towers II](https://leetcode.com/problems/beautiful-towers-ii/) [<sub><sup> Array, Stack, Monotonic Stack </sup></sub>]
