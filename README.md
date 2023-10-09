@@ -1545,3 +1545,5 @@ Uncategorized
 :yellow_circle: [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) [<sub><sup> String, Stack, Simulation </sup></sub>]
 
 :yellow_circle: [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) [<sub><sup> Array, Stack, Simulation </sup></sub>]
+
+:yellow_circle: [853. Car Fleet](https://leetcode.com/problems/car-fleet/) [<sub><sup> Array, Stack, Sorting, Monotonic Stack </sup></sub>]
