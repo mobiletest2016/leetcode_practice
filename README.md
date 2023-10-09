@@ -1523,3 +1523,5 @@ Uncategorized
 :yellow_circle: [2289. Steps to Make Array Non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing/) [<sub><sup> Array, Linked List, Stack, Monotonic Stack </sup></sub>]
 
 :red_circle: [2398. Maximum Number of Robots Within Budget](https://leetcode.com/problems/maximum-number-of-robots-within-budget/) [<sub><sup> Array, Binary Search, Queue, Sliding Window, Heap (Priority Queue), Prefix Sum </sup></sub>]
+
+:red_circle: [2454. Next Greater Element IV](https://leetcode.com/problems/next-greater-element-iv/) [<sub><sup> Array, Binary Search, Stack, Sorting, Heap (Priority Queue), Monotonic Stack </sup></sub>]
