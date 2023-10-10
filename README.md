@@ -533,6 +533,8 @@ Sliding Window
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) [<sub><sup> Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2009. Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/) [<sub><sup> Array, Binary Search </sup></sub>]
+
 
 Binary Search
 ------
@@ -644,6 +646,8 @@ Binary Search
 :red_circle:  [719. Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) [<sub><sup> Array, Two Pointers, Binary Search, Sorting </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2141. Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/) [<sub><sup> Array, Binary Search, Greedy, Sorting </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2009. Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/) [<sub><sup> Array, Binary Search </sup></sub>]
 
 
 DFS/BFS
