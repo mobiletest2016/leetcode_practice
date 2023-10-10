@@ -1,3 +1,12 @@
+### 2009. Minimum Number of Operations to Make Array Continuous
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2009. Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/) [<sub><sup> Array, Binary Search </sup></sub>]
+
+https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/editorial/
+
+https://leetcode.com/submissions/detail/1071418060/
+
+
 ### 456. 132 Pattern
 
 :yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [456. 132 Pattern](https://leetcode.com/problems/132-pattern/) [<sub><sup> Array, Binary Search, Stack, Monotonic Stack, Ordered Set </sup></sub>]
