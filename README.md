@@ -215,6 +215,8 @@ Stack/Monotonic Stack
 
 :red_circle: [1944. Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) [<sub><sup> Array, Stack, Monotonic Stack </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1793. Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) [<sub><sup> Array, Two Pointers, Binary Search, Stack, Monotonic Stack </sup></sub>]
+
 :red_circle: [2281. Sum of Total Strength of Wizards](https://leetcode.com/problems/sum-of-total-strength-of-wizards/) [<sub><sup> Array, Stack, Monotonic Stack, Prefix Sum </sup></sub>]
 
 :red_circle: [2398. Maximum Number of Robots Within Budget](https://leetcode.com/problems/maximum-number-of-robots-within-budget/) [<sub><sup> Array, Binary Search, Queue, Sliding Window, Heap (Priority Queue), Prefix Sum </sup></sub>]
@@ -632,6 +634,8 @@ Binary Search
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) [<sub><sup> Array, Binary Search, Divide and Conquer </sup></sub>]
 
 :red_circle: :lock: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture>  [1231. Divide Chocolate](https://leetcode.com/problems/divide-chocolate/) [<sub><sup> Array, Binary Search </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1793. Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) [<sub><sup> Array, Two Pointers, Binary Search, Stack, Monotonic Stack </sup></sub>]
 
 :red_circle: :lock: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [774. Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) [<sub><sup> Array, Binary Search </sup></sub>]
 
