@@ -2,6 +2,8 @@ Question Lists
 -----
 ## [ART of DP problems](ART_of_DP.md)
 
+## [Shuffled neetcode problems](neetcode.md)
+
 [NeetCode Practice](https://neetcode.io/practice)
 
 
