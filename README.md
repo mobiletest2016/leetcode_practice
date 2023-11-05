@@ -1603,3 +1603,5 @@ Uncategorized
 :red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2790. Maximum Number of Groups With Increasing Length](https://leetcode.com/problems/maximum-number-of-groups-with-increasing-length/) [<sub><sup> Array, Math, Binary Search, Greedy, Sorting </sup></sub>]
 
 :yellow_circle: [289. Game of Life](https://leetcode.com/problems/game-of-life/) [<sub><sup> Array, Matrix, Simulation </sup></sub>]
+
+:green_circle: [67. Add Binary](https://leetcode.com/problems/add-binary/) [<sub><sup> Math, String, Bit Manipulation, Simulation </sup></sub>]
