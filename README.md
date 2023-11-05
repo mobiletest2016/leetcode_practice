@@ -1538,6 +1538,8 @@ Simulation
 
 :green_circle:	 [258. Add Digits](https://leetcode.com/problems/add-digits/) [<sub><sup> Math, Simulation, Number Theory </sup></sub>]
 
+:green_circle: [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/) [<sub><sup> Design, Simulation, Counting </sup></sub>]
+
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1535. Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/) [<sub><sup> Array, Simulation </sup></sub>]
 
 :yellow_circle: [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) [<sub><sup> String, Stack, Simulation </sup></sub>]
