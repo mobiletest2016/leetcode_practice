@@ -1531,6 +1531,42 @@ Meet in the middle
 :red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [956. Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
 
+Simulation
+------
+
+:green_circle: [682. Baseball Game](https://leetcode.com/problems/baseball-game/) [<sub><sup> Array, Stack, Simulation </sup></sub>]
+
+:green_circle:	 [258. Add Digits](https://leetcode.com/problems/add-digits/) [<sub><sup> Math, Simulation, Number Theory </sup></sub>]
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1535. Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/) [<sub><sup> Array, Simulation </sup></sub>]
+
+:yellow_circle: [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) [<sub><sup> String, Stack, Simulation </sup></sub>]
+
+:yellow_circle: [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) [<sub><sup> Array, Stack, Simulation </sup></sub>]
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) [<sub><sup> Array, Stack, Simulation </sup></sub>]
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) [<sub><sup> Array, Stack, Simulation </sup></sub>]
+
+:yellow_circle:  [2462. Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) [<sub><sup> Array, Two Pointers, Heap (Priority Queue), Simulation </sup></sub>]
+
+:yellow_circle:  [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) [<sub><sup> Array, Dynamic Programming, Depth-First Search, Matrix, Simulation </sup></sub>]
+
+:yellow_circle: [1094. Car Pooling](https://leetcode.com/problems/car-pooling/) [<sub><sup> Array, Sorting, Heap (Priority Queue), Simulation, Prefix Sum </sup></sub>]
+
+:yellow_circle:  [1680. Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) [<sub><sup> Math, Bit Manipulation, Simulation </sup></sub>]
+
+:yellow_circle:  [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) [<sub><sup> Array, Matrix, Simulation </sup></sub>]
+
+:yellow_circle:  [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) [<sub><sup> Array, Matrix, Simulation </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2296. Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/) [<sub><sup> Linked List, String, Stack, Design, Simulation, Doubly-Linked List </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [68. Text Justification](https://leetcode.com/problems/text-justification/) [<sub><sup> Array, String, Simulation </sup></sub>]
+
+:red_circle: [749. Contain Virus](https://leetcode.com/problems/contain-virus/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Matrix, Simulation </sup></sub>]
+
+
 Uncategorized
 ------
 
@@ -1565,5 +1601,3 @@ Uncategorized
 :red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1125. Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/) [<sub><sup> Array, Dynamic Programming, Bit Manipulation, Bitmask </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2790. Maximum Number of Groups With Increasing Length](https://leetcode.com/problems/maximum-number-of-groups-with-increasing-length/) [<sub><sup> Array, Math, Binary Search, Greedy, Sorting </sup></sub>]
-
-:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1535. Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/) [<sub><sup> Array, Simulation </sup></sub>]
