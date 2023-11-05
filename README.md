@@ -1550,6 +1550,8 @@ Simulation
 
 :yellow_circle:  [2462. Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) [<sub><sup> Array, Two Pointers, Heap (Priority Queue), Simulation </sup></sub>]
 
+:yellow_circle: [1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) [<sub><sup> Array, Stack, Simulation </sup></sub>]
+
 :yellow_circle:  [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) [<sub><sup> Array, Dynamic Programming, Depth-First Search, Matrix, Simulation </sup></sub>]
 
 :yellow_circle: [1094. Car Pooling](https://leetcode.com/problems/car-pooling/) [<sub><sup> Array, Sorting, Heap (Priority Queue), Simulation, Prefix Sum </sup></sub>]
