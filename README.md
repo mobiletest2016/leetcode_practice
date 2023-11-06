@@ -1639,6 +1639,68 @@ Segment Tree
 :red_circle: [2736. Maximum Sum Queries](https://leetcode.com/problems/maximum-sum-queries/) [<sub><sup> Array, Binary Search, Stack, Binary Indexed Tree, Segment Tree, Sorting, Monotonic Stack </sup></sub>]
 
 
+Binary Indexed Tree (BIT)/Fenwick Tree
+------
+
+:yellow_circle: :lock: [2031. Count Subarrays With More Ones Than Zeros](https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros/) [<sub><sup> Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set </sup></sub>]
+
+:yellow_circle: [2250. Count Number of Rectangles Containing Each Point](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/) [<sub><sup> Array, Binary Search, Binary Indexed Tree, Sorting </sup></sub>]
+
+:yellow_circle: [2250. Count Number of Rectangles Containing Each Point](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/) [<sub><sup> Array, Binary Search, Binary Indexed Tree, Sorting </sup></sub>]
+
+:yellow_circle: [2424. Longest Uploaded Prefix](https://leetcode.com/problems/longest-uploaded-prefix/) [<sub><sup> Binary Search, Union Find, Design, Binary Indexed Tree, Segment Tree, Heap (Priority Queue), Ordered Set </sup></sub>]
+
+:yellow_circle: [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) [<sub><sup> Array, Design, Binary Indexed Tree, Segment Tree </sup></sub>]
+
+:yellow_circle: [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) [<sub><sup> Array, Greedy, Binary Indexed Tree, Segment Tree, Sorting </sup></sub>]
+
+:yellow_circle: [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) [<sub><sup> Array, Greedy, Binary Indexed Tree, Segment Tree, Sorting </sup></sub>]
+
+:yellow_circle: [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) [<sub><sup> Array, Dynamic Programming, Binary Indexed Tree, Segment Tree </sup></sub>]
+
+:yellow_circle: [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) [<sub><sup> Array, Dynamic Programming, Binary Indexed Tree, Segment Tree </sup></sub>]
+
+:red_circle: :lock: [2519. Count the Number of K-Big Indices](https://leetcode.com/problems/count-the-number-of-k-big-indices/) [<sub><sup> Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set </sup></sub>]
+
+:red_circle: :lock: [308. Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/) [<sub><sup> Array, Design, Binary Indexed Tree, Segment Tree, Matrix </sup></sub>]
+
+:red_circle: [1157. Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/) [<sub><sup> Array, Binary Search, Design, Binary Indexed Tree, Segment Tree </sup></sub>]
+
+:red_circle: [1505. Minimum Possible Integer After at Most K Adjacent Swaps On Digits](https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) [<sub><sup> String, Greedy, Binary Indexed Tree, Segment Tree </sup></sub>]
+
+:red_circle: [1649. Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/) [<sub><sup> Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set </sup></sub>]
+
+:red_circle: [1964. Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/) [<sub><sup> Array, Binary Search, Binary Indexed Tree </sup></sub>]
+
+:red_circle: [1964. Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/) [<sub><sup> Array, Binary Search, Binary Indexed Tree </sup></sub>]
+
+:red_circle: [2179. Count Good Triplets in an Array](https://leetcode.com/problems/count-good-triplets-in-an-array/) [<sub><sup> Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set </sup></sub>]
+
+:red_circle: [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) [<sub><sup> Array, Divide and Conquer, Binary Indexed Tree, Segment Tree, Line Sweep, Heap (Priority Queue), Ordered Set </sup></sub>]
+
+:red_circle: [2286. Booking Concert Tickets in Groups](https://leetcode.com/problems/booking-concert-tickets-in-groups/) [<sub><sup> Binary Search, Design, Binary Indexed Tree, Segment Tree </sup></sub>]
+
+:red_circle: [2407. Longest Increasing Subsequence II](https://leetcode.com/problems/longest-increasing-subsequence-ii/) [<sub><sup> Array, Divide and Conquer, Dynamic Programming, Binary Indexed Tree, Segment Tree, Queue, Monotonic Queue </sup></sub>]
+
+:red_circle: [2426. Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/) [<sub><sup> Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set </sup></sub>]
+
+:red_circle: [2617. Minimum Number of Visited Cells in a Grid](https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid/) [<sub><sup> Array, Binary Search, Dynamic Programming, Stack, Union Find, Binary Indexed Tree, Segment Tree </sup></sub>]
+
+:red_circle: [2659. Make Array Empty](https://leetcode.com/problems/make-array-empty/) [<sub><sup> Array, Binary Search, Greedy, Binary Indexed Tree, Segment Tree, Sorting, Ordered Set </sup></sub>]
+
+:red_circle: [2736. Maximum Sum Queries](https://leetcode.com/problems/maximum-sum-queries/) [<sub><sup> Array, Binary Search, Stack, Binary Indexed Tree, Segment Tree, Sorting, Monotonic Stack </sup></sub>]
+
+:red_circle: [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) [<sub><sup> Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set </sup></sub>]
+
+:red_circle: [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) [<sub><sup> Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set </sup></sub>]
+
+:red_circle: [327. Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/) [<sub><sup> Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set </sup></sub>]
+
+:red_circle: [493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) [<sub><sup> Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set </sup></sub>]
+
+
+
+
 Simulation
 ------
 
