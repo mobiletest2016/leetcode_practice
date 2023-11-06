@@ -872,6 +872,8 @@ Bitmask + Dynamic Programming
 
 :yellow_circle: [526. Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) [<sub><sup> Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2741. Special Permutations](https://leetcode.com/problems/special-permutations/) [<sub><sup> Array, Dynamic Programming, Bit Manipulation, Bitmask </sup></sub>]
+
 :yellow_circle: [698. Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) [<sub><sup> Array, Dynamic Programming, Backtracking, Bit Manipulation, Memoization, Bitmask </sup></sub>]
 
 :red_circle: [1655. Distribute Repeating Integers](https://leetcode.com/problems/distribute-repeating-integers/) [<sub><sup> Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask </sup></sub>]
