@@ -471,6 +471,8 @@ Heap
 
 :yellow_circle:  [2462. Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) [<sub><sup> Array, Two Pointers, Heap (Priority Queue), Simulation </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1424. Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/) [<sub><sup> Array, Sorting, Heap (Priority Queue) </sup></sub>]
+
 :yellow_circle:  [1366. Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/) [<sub><sup> Array, Hash Table, String, Sorting, Counting </sup></sub>]
 
 :yellow_circle:  [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) [<sub><sup> Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix </sup></sub>]
@@ -706,6 +708,8 @@ DFS/BFS
 :yellow_circle: [1462. Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/) [<sub><sup> Depth-First Search, Breadth-First Search, Graph, Topological Sort </sup></sub>]
 
 :yellow_circle:  [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Union Find, Matrix </sup></sub>]
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1424. Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/) [<sub><sup> Array, Sorting, Heap (Priority Queue) </sup></sub>]
 
 :yellow_circle:  [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) [<sub><sup> Tree, Depth-First Search, Breadth-First Search </sup></sub>]
 
