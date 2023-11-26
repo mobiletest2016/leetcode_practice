@@ -315,11 +315,15 @@ Prefix Sum
 
 :yellow_circle:  [78. Subsets](https://leetcode.com/problems/subsets/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
 
+:red_circle: [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) [<sub><sup> Array, Dynamic Programming, Stack, Matrix, Monotonic Stack </sup></sub>]
+
 :yellow_circle:  [2799. Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array/) [<sub><sup> Array, Hash Table, Sliding Window </sup></sub>]
 
 :yellow_circle: [1887. Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) [<sub><sup> Array, Sorting </sup></sub>]
 
 :yellow_circle:  [90. Subsets II](https://leetcode.com/problems/subsets-ii/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1727. Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) [<sub><sup> Array, Greedy, Sorting, Matrix </sup></sub>]
 
 :yellow_circle:  [1962. Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) [<sub><sup> Array, Heap (Priority Queue) </sup></sub>]
 
@@ -1753,5 +1757,3 @@ Simulation
 
 Uncategorized
 ------
-
-:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1727. Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) [<sub><sup> Array, Greedy, Sorting, Matrix </sup></sub>]
