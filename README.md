@@ -1753,3 +1753,5 @@ Simulation
 
 Uncategorized
 ------
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1727. Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) [<sub><sup> Array, Greedy, Sorting, Matrix </sup></sub>]
