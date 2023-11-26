@@ -315,9 +315,9 @@ Prefix Sum
 
 :yellow_circle:  [78. Subsets](https://leetcode.com/problems/subsets/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
 
-:red_circle: [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) [<sub><sup> Array, Dynamic Programming, Stack, Matrix, Monotonic Stack </sup></sub>]
-
 :yellow_circle:  [2799. Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array/) [<sub><sup> Array, Hash Table, Sliding Window </sup></sub>]
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1504. Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/) [<sub><sup> Array, Dynamic Programming, Stack, Matrix, Monotonic Stack </sup></sub>]
 
 :yellow_circle: [1887. Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) [<sub><sup> Array, Sorting </sup></sub>]
 
@@ -342,6 +342,8 @@ Prefix Sum
 :yellow_circle:  [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1001. Grid Illumination](https://leetcode.com/problems/grid-illumination/) [<sub><sup> Array, Hash Table </sup></sub>]
+
+:red_circle: [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) [<sub><sup> Array, Dynamic Programming, Stack, Matrix, Monotonic Stack </sup></sub>]
 
 
 Linked List
