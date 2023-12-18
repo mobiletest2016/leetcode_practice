@@ -47,6 +47,8 @@ Design
 
 :yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [155. Min Stack](https://leetcode.com/problems/min-stack/) [<sub><sup> Stack, Design </sup></sub>]
 
+:yellow_circle: [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) [<sub><sup> Hash Table, Design, Heap (Priority Queue), Ordered Set </sup></sub>]
+
 :yellow_circle:  [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/) [<sub><sup> Array, Linked List, Stack, Design, Doubly-Linked List, Data Stream </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [RPC Log Detect Timeout](https://github.com/mobiletest2016/leetcode_practice/blob/master/rpc_log_detect_timeout.md)
