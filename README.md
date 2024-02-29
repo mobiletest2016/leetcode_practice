@@ -441,6 +441,8 @@ Arrays + Hashing
 
 :green_circle:	 [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) [<sub><sup> Hash Table, String, Sorting </sup></sub>]
 
+:green_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) [<sub><sup> Array, Hash Table, Graph </sup></sub>]
+
 :yellow_circle:  [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) [<sub><sup> Array, Hash Table, String, Sorting </sup></sub>]
 
 :yellow_circle:  [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [<sub><sup> Hash Table, String, Sliding Window </sup></sub>]
