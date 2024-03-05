@@ -501,17 +501,19 @@ Two Pointer
 
 :green_circle:	 [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) [<sub><sup> Array, Two Pointers, Sorting </sup></sub>]
 
-:yellow_circle:  [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) [<sub><sup> Array, Two Pointers, Greedy </sup></sub>]
-
 :green_circle:	 [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) [<sub><sup> Array </sup></sub>]
 
 :green_circle:	 [1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) [<sub><sup> Two Pointers, String </sup></sub>]
 
 :green_circle:	 [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [<sub><sup> Array, Two Pointers </sup></sub>]
 
+:yellow_circle:  [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) [<sub><sup> Array, Two Pointers, Greedy </sup></sub>]
+
 :yellow_circle:  [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) [<sub><sup> Array, Two Pointers, Binary Search, Bit Manipulation </sup></sub>]
 
 :yellow_circle:  [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) [<sub><sup> Array, Two Pointers </sup></sub>]
+
+:yellow_circle: [1750. Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) [<sub><sup> Two Pointers, String </sup></sub>]
 
 :yellow_circle:  [15. 3Sum](https://leetcode.com/problems/3sum/) [<sub><sup> Array, Two Pointers, Sorting </sup></sub>]
 
