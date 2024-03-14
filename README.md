@@ -1306,6 +1306,8 @@ Sub Array/Sub Set/Sub Sequence
 
 :yellow_circle:  [78. Subsets](https://leetcode.com/problems/subsets/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
 
+:yellow_circle: [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) [<sub><sup> Array, Hash Table, Sliding Window, Prefix Sum </sup></sub>]
+
 :yellow_circle:  [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) [<sub><sup> Array, Math, Dynamic Programming, Sorting </sup></sub>]
 
 :yellow_circle:  [90. Subsets II](https://leetcode.com/problems/subsets-ii/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
