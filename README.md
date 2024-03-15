@@ -1789,3 +1789,5 @@ Uncategorized
 ------
 
 :yellow_circle: [375. Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) [<sub><sup> Math, Dynamic Programming, Game Theory </sup></sub>]
+
+:yellow_circle: [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) [<sub><sup> Array, Prefix Sum </sup></sub>]
