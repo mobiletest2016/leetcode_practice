@@ -251,6 +251,8 @@ Prefix Sum
 
 :yellow_circle: [1177. Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/) [<sub><sup> Array, Hash Table, String, Bit Manipulation, Prefix Sum </sup></sub>]
 
+:yellow_circle: [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) [<sub><sup> Array, Prefix Sum </sup></sub>]
+
 :yellow_circle: [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) [<sub><sup> Array, Hash Table, Math, Sliding Window </sup></sub>]
 
 :yellow_circle: [1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) [<sub><sup> Array, Binary Search, Matrix, Prefix Sum </sup></sub>]
@@ -372,6 +374,8 @@ Linked List
 :green_circle:	 [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) [<sub><sup> Hash Table, Linked List, Two Pointers </sup></sub>]
 
 :green_circle:	 [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) [<sub><sup> Linked List, Two Pointers </sup></sub>]
+
+:yellow_circle: [1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) [<sub><sup> Linked List </sup></sub>]
 
 :yellow_circle: [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) [<sub><sup> Linked List </sup></sub>]
 
@@ -946,6 +950,8 @@ Bitmask + Dynamic Programming
 :green_circle:	 [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
 :yellow_circle: [935. Knight Dialer](https://leetcode.com/problems/knight-dialer/) [<sub><sup> Dynamic Programming </sup></sub>]
+
+:yellow_circle: [375. Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) [<sub><sup> Math, Dynamic Programming, Game Theory </sup></sub>]
 
 :yellow_circle: [1014. Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
@@ -1787,9 +1793,3 @@ Simulation
 
 Uncategorized
 ------
-
-:yellow_circle: [375. Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) [<sub><sup> Math, Dynamic Programming, Game Theory </sup></sub>]
-
-:yellow_circle: [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) [<sub><sup> Array, Prefix Sum </sup></sub>]
-
-:yellow_circle: [1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) [<sub><sup> Linked List </sup></sub>]
