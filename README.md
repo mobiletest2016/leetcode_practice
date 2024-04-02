@@ -517,7 +517,7 @@ Two Pointer
 
 :yellow_circle:  [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) [<sub><sup> Array, Two Pointers, Greedy </sup></sub>]
 
-:yellow_circle:  [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) [<sub><sup> Array, Two Pointers, Binary Search, Bit Manipulation </sup></sub>]
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) [<sub><sup> Array, Two Pointers, Binary Search, Bit Manipulation </sup></sub>]
 
 :yellow_circle:  [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) [<sub><sup> Array, Two Pointers </sup></sub>]
 
@@ -635,7 +635,7 @@ Binary Search
 
 :yellow_circle:  [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) [<sub><sup> Array, Binary Search, Sorting, Heap (Priority Queue), Matrix </sup></sub>]
 
-:yellow_circle:  [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) [<sub><sup> Array, Two Pointers, Binary Search, Bit Manipulation </sup></sub>]
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) [<sub><sup> Array, Two Pointers, Binary Search, Bit Manipulation </sup></sub>]
 
 :yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) [<sub><sup> String, Stack, Greedy, Monotonic Stack </sup></sub>]
 
