@@ -1357,6 +1357,8 @@ Sub Array/Sub Set/Sub Sequence
 
 :red_circle:  [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) [<sub><sup> Hash Table, String, Sliding Window </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture>  [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) [<sub><sup> Array, Hash Table, Sliding Window, Counting </sup></sub>]
+
 :red_circle:  [1542. Find Longest Awesome Substring](https://leetcode.com/problems/find-longest-awesome-substring/) [<sub><sup> Hash Table, String, Bit Manipulation </sup></sub>]
 
 :red_circle:  [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) [<sub><sup> Hash Table, String, Sliding Window </sup></sub>]
