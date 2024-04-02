@@ -1365,7 +1365,7 @@ Sub Array/Sub Set/Sub Sequence
 
 :red_circle:  [1163. Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/) [<sub><sup> Two Pointers, String </sup></sub>]
 
-:red_circle:  [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) [<sub><sup> Array, Queue, Sliding Window, Monotonic Queue </sup></sub>]
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) [<sub><sup> Array, Queue, Sliding Window, Monotonic Queue </sup></sub>]
 
 :red_circle:  [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) [<sub><sup> String, Dynamic Programming </sup></sub>]
 
