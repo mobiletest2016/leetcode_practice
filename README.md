@@ -543,6 +543,8 @@ Sliding Window
 
 :yellow_circle:  [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) [<sub><sup> Array, Binary Search, Sliding Window, Prefix Sum </sup></sub>]
 
+:yellow_circle: [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) [<sub><sup> Array, Sliding Window </sup></sub>]
+
 :yellow_circle: [2875. Minimum Size Subarray in Infinite Array](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/) [<sub><sup> Array, Hash Table, Sliding Window, Prefix Sum </sup></sub>]
 
 :yellow_circle: [2958. Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) [<sub><sup> Array, Hash Table, Sliding Window </sup></sub>]
@@ -1318,6 +1320,8 @@ Sub Array/Sub Set/Sub Sequence
 :green_circle:	 [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) [<sub><sup> Two Pointers, String, Dynamic Programming </sup></sub>]
 
 :yellow_circle:  [78. Subsets](https://leetcode.com/problems/subsets/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
+
+:yellow_circle: [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) [<sub><sup> Array, Sliding Window </sup></sub>]
 
 :yellow_circle: [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) [<sub><sup> Array, Hash Table, Sliding Window, Prefix Sum </sup></sub>]
 
