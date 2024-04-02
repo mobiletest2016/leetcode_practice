@@ -545,6 +545,8 @@ Sliding Window
 
 :yellow_circle: [2875. Minimum Size Subarray in Infinite Array](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/) [<sub><sup> Array, Hash Table, Sliding Window, Prefix Sum </sup></sub>]
 
+:yellow_circle: [2958. Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) [<sub><sup> Array, Hash Table, Sliding Window </sup></sub>]
+
 :yellow_circle:  [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) [<sub><sup> Hash Table, Two Pointers, String, Sliding Window </sup></sub>]
 
 :yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture>  [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) [<sub><sup> Array, Hash Table, Binary Search, Sliding Window, Prefix Sum </sup></sub>]
@@ -1318,6 +1320,8 @@ Sub Array/Sub Set/Sub Sequence
 :yellow_circle:  [78. Subsets](https://leetcode.com/problems/subsets/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
 
 :yellow_circle: [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) [<sub><sup> Array, Hash Table, Sliding Window, Prefix Sum </sup></sub>]
+
+:yellow_circle: [2958. Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) [<sub><sup> Array, Hash Table, Sliding Window </sup></sub>]
 
 :yellow_circle:  [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) [<sub><sup> Array, Math, Dynamic Programming, Sorting </sup></sub>]
 
