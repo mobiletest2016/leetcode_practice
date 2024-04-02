@@ -1327,6 +1327,8 @@ Sub Array/Sub Set/Sub Sequence
 
 :yellow_circle:  [646. Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) [<sub><sup> Array, Dynamic Programming, Greedy, Sorting </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2962. Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/) [<sub><sup>  </sup></sub>]
+
 :yellow_circle:  [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) [<sub><sup> Array, Binary Search, Dynamic Programming </sup></sub>]
 
 :yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) [<sub><sup> Array, Hash Table, Union Find </sup></sub>]
