@@ -547,6 +547,20 @@ Sliding Window
 
 :yellow_circle: [2875. Minimum Size Subarray in Infinite Array](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/) [<sub><sup> Array, Hash Table, Sliding Window, Prefix Sum </sup></sub>]
 
+:yellow_circle: [2831. Find the Longest Equal Subarray](https://leetcode.com/problems/find-the-longest-equal-subarray/) [<sub><sup> Array, Hash Table, Binary Search, Sliding Window </sup></sub>]
+
+:yellow_circle: [2779. Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/) [<sub><sup> Array, Binary Search, Sliding Window, Sorting </sup></sub>]
+
+:yellow_circle: [2730. Find the Longest Semi-Repetitive Substring](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/) [<sub><sup> String, Sliding Window </sup></sub>]
+
+:yellow_circle: [2555. Maximize Win From Two Segments](https://leetcode.com/problems/maximize-win-from-two-segments/) [<sub><sup> Array, Binary Search, Sliding Window </sup></sub>]
+
+:yellow_circle: [2537. Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/) [<sub><sup> Array, Hash Table, Sliding Window </sup></sub>]
+
+:yellow_circle: [2401. Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/) [<sub><sup> Array, Bit Manipulation, Sliding Window </sup></sub>]
+
+:yellow_circle: [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) [<sub><sup> Hash Table, String, Sliding Window </sup></sub>]
+
 :yellow_circle: [2958. Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) [<sub><sup> Array, Hash Table, Sliding Window </sup></sub>]
 
 :yellow_circle:  [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) [<sub><sup> Hash Table, Two Pointers, String, Sliding Window </sup></sub>]
@@ -1813,16 +1827,3 @@ Simulation
 Uncategorized
 ------
 
-:yellow_circle: [2831. Find the Longest Equal Subarray](https://leetcode.com/problems/find-the-longest-equal-subarray/) [<sub><sup> Array, Hash Table, Binary Search, Sliding Window </sup></sub>]
-
-:yellow_circle: [2779. Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/) [<sub><sup> Array, Binary Search, Sliding Window, Sorting </sup></sub>]
-
-:yellow_circle: [2730. Find the Longest Semi-Repetitive Substring](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/) [<sub><sup> String, Sliding Window </sup></sub>]
-
-:yellow_circle: [2555. Maximize Win From Two Segments](https://leetcode.com/problems/maximize-win-from-two-segments/) [<sub><sup> Array, Binary Search, Sliding Window </sup></sub>]
-
-:yellow_circle: [2537. Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/) [<sub><sup> Array, Hash Table, Sliding Window </sup></sub>]
-
-:yellow_circle: [2401. Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/) [<sub><sup> Array, Bit Manipulation, Sliding Window </sup></sub>]
-
-:yellow_circle: [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) [<sub><sup> Hash Table, String, Sliding Window </sup></sub>]
