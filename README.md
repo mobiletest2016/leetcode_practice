@@ -1816,3 +1816,5 @@ Uncategorized
 :yellow_circle: [2831. Find the Longest Equal Subarray](https://leetcode.com/problems/find-the-longest-equal-subarray/) [<sub><sup> Array, Hash Table, Binary Search, Sliding Window </sup></sub>]
 
 :yellow_circle: [2779. Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/) [<sub><sup> Array, Binary Search, Sliding Window, Sorting </sup></sub>]
+
+:yellow_circle: [2730. Find the Longest Semi-Repetitive Substring](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/) [<sub><sup> String, Sliding Window </sup></sub>]
