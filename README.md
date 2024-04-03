@@ -1822,3 +1822,5 @@ Uncategorized
 :yellow_circle: [2555. Maximize Win From Two Segments](https://leetcode.com/problems/maximize-win-from-two-segments/) [<sub><sup> Array, Binary Search, Sliding Window </sup></sub>]
 
 :yellow_circle: [2537. Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/) [<sub><sup> Array, Hash Table, Sliding Window </sup></sub>]
+
+:yellow_circle: [2401. Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/) [<sub><sup> Array, Bit Manipulation, Sliding Window </sup></sub>]
