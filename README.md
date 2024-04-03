@@ -1824,3 +1824,5 @@ Uncategorized
 :yellow_circle: [2537. Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/) [<sub><sup> Array, Hash Table, Sliding Window </sup></sub>]
 
 :yellow_circle: [2401. Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/) [<sub><sup> Array, Bit Manipulation, Sliding Window </sup></sub>]
+
+:yellow_circle: [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) [<sub><sup> Hash Table, String, Sliding Window </sup></sub>]
