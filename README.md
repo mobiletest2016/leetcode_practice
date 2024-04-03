@@ -1812,3 +1812,5 @@ Simulation
 
 Uncategorized
 ------
+
+:yellow_circle: [2831. Find the Longest Equal Subarray](https://leetcode.com/problems/find-the-longest-equal-subarray/) [<sub><sup> Array, Hash Table, Binary Search, Sliding Window </sup></sub>]
