@@ -964,6 +964,8 @@ Bitmask + Dynamic Programming
 
 :yellow_circle: [1014. Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
+:yellow_circle: [1043. Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
+
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/) [<sub><sup> Array, Math, Dynamic Programming, Game Theory </sup></sub>]
 
 :yellow_circle:  [91. Decode Ways](https://leetcode.com/problems/decode-ways/) [<sub><sup> String, Dynamic Programming </sup></sub>]
