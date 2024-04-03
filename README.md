@@ -1820,3 +1820,5 @@ Uncategorized
 :yellow_circle: [2730. Find the Longest Semi-Repetitive Substring](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/) [<sub><sup> String, Sliding Window </sup></sub>]
 
 :yellow_circle: [2555. Maximize Win From Two Segments](https://leetcode.com/problems/maximize-win-from-two-segments/) [<sub><sup> Array, Binary Search, Sliding Window </sup></sub>]
+
+:yellow_circle: [2537. Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/) [<sub><sup> Array, Hash Table, Sliding Window </sup></sub>]
