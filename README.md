@@ -171,6 +171,8 @@ Stack/Monotonic Stack
 
 :yellow_circle: [853. Car Fleet](https://leetcode.com/problems/car-fleet/) [<sub><sup> Array, Stack, Sorting, Monotonic Stack </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1541. Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) [<sub><sup> String, Stack, Greedy </sup></sub>]
+
 :yellow_circle: [71. Simplify Path](https://leetcode.com/problems/simplify-path/) [<sub><sup> String, Stack </sup></sub>]
 
 :yellow_circle: [394. Decode String](https://leetcode.com/problems/decode-string/) [<sub><sup> String, Stack, Recursion </sup></sub>]
