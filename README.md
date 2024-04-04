@@ -155,6 +155,8 @@ Stack/Monotonic Stack
 
 :green_circle: [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) [<sub><sup> Array, Stack, Monotonic Stack </sup></sub>]
 
+:green_circle: [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) [<sub><sup> String, Stack </sup></sub>]
+
 :green_circle: [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) [<sub><sup> String, Stack </sup></sub>]
 
 :green_circle: [682. Baseball Game](https://leetcode.com/problems/baseball-game/) [<sub><sup> Array, Stack, Simulation </sup></sub>]
