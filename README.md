@@ -163,6 +163,8 @@ Stack/Monotonic Stack
 
 :yellow_circle: [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) [<sub><sup> Array, Math, Stack </sup></sub>]
 
+:yellow_circle: [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) [<sub><sup> String, Stack, Greedy </sup></sub>]
+
 :yellow_circle: [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) [<sub><sup> String, Stack, Simulation </sup></sub>]
 
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1504. Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/) [<sub><sup> Array, Dynamic Programming, Stack, Matrix, Monotonic Stack </sup></sub>]
