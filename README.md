@@ -163,6 +163,8 @@ Stack/Monotonic Stack
 
 :yellow_circle: [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) [<sub><sup> Array, Math, Stack </sup></sub>]
 
+:yellow_circle: [1111. Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) [<sub><sup> String, Stack </sup></sub>]
+
 :yellow_circle: [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) [<sub><sup> String, Stack </sup></sub>]
 
 :yellow_circle: [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) [<sub><sup> String, Stack, Greedy </sup></sub>]
