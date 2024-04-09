@@ -335,6 +335,8 @@ Arrays
 
 :yellow_circle:  [78. Subsets](https://leetcode.com/problems/subsets/) [<sub><sup> Array, Backtracking, Bit Manipulation </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [274. H-Index](https://leetcode.com/problems/h-index/) [<sub><sup> Array, Sorting, Counting Sort </sup></sub>]
+
 :yellow_circle: [1630. Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/) [<sub><sup> Array, Sorting </sup></sub>]
 
 :yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1814. Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) [<sub><sup> Array, Hash Table, Math, Counting </sup></sub>]
