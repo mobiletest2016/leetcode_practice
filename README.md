@@ -1223,8 +1223,6 @@ Greedy
 
 :yellow_circle: [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) [<sub><sup> Array, Hash Table, Greedy, Sorting, Heap (Priority Queue) </sup></sub>]
 
-:yellow_circle: [134. Gas Station](https://leetcode.com/problems/gas-station/) [<sub><sup> Array, Greedy </sup></sub>]
-
 :yellow_circle: [1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) [<sub><sup> Array, Greedy, Sorting, Heap (Priority Queue) </sup></sub>]
 
 :yellow_circle: [1386. Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) [<sub><sup> Array, Hash Table, Greedy, Bit Manipulation </sup></sub>]
