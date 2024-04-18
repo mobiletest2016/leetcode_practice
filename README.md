@@ -1,5 +1,7 @@
 Question Lists
 -----
+## [Tricky Problems](tricky_probs.md)
+
 ## [ART of DP problems](ART_of_DP.md)
 
 ## [Shuffled neetcode problems](neetcode.md)
