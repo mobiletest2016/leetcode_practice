@@ -259,8 +259,6 @@ Prefix Sum
 
 :green_circle: [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) [<sub><sup> Array, Design, Prefix Sum </sup></sub>]
 
-:yellow_circle: :lock: [325. Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
-
 :yellow_circle: [1177. Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/) [<sub><sup> Array, Hash Table, String, Bit Manipulation, Prefix Sum </sup></sub>]
 
 :yellow_circle: [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) [<sub><sup> Array, Prefix Sum </sup></sub>]
@@ -305,7 +303,7 @@ Prefix Sum
 
 :yellow_circle: [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) [<sub><sup> Array, Hash Table, Math, Prefix Sum </sup></sub>]
 
-:yellow_circle: [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
 
 :yellow_circle: [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) [<sub><sup> Array, Hash Table, Sliding Window, Prefix Sum </sup></sub>]
 
