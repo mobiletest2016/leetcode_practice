@@ -1,3 +1,8 @@
+Dijkstra's
+------
+
+:yellow_circle: [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) [<sub><sup> Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path </sup></sub>]
+
 
 Prefix Sum
 ------
