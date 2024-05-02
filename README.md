@@ -297,7 +297,7 @@ Prefix Sum
 
 :yellow_circle: [1749. Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) [<sub><sup> Array, Dynamic Programming </sup></sub>]
 
-:yellow_circle: [1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/) [<sub><sup> Hash Table, String, Bit Manipulation, Prefix Sum </sup></sub>]
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/) [<sub><sup> Hash Table, String, Bit Manipulation, Prefix Sum </sup></sub>]
 
 :yellow_circle: [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) [<sub><sup> Array, Design, Matrix, Prefix Sum </sup></sub>]
 
