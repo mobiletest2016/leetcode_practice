@@ -1842,3 +1842,5 @@ Simulation
 
 Uncategorized
 ------
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1568. Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Matrix, Strongly Connected Component </sup></sub>]
