@@ -1634,10 +1634,16 @@ Eulerian Path/Eulerian circuit ([Wiki](https://en.wikipedia.org/wiki/Eulerian_pa
 :red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [2097. Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/) [<sub><sup> Depth-First Search, Graph, Eulerian Circuit </sup></sub>]
 
 
-Tarjan's Algorithm ([Wiki](https://en.wikipedia.org/wiki/Tarjan%27s_strongly_connected_components_algorithm))
+Tarjan's Algorithm ([Wiki](https://en.wikipedia.org/wiki/Tarjan%27s_strongly_connected_components_algorithm)) / Articulation Points And Bridges
 ------
 
+:red_circle: [924. Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Union Find, Matrix </sup></sub>]
+
+:red_circle: [928. Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Union Find, Matrix </sup></sub>]
+
 :red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) [<sub><sup> Depth-First Search, Graph, Biconnected Component </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1568. Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Matrix, Strongly Connected Component </sup></sub>]
 
 
 Boyer–Moore majority vote algorithm ([Wiki](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm))
@@ -1842,5 +1848,3 @@ Simulation
 
 Uncategorized
 ------
-
-:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1568. Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/) [<sub><sup> Array, Depth-First Search, Breadth-First Search, Matrix, Strongly Connected Component </sup></sub>]
