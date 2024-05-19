@@ -883,6 +883,8 @@ Binary Tree/Binary Search Tree
 
 :yellow_circle:  [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) [<sub><sup> Binary Search, Tree, Depth-First Search, Binary Tree </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [979. Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) [<sub><sup> Tree, Depth-First Search, Binary Tree </sup></sub>]
+
 :red_circle:  [1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) [<sub><sup> String, Tree, Depth-First Search, Binary Tree </sup></sub>]
 
 :red_circle:  [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) [<sub><sup> Dynamic Programming, Tree, Depth-First Search, Binary Tree </sup></sub>]
