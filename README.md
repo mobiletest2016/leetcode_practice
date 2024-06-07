@@ -903,6 +903,8 @@ Graph/N-ary Tree/Trie
 
 :yellow_circle:  [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) [<sub><sup> Array, String, Trie </sup></sub>]
 
+:yellow_circle: [648. Replace Words](https://leetcode.com/problems/replace-words/) [<sub><sup> Array, Hash Table, String, Trie </sup></sub>]
+
 :yellow_circle:  [1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) [<sub><sup> Graph </sup></sub>]
 
 :yellow_circle:  [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) [<sub><sup> Backtracking, Depth-First Search, Breadth-First Search, Graph </sup></sub>]
