@@ -1,5 +1,8 @@
 Question Lists
 -----
+
+## [Regular Practice](regular_practice.md)
+
 ## [Tricky Problems](tricky_probs.md)
 
 ## [ART of DP problems](ART_of_DP.md)
