@@ -901,6 +901,8 @@ Graph/N-ary Tree/Trie
 
 :yellow_circle:  [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) [<sub><sup> Tree, Breadth-First Search </sup></sub>]
 
+:yellow_circle: [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) [<sub><sup> Hash Table, String, Design, Trie </sup></sub>]
+
 :yellow_circle:  [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) [<sub><sup> Array, String, Trie </sup></sub>]
 
 :yellow_circle: [648. Replace Words](https://leetcode.com/problems/replace-words/) [<sub><sup> Array, Hash Table, String, Trie </sup></sub>]
