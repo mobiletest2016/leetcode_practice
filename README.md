@@ -303,7 +303,7 @@ Prefix Sum
 
 :yellow_circle: [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) [<sub><sup> Tree, Depth-First Search, Binary Tree </sup></sub>]
 
-:yellow_circle: [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) [<sub><sup> Array, Hash Table, Math, Prefix Sum </sup></sub>]
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) [<sub><sup> Array, Hash Table, Math, Prefix Sum </sup></sub>]
 
 :yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
 
