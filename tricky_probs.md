@@ -11,6 +11,8 @@ Prefix Sum
 
 :yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/) [<sub><sup> Hash Table, String, Bit Manipulation, Prefix Sum </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) [<sub><sup> Array, Hash Table, Math, Prefix Sum </sup></sub>]
+
 
 Binary Tree/Binary Search Tree
 ------
