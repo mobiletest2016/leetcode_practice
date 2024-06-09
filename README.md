@@ -312,7 +312,7 @@ Prefix Sum
 
 :yellow_circle: [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) [<sub><sup> Array, Hash Table, Sliding Window, Prefix Sum </sup></sub>]
 
-:yellow_circle: [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture>  [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) [<sub><sup> Array, Hash Table, Prefix Sum </sup></sub>]
 
 :red_circle: [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) [<sub><sup> Array, Hash Table, Matrix, Prefix Sum </sup></sub>]
 
