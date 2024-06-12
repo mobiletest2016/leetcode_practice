@@ -1660,7 +1660,7 @@ Boyer–Moore majority vote algorithm ([Wiki](https://en.wikipedia.org/wiki/Boye
 
 :green_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [169. Majority Element](https://leetcode.com/problems/majority-element/) [<sub><sup> Array, Hash Table, Divide and Conquer, Sorting, Counting </sup></sub>]
 
-:yellow_circle: [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) [<sub><sup> Array, Hash Table, Sorting, Counting </sup></sub>]
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) [<sub><sup> Array, Hash Table, Sorting, Counting </sup></sub>]
 
 
 Meet in the middle

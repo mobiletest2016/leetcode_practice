@@ -1,3 +1,12 @@
+
+Boyer–Moore majority vote algorithm ([Wiki](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm))
+------
+
+:green_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [169. Majority Element](https://leetcode.com/problems/majority-element/) [<sub><sup> Array, Hash Table, Divide and Conquer, Sorting, Counting </sup></sub>]
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) [<sub><sup> Array, Hash Table, Sorting, Counting </sup></sub>]
+
+
 Dijkstra's
 ------
 
@@ -20,6 +29,8 @@ Binary Tree/Binary Search Tree
 ------
 
 :yellow_circle:  [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) [<sub><sup> Tree, Depth-First Search, Binary Tree </sup></sub>]
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [979. Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) [<sub><sup> Tree, Depth-First Search, Binary Tree </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) [<sub><sup> Dynamic Programming, Tree, Depth-First Search, Binary Tree </sup></sub>]
 
