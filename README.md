@@ -5,6 +5,8 @@ Question Lists
 
 ## [Tricky Problems](tricky_probs.md)
 
+## [Must Do](must_do.md)
+
 ## [ART of DP problems](ART_of_DP.md)
 
 ## [Shuffled neetcode problems](neetcode.md)
