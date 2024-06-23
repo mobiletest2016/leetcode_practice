@@ -578,6 +578,8 @@ Sliding Window
 
 :yellow_circle: [2537. Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/) [<sub><sup> Array, Hash Table, Sliding Window </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) [<sub><sup> Array, Queue, Sliding Window, Heap (Priority Queue), Ordered Set, Monotonic Queue </sup></sub>]
+
 :yellow_circle: [2401. Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/) [<sub><sup> Array, Bit Manipulation, Sliding Window </sup></sub>]
 
 :yellow_circle: [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) [<sub><sup> Hash Table, String, Sliding Window </sup></sub>]
@@ -1368,6 +1370,8 @@ Sub Array/Sub Set/Sub Sequence
 
 :yellow_circle: [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) [<sub><sup> Array, Hash Table, Sliding Window, Prefix Sum </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) [<sub><sup> Array, Queue, Sliding Window, Heap (Priority Queue), Ordered Set, Monotonic Queue </sup></sub>]
+
 :yellow_circle: [2958. Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) [<sub><sup> Array, Hash Table, Sliding Window </sup></sub>]
 
 :yellow_circle:  [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) [<sub><sup> Array, Math, Dynamic Programming, Sorting </sup></sub>]
@@ -1861,5 +1865,3 @@ Simulation
 
 Uncategorized
 ------
-
-:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) [<sub><sup> Array, Queue, Sliding Window, Heap (Priority Queue), Ordered Set, Monotonic Queue </sup></sub>]
