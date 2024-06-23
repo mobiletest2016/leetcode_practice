@@ -1428,6 +1428,8 @@ Sub Array/Sub Set/Sub Sequence
 
 :red_circle:  [1923. Longest Common Subpath](https://leetcode.com/problems/longest-common-subpath/) [<sub><sup> Array, Binary Search, Rolling Hash, Suffix Array, Hash Function </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture>   [1425. Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/) [<sub><sup> Array, Dynamic Programming, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue </sup></sub>]
+
 
 Math
 ------
