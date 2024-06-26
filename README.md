@@ -552,6 +552,8 @@ Two Pointer
 Sliding Window
 ------
 
+:green_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) [<sub><sup> Array, Hash Table, Sliding Window </sup></sub>]
+
 :green_circle:	 [1876. Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) [<sub><sup> Hash Table, String, Sliding Window, Counting </sup></sub>]
 
 :green_circle:	 [2379. Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) [<sub><sup> String, Sliding Window </sup></sub>]
