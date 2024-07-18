@@ -874,6 +874,8 @@ Binary Tree/Binary Search Tree
 
 :yellow_circle:  [814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) [<sub><sup> Tree, Depth-First Search, Binary Tree </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1530. Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/) [<sub><sup> Tree, Depth-First Search, Binary Tree </sup></sub>]
+
 :yellow_circle:  [1457. Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) [<sub><sup> Bit Manipulation, Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
 
 :yellow_circle:  [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/) [<sub><sup> Backtracking, Tree, Depth-First Search, Binary Tree </sup></sub>]
