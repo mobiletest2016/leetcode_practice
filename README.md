@@ -852,6 +852,8 @@ Binary Tree/Binary Search Tree
 
 :yellow_circle:  [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) [<sub><sup> Tree, Depth-First Search, Binary Search Tree, Binary Tree </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2096. Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) [<sub><sup> String, Tree, Depth-First Search, Binary Tree </sup></sub>]
+
 :yellow_circle:  [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) [<sub><sup> Tree, Depth-First Search, Breadth-First Search, Binary Tree </sup></sub>]
 
 :yellow_circle:  [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) [<sub><sup> Dynamic Programming, Backtracking, Tree, Binary Search Tree, Binary Tree </sup></sub>]
