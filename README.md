@@ -564,6 +564,8 @@ Sliding Window
 
 :yellow_circle: [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) [<sub><sup> Array, Sliding Window </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2134. Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) [<sub><sup> Array, Sliding Window </sup></sub>]
+
 :yellow_circle: [2875. Minimum Size Subarray in Infinite Array](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/) [<sub><sup> Array, Hash Table, Sliding Window, Prefix Sum </sup></sub>]
 
 :yellow_circle: [2831. Find the Longest Equal Subarray](https://leetcode.com/problems/find-the-longest-equal-subarray/) [<sub><sup> Array, Hash Table, Binary Search, Sliding Window </sup></sub>]
