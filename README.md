@@ -1514,6 +1514,8 @@ Union Find
 
 :yellow_circle: [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) [<sub><sup> Depth-First Search, Breadth-First Search, Union Find, Graph </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) [<sub><sup> Hash Table, Depth-First Search, Union Find, Graph </sup></sub>]
+
 :yellow_circle: [721. Accounts Merge](https://leetcode.com/problems/accounts-merge/) [<sub><sup> Array, String, Depth-First Search, Breadth-First Search, Union Find </sup></sub>]
 
 :yellow_circle: :lock: [737. Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/) [<sub><sup> Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union Find </sup></sub>]
