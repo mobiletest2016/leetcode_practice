@@ -262,6 +262,8 @@ Prefix Sum
 
 :green_circle: [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) [<sub><sup> Array, Design, Prefix Sum </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2559. Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/) [<sub><sup> Array, String, Prefix Sum </sup></sub>]
+
 :yellow_circle: [1177. Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/) [<sub><sup> Array, Hash Table, String, Bit Manipulation, Prefix Sum </sup></sub>]
 
 :yellow_circle: [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) [<sub><sup> Array, Prefix Sum </sup></sub>]
