@@ -92,6 +92,8 @@ Sweep Line
 
 :yellow_circle:  [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) [<sub><sup> Array, Backtracking </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/) [<sub><sup> Array, String, Prefix Sum </sup></sub>]
+
 :yellow_circle:  [39. Combination Sum](https://leetcode.com/problems/combination-sum/) [<sub><sup> Array, Backtracking </sup></sub>]
 
 :yellow_circle:  [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) [<sub><sup> Array, Backtracking </sup></sub>]
