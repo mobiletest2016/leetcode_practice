@@ -452,6 +452,8 @@ String
 
 :yellow_circle:  [443. String Compression](https://leetcode.com/problems/string-compression/) [<sub><sup> Two Pointers, String </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [916. Word Subsets](https://leetcode.com/problems/word-subsets/) [<sub><sup> Array, Hash Table, String </sup></sub>]
+
 :yellow_circle:  [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) [<sub><sup> Hash Table, String, Sorting </sup></sub>]
 
 :yellow_circle:  [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) [<sub><sup> String </sup></sub>]
