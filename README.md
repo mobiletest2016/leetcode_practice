@@ -456,6 +456,8 @@ String
 
 :yellow_circle:  [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) [<sub><sup> Hash Table, String, Sorting </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1400. Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/) [<sub><sup> Hash Table, String, Greedy, Counting </sup></sub>]
+
 :yellow_circle:  [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) [<sub><sup> String </sup></sub>]
 
 :red_circle:  [1531. String Compression II](https://leetcode.com/problems/string-compression-ii/) [<sub><sup> String, Dynamic Programming </sup></sub>]
@@ -1212,6 +1214,8 @@ Greedy
 
 :green_circle: [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/) [<sub><sup> Array, Greedy </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1400. Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/) [<sub><sup> Hash Table, String, Greedy, Counting </sup></sub>]
+
 :yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2844. Minimum Operations to Make a Special Number](https://leetcode.com/problems/minimum-operations-to-make-a-special-number/) [<sub><sup>  </sup></sub>]
 
 :yellow_circle:  [1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) [<sub><sup> Array, String, Dynamic Programming, Greedy </sup></sub>]
@@ -1251,8 +1255,6 @@ Greedy
 :yellow_circle: [1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) [<sub><sup> Array, Greedy, Sorting, Heap (Priority Queue) </sup></sub>]
 
 :yellow_circle: [1386. Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) [<sub><sup> Array, Hash Table, Greedy, Bit Manipulation </sup></sub>]
-
-:yellow_circle: [1400. Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/) [<sub><sup> Hash Table, String, Greedy, Counting </sup></sub>]
 
 :yellow_circle: [1405. Longest Happy String](https://leetcode.com/problems/longest-happy-string/) [<sub><sup> String, Greedy, Heap (Priority Queue) </sup></sub>]
 
