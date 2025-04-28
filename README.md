@@ -622,6 +622,8 @@ Sliding Window
 
 :yellow_circle:  [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) [<sub><sup> Array, Hash Table, Sliding Window, Prefix Sum </sup></sub>]
 
+:red_circle: [2302. Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/) [<sub><sup> Array, Binary Search, Sliding Window, Prefix Sum </sup></sub>]
+
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture>  [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) [<sub><sup> Array, Hash Table, Sliding Window, Counting </sup></sub>]
 
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [862. Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) [<sub><sup> Array, Binary Search, Queue, Sliding Window, Heap (Priority Queue), Prefix Sum, Monotonic Queue </sup></sub>]
