@@ -1885,3 +1885,5 @@ Simulation
 
 Uncategorized
 ------
+
+:green_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2094. Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) [<sub><sup> Array, Hash Table, Sorting, Enumeration </sup></sub>]
