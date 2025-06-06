@@ -1893,3 +1893,5 @@ Uncategorized
 :yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2131. Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) [<sub><sup> Array, Hash Table, String, Greedy, Counting </sup></sub>]
 
 :red_circle: [1298. Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/) [<sub><sup> Array, Breadth-First Search, Graph </sup></sub>]
+
+:yellow_circle: [2434. Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) [<sub><sup> Hash Table, String, Stack, Greedy </sup></sub>]
