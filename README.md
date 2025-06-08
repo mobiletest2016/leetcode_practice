@@ -768,6 +768,8 @@ Binary Search
 DFS/BFS
 ------
 
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) [<sub><sup> Depth-First Search, Trie </sup></sub>]
+
 :yellow_circle:  [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) [<sub><sup> Array, Breadth-First Search, Matrix </sup></sub>]
 
 :yellow_circle:  [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) [<sub><sup> Depth-First Search, Breadth-First Search, Graph </sup></sub>]
