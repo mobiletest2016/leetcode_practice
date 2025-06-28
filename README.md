@@ -502,6 +502,8 @@ Arrays + Hashing
 Heap
 ------
 
+:green_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2099. Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) [<sub><sup> Array, Hash Table, Sorting, Heap (Priority Queue) </sup></sub>]
+
 :green_circle:	 [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) [<sub><sup> Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream </sup></sub>]
 
 :green_circle:	 [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) [<sub><sup> Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream </sup></sub>]
