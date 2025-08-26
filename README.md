@@ -1901,3 +1901,5 @@ Uncategorized
 :yellow_circle: [2434. Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) [<sub><sup> Hash Table, String, Stack, Greedy </sup></sub>]
 
 :green_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) [<sub><sup> Array, Two Pointers </sup></sub>]
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) [<sub><sup> Array, Matrix, Simulation </sup></sub>]
