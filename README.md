@@ -43,6 +43,84 @@ Links
 [Introduction to Fenwick Tree/Binary Indexed Tree(BIT)](https://leetcode.com/discuss/general-discussion/1093346)
 
 
+Categories
+------
+
+***[Uncategorized](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#uncategorized)***
+
+***[Design](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#design)***
+
+***[Concurrency](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#concurrency)***
+
+***[Sweep Line](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#sweep-line)***
+
+***[Stack/Monotonic Stack](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#stackmonotonic-stack)***
+
+***[Prefix Sum](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#prefix-sum)***
+
+***[Arrays](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#arrays)***
+
+***[Linked List](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#linked-list)***
+
+***[String](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#string)***
+
+***[Arrays + Hashing](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#arrays--hashing)***
+
+***[Heap](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#heap)***
+
+***[Two Pointer](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#two-pointer)***
+
+***[Sliding Window](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#sliding-window)***
+
+***[Binary Search](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#binary-search)***
+
+***[DFS/BFS](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#dfsbfs)***
+
+***[Binary Tree/Binary Search Tree](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#binary-treebinary-search-tree)***
+
+***[Graph/N-ary Tree/Trie](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#graphn-ary-treetrie)***
+
+***[Bitmask + Dynamic Programming](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#bitmask--dynamic-programming)***
+
+***[[1]/1D Array + Dynamic Programming](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#11d-array--dynamic-programming)***
+
+***[2D/nD Array + Dynamic Programming](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#2dnd-array--dynamic-programming)***
+
+***[String + Dynamic Programming](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#string--dynamic-programming)***
+
+***[Greedy](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#greedy)***
+
+***[Intervals](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#intervals)***
+
+***[Backtracking](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#backtracking)***
+
+***[Sub Array/Sub Set/Sub Sequence](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#sub-arraysub-setsub-sequence)***
+
+***[Math](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#math)***
+
+***[Union Find](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#union-find)***
+
+***[Dijkstra's](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#dijkstras)***
+
+***[Minimum Spanning Tree](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#minimum-spanning-tree)***
+
+***[Floyd-Warshall's](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#floyd-warshalls)***
+
+***[Eulerian Path/Eulerian circuit [Wiki]](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#eulerian-patheulerian-circuit-wiki)***
+
+***[Tarjan's Algorithm [Wiki] / Articulation Points And Bridges](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#tarjans-algorithm-wiki--articulation-points-and-bridges)***
+
+***[Boyer–Moore majority vote algorithm [Wiki]](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#boyermoore-majority-vote-algorithm-wiki)***
+
+***[Meet in the middle](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#meet-in-the-middle)***
+
+***[Segment Tree](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#segment-tree)***
+
+***[Binary Indexed Tree [BIT]/Fenwick Tree](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file#binary-indexed-tree-bitfenwick-tree)***
+
+***[Simulation](https://github.com/mobiletest2016/leetcode_practice/tree/master?tab=readme-ov-file?tab=readme-ov-file#simulation)***
+
+
 Design
 ------
 
