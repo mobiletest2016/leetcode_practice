@@ -252,6 +252,8 @@ Stack/Monotonic Stack
 
 :yellow_circle: [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) [<sub><sup> Array, Math, Stack </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [3542. Minimum Operations to Convert All Elements to Zero](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/) [<sub><sup> Array, Hash Table, Stack, Greedy, Monotonic Stack </sup></sub>]
+
 :yellow_circle: [1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) [<sub><sup> String, Stack </sup></sub>]
 
 :yellow_circle: [1111. Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) [<sub><sup> String, Stack </sup></sub>]
