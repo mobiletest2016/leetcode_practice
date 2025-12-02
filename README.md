@@ -1987,3 +1987,5 @@ Uncategorized
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) [<sub><sup> Array, Matrix, Simulation </sup></sub>]
 
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [3623. Count Number of Trapezoids I](https://leetcode.com/problems/count-number-of-trapezoids-i/) [<sub><sup> Array, Hash Table, Math, Geometry </sup></sub>]
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [3625. Count Number of Trapezoids II](https://leetcode.com/problems/count-number-of-trapezoids-ii/) [<sub><sup> Array, Hash Table, Math, Geometry </sup></sub>]
