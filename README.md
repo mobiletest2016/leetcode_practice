@@ -1541,7 +1541,7 @@ Sub Array/Sub Set/Sub Sequence
 :red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture>   [1425. Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/) [<sub><sup> Array, Dynamic Programming, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue </sup></sub>]
 
 
-Math
+Math/Geometry
 ------
 
 :green_circle:	 [258. Add Digits](https://leetcode.com/problems/add-digits/) [<sub><sup> Math, Simulation, Number Theory </sup></sub>]
@@ -1588,6 +1588,8 @@ Math
 
 :yellow_circle:  [808. Soup Servings](https://leetcode.com/problems/soup-servings/) [<sub><sup> Math, Dynamic Programming, Probability and Statistics </sup></sub>]
 
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [3623. Count Number of Trapezoids I](https://leetcode.com/problems/count-number-of-trapezoids-i/) [<sub><sup> Array, Hash Table, Math, Geometry </sup></sub>]
+
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2849. Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/) [<sub><sup> Math </sup></sub>]
 
 :yellow_circle:  [1680. Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) [<sub><sup> Math, Bit Manipulation, Simulation </sup></sub>]
@@ -1604,6 +1606,7 @@ Math
 
 :red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [564. Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/) [<sub><sup> Math, String </sup></sub>]
 
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [3625. Count Number of Trapezoids II](https://leetcode.com/problems/count-number-of-trapezoids-ii/) [<sub><sup> Array, Hash Table, Math, Geometry </sup></sub>]
 
 Union Find
 ------
@@ -1986,6 +1989,3 @@ Uncategorized
 
 :yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) [<sub><sup> Array, Matrix, Simulation </sup></sub>]
 
-:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [3623. Count Number of Trapezoids I](https://leetcode.com/problems/count-number-of-trapezoids-i/) [<sub><sup> Array, Hash Table, Math, Geometry </sup></sub>]
-
-:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [3625. Count Number of Trapezoids II](https://leetcode.com/problems/count-number-of-trapezoids-ii/) [<sub><sup> Array, Hash Table, Math, Geometry </sup></sub>]
